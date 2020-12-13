@@ -115,8 +115,11 @@ Plotting
 ggplot(data %>% group_by(work),aes(date,cum_wc))+
   geom_smooth(aes(group=author,col=author),method="lm",fill=NA,formula=y~x,size=0.1, fullrange=T)+
   geom_line(aes(col=author))+
-  coord_cartesian(ylim=c(0,NA))+
   scale_y_continuous(labels = unit_format(unit = "M", scale = 1e-6))+
+  geom_dl(aes(label = author, col=author), method = list(cex=0.8,"last.bumpup"))+
+  coord_cartesian(ylim=c(0,NA))+
+  expand_limits(x = as.POSIXct.Date(as.Date("2030-01-01")))+
+  scale_color_discrete(guide="none")+
   labs(
     title ="Cumulative Wordcount of Authors Over Time"
     )+

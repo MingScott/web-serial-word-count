@@ -1,0 +1,272 @@
+date,wordcount,chapter,work
+2017-09-11,7723,Daybreak – 1.1,Ward
+2017-11-14,4847,Daybreak – 1.2,Ward
+2017-11-18,5395,Daybreak – 1.3,Ward
+2017-11-21,5585,Daybreak – 1.4,Ward
+2017-11-25,5058,Daybreak – 1.5,Ward
+2017-11-28,5156,Daybreak – 1.6,Ward
+2017-11-30,6636,Daybreak – 1.7,Ward
+2017-12-01,5738,Daybreak – 1.8,Ward
+2017-12-05,7571,Daybreak – Interlude 1,Ward
+2017-12-09,7173,Flare – 2.1,Ward
+2017-12-12,5897,Flare – 2.2,Ward
+2017-12-16,6202,Flare – 2.3,Ward
+2017-12-19,7319,Flare – 2.4,Ward
+2017-12-23,10656,Flare – 2.5,Ward
+2017-12-26,11236,Flare – 2.6,Ward
+2017-12-30,6241,Flare – 2.7,Ward
+2018-01-02,6566,Flare – Interlude 2,Ward
+2018-01-06,5262,Glare – 3.1,Ward
+2018-01-09,5896,Glare – 3.2,Ward
+2018-01-13,9254,Glare – 3.3,Ward
+2018-01-16,5379,Glare – 3.4,Ward
+2018-01-20,6925,Glare – 3.5,Ward
+2018-01-23,6842,Glare – 3.6,Ward
+2018-01-25,8714,Glare – Interlude 3,Ward
+2018-01-27,5773,Shade – 4.1,Ward
+2018-01-30,8272,Shade – 4.2,Ward
+2018-02-03,7642,Shade – 4.3,Ward
+2018-02-06,9271,Shade – Interlude 4a,Ward
+2018-02-08,10061,Shade – 4.4,Ward
+2018-02-10,8810,Shade – 4.5,Ward
+2018-02-13,10674,Shade – Interlude 4b,Ward
+2018-02-17,8728,Shade – 4.6,Ward
+2018-02-20,7328,Shade – 4.7,Ward
+2018-02-22,10679,Shade – Interlude 4c,Ward
+2018-02-24,7199,Shadow – 5.1,Ward
+2018-02-27,5894,Shadow – 5.2,Ward
+2018-03-03,6534,Shadow – 5.3,Ward
+2018-03-06,6759,Shadow – 5.4,Ward
+2018-03-10,8442,Shadow – 5.5,Ward
+2018-03-13,10825,Shadow – Interlude 5d,Ward
+2018-03-17,10395,Shadow – 5.6,Ward
+2018-03-20,5865,Shadow – 5.7,Ward
+2018-03-22,5891,Shadow – 5.8,Ward
+2018-03-24,8621,Shadow – 5.9,Ward
+2018-03-27,7076,Shadow – 5.10,Ward
+2018-03-31,5303,Shadow – 5.11,Ward
+2018-04-03,8058,Shadow – 5.12,Ward
+2018-04-07,7317,Shadow – Interlude 5.x,Ward
+2018-04-10,7643,Shadow – Interlude 5.y,Ward
+2018-04-14,6026,Pitch – 6.1,Ward
+2018-04-17,5529,Pitch – 6.2,Ward
+2018-04-21,5843,Pitch – 6.3,Ward
+2018-04-24,5710,Pitch – 6.4,Ward
+2018-04-28,8183,Pitch – 6.5,Ward
+2018-05-01,6396,Pitch – 6.6,Ward
+2018-05-05,5817,Pitch – 6.7,Ward
+2018-05-08,7584,Pitch – 6.8,Ward
+2018-05-11,6688,Pitch – 6.9,Ward
+2018-05-15,5359,Torch – 7.1,Ward
+2018-05-19,6359,Torch – 7.2,Ward
+2018-05-22,6816,Torch – 7.3,Ward
+2018-05-26,2928,Torch – 7.4,Ward
+2018-05-26,6793,Eclipse – x.1,Ward
+2018-05-27,5575,Eclipse – x.2,Ward
+2018-05-28,6707,Eclipse – x.3,Ward
+2018-05-29,7082,Eclipse – x.4,Ward
+2018-05-30,7061,Eclipse – x.5,Ward
+2018-05-31,6216,Eclipse – x.6,Ward
+2018-06-01,7762,Eclipse – x.7,Ward
+2018-06-02,7349,Eclipse – x.8,Ward
+2018-06-05,5918,Torch – 7.5,Ward
+2018-06-09,6771,Torch – 7.6,Ward
+2018-06-12,6244,Torch – 7.7,Ward
+2018-06-16,6761,Torch – 7.8,Ward
+2018-06-19,6339,Torch – 7.9,Ward
+2018-06-23,9483,Torch – 7.10,Ward
+2018-06-26,12972,Torch – Interlude 7.x,Ward
+2018-06-30,9449,Torch – Interlude 7.y,Ward
+2018-07-03,5848,Beacon – 8.1,Ward
+2018-07-07,5480,Beacon – 8.2,Ward
+2018-07-10,6085,Beacon – 8.3,Ward
+2018-07-14,6671,Beacon – 8.4,Ward
+2018-07-17,7031,Beacon – 8.5,Ward
+2018-07-21,6140,Beacon – 8.6,Ward
+2018-07-24,5730,Beacon – 8.7,Ward
+2018-07-28,5256,Beacon – 8.8,Ward
+2018-07-31,5527,Beacon – 8.9,Ward
+2018-08-04,5938,Beacon – 8.10,Ward
+2018-08-07,5277,Beacon – 8.11,Ward
+2018-08-11,6304,Beacon – 8.12,Ward
+2018-08-14,6827,Beacon – Interlude 8.x,Ward
+2018-08-18,7587,Beacon – Interlude 8.y,Ward
+2018-08-21,5590,Gleaming – 9.1,Ward
+2018-08-25,5531,Gleaming – 9.2,Ward
+2018-08-28,6426,Gleaming – 9.3,Ward
+2018-09-01,6325,Gleaming – 9.4,Ward
+2018-09-04,5826,Gleaming – 9.5,Ward
+2018-09-08,5637,Gleaming – 9.6,Ward
+2018-09-11,5947,Gleaming – 9.7,Ward
+2018-09-13,14553,Gleaming – Interlude 9.x,Ward
+2018-09-15,5757,Gleaming – 9.8,Ward
+2018-09-18,7259,Gleaming – 9.9,Ward
+2018-09-22,10032,Gleaming – Interlude 9.y,Ward
+2018-09-25,6005,Gleaming – 9.10,Ward
+2018-09-29,9466,Gleaming – 9.11,Ward
+2018-10-02,6603,Gleaming – 9.12,Ward
+2018-10-06,6488,Gleaming – 9.13,Ward
+2018-10-09,7812,Gleaming – 9.14,Ward
+2018-10-13,8480,Gleaming – 9.15,Ward
+2018-10-16,10511,Gleaming – Interlude 9.z,Ward
+2018-10-20,10961,Gleaming – Interlude 9,Ward
+2018-10-23,5625,Polarize – 10.1,Ward
+2018-10-27,8137,Polarize – 10.2,Ward
+2018-10-30,5723,Polarize – 10.3,Ward
+2018-11-03,6043,Polarize – 10.4,Ward
+2018-11-06,5485,Polarize – 10.5,Ward
+2018-11-10,5776,Polarize – 10.6,Ward
+2018-11-13,5521,Polarize – 10.7,Ward
+2018-11-17,6812,Polarize – 10.8,Ward
+2018-11-20,5541,Polarize – 10.9,Ward
+2018-11-24,8192,Interlude 10.x,Ward
+2018-11-27,6033,Polarize – 10.10,Ward
+2018-12-01,6425,Polarize – 10.11,Ward
+2018-12-04,5584,Polarize – 10.12,Ward
+2018-12-08,8582,Polarize – 10.13,Ward
+2018-12-11,9516,Interlude 10.y,Ward
+2018-12-15,7447,Interlude 10.z,Ward
+2018-12-18,7491,Blinding – 11.1,Ward
+2018-12-22,6992,Blinding – 11.2,Ward
+2018-12-25,8849,Blinding – 11.3,Ward
+2018-12-29,6650,Interlude – 11.a,Ward
+2019-01-01,5750,Blinding – 11.4,Ward
+2019-01-05,5841,Blinding – 11.5,Ward
+2019-01-08,8113,Blinding – 11.6,Ward
+2019-01-12,7239,Blinding – 11.7,Ward
+2019-01-15,8657,Blinding – 11.8,Ward
+2019-01-19,7243,Interlude – 11.b,Ward
+2019-01-22,9754,Interlude – 11.c,Ward
+2019-01-26,5743,Blinding – 11.9,Ward
+2019-01-29,6337,Blinding – 11.10,Ward
+2019-02-02,10818,Blinding – 11.11,Ward
+2019-02-05,7514,Blinding – 11.12,Ward
+2019-02-09,11136,Interlude – 12.z,Ward
+2019-02-12,6886,Heavens – 12.1,Ward
+2019-02-16,7401,Heavens – 12.2,Ward
+2019-02-19,11703,Interlude 12.e,Ward
+2019-02-23,7615,Heavens – 12.3,Ward
+2019-02-26,7455,Heavens – 12.4,Ward
+2019-03-02,6837,Heavens – 12.all,Ward
+2019-03-05,8014,Heavens – 12.5,Ward
+2019-03-09,6079,Heavens – 12.6,Ward
+2019-03-12,9114,Heavens – 12.f,Ward
+2019-03-16,9392,Heavens – 12.7,Ward
+2019-03-19,7335,Heavens – 12.8,Ward
+2019-03-23,8739,Heavens – 12.9,Ward
+2019-03-26,11077,Heavens – 12.none,Ward
+2019-03-29,9720,Heavens – 12.x,Ward
+2019-04-02,7558,Black – 13.1,Ward
+2019-04-05,8303,Black – 13.2,Ward
+2019-04-09,6708,Black – 13.3,Ward
+2019-04-13,5684,Black – 13.4,Ward
+2019-04-16,7481,Black – 13.5,Ward
+2019-04-20,7969,Black – 13.6,Ward
+2019-04-23,6801,Black – 13.7,Ward
+2019-04-27,8581,Black – 13.8,Ward
+2019-04-30,7631,Black – 13.x,Ward
+2019-05-04,7653,Black – 13.9,Ward
+2019-05-07,9025,Black – 13.10,Ward
+2019-05-11,9511,Black – 13.11,Ward
+2019-05-14,12811,Black – 13.z,Ward
+2019-05-18,7381,Breaking – 14.1,Ward
+2019-05-21,7816,Breaking – 14.2,Ward
+2019-05-25,6232,Breaking – 14.3,Ward
+2019-05-28,6450,Breaking – 14.4,Ward
+2019-06-01,6602,Breaking – 14.5,Ward
+2019-06-04,7933,Breaking – 14.6,Ward
+2019-06-08,7734,Breaking – 14.7,Ward
+2019-06-11,7734,Breaking – 14.8,Ward
+2019-06-15,7791,Breaking – 14.9,Ward
+2019-06-18,7292,Breaking – 14.10,Ward
+2019-06-22,6474,Breaking – 14.11,Ward
+2019-06-25,7034,Breaking – 14.12,Ward
+2019-06-29,7574,Breaking – 14.z,Ward
+2019-07-02,8976,Dying – 15.a,Ward
+2019-07-06,7207,Dying – 15.1,Ward
+2019-07-09,8087,Dying – 15.2,Ward
+2019-07-13,7686,Dying – 15.3,Ward
+2019-07-16,7969,Dying – 15.4,Ward
+2019-07-20,7526,Dying – 15.5,Ward
+2019-07-23,7498,Dying – 15.6,Ward
+2019-07-27,5657,Dying – 15.7,Ward
+2019-07-30,7266,Dying – 15.8,Ward
+2019-08-03,8088,Dying – 15.x,Ward
+2019-08-06,7960,Dying – 15.y,Ward
+2019-08-10,9985,Dying – 15.z,Ward
+2019-08-13,7178,From Within – 16.1,Ward
+2019-08-17,6650,From Within – 16.2,Ward
+2019-08-20,5743,From Within – 16.3,Ward
+2019-08-24,7205,From Within – 16.4,Ward
+2019-08-27,5955,From Within – 16.5,Ward
+2019-08-31,8418,From Within – 16.6,Ward
+2019-09-03,7074,From Within – 16.7,Ward
+2019-09-07,10024,From Within – 16.8,Ward
+2019-09-10,6866,From Within – 16.9,Ward
+2019-09-14,7666,From Within – 16.10,Ward
+2019-09-17,5945,From Within – 16.11,Ward
+2019-09-21,8392,From Within – 16.12,Ward
+2019-09-24,10324,From Within – 16.y,Ward
+2019-09-28,9175,From Within – 16.z,Ward
+2019-10-01,9556,Sundown – 17.1,Ward
+2019-10-05,7484,Sundown – 17.2,Ward
+2019-10-08,7017,Sundown – 17.3,Ward
+2019-10-12,9739,Sundown – 17.4,Ward
+2019-10-15,7710,Sundown – 17.5,Ward
+2019-10-19,9201,Sundown – 17.6,Ward
+2019-10-22,6486,Sundown – 17.7,Ward
+2019-10-26,9674,Sundown – 17.8,Ward
+2019-10-29,7742,Sundown – 17.9,Ward
+2019-11-02,7506,Sundown – 17.10,Ward
+2019-11-05,10240,Interlude 17.x (Sundown),Ward
+2019-11-09,11836,Interlude 17.y (Sundown),Ward
+2019-11-12,10144,Interlude 17.z (Sundown),Ward
+2019-11-16,6296,Radiation – 18.1,Ward
+2019-11-19,9484,Radiation – 18.2,Ward
+2019-11-23,6825,Radiation – 18.3,Ward
+2019-11-26,8782,Radiation – 18.4,Ward
+2019-11-30,7441,Radiation – 18.5,Ward
+2019-12-03,9013,Radiation – 18.6,Ward
+2019-12-07,8883,Radiation – 18.7,Ward
+2019-12-10,9736,Radiation – 18.8,Ward
+2019-12-14,7697,Radiation – 18.9,Ward
+2019-12-17,5414,Radiation – 18.10,Ward
+2019-12-21,8448,Interlude 18.z (Radiation),Ward
+2019-12-24,7966,Infrared – 19.1,Ward
+2019-12-28,5864,Infrared – 19.2,Ward
+2020-01-01,9449,Interlude 19.a,Ward
+2020-01-04,5901,Infrared – 19.3,Ward
+2020-01-07,7087,Infrared – 19.4,Ward
+2020-01-11,8188,Infrared – 19.b,Ward
+2020-01-14,9982,Infrared – 19.c,Ward
+2020-01-18,6245,Infrared – 19.5,Ward
+2020-01-21,8342,Infrared – 19.6,Ward
+2020-01-25,7900,Infrared – 19.d,Ward
+2020-01-28,7472,Infrared – 19.e,Ward
+2020-02-02,5604,Infrared – 19.7,Ward
+2020-02-04,5843,Infrared – 19.8,Ward
+2020-02-08,5877,Infrared – 19.9,Ward
+2020-02-11,7686,Infrared – 19.f,Ward
+2020-02-15,5891,Infrared – 19.10,Ward
+2020-02-18,6896,Infrared – 19.g,Ward
+2020-02-23,6824,Infrared – 19.z,Ward
+2020-02-25,6018,Last – 20.1,Ward
+2020-02-29,5591,Last – 20.2,Ward
+2020-03-03,6017,Last – 20.3,Ward
+2020-03-07,5410,Last – 20.4,Ward
+2020-03-10,5291,Last – 20.5,Ward
+2020-03-15,5685,Last – 20.6,Ward
+2020-03-17,6641,Last – 20.7,Ward
+2020-03-21,6460,Last – 20.8,Ward
+2020-03-24,5532,Last – 20.9,Ward
+2020-03-28,5107,Last – 20.a,Ward
+2020-03-31,6494,Last – 20.10,Ward
+2020-04-04,6873,Last – 20.b,Ward
+2020-04-07,5488,Last – 20.11,Ward
+2020-04-11,5884,Last – 20.e1,Ward
+2020-04-14,6234,Last – 20.e2,Ward
+2020-04-18,6720,Last – 20.e3,Ward
+2020-04-21,6118,Last – 20.e4,Ward
+2020-04-25,3850,Last – 20.e5,Ward
+2020-04-28,7858,Last – 20.e6,Ward
+2020-05-02,7692,Last – 20.end,Ward

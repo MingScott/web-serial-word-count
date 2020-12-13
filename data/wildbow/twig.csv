@@ -1,0 +1,322 @@
+date,wordcount,chapter,work
+2014-12-24,6586,Taking Root 1.1,Twig
+2015-03-14,5907,Taking Root 1.2,Twig
+2015-03-17,5416,Taking Root 1.3,Twig
+2015-03-19,4875,Taking Root 1.4,Twig
+2015-03-21,5681,Taking Root 1.5,Twig
+2015-03-24,6488,Taking Root 1.6,Twig
+2015-03-26,4555,Taking Root 1.7,Twig
+2015-03-28,4708,Taking Root 1.8,Twig
+2015-03-31,5891,Taking Root 1.9,Twig
+2015-04-04,6713,Taking Root 1.10,Twig
+2015-04-07,5036,Taking Root 1.11,Twig
+2015-04-11,5210,Taking Root 1.12,Twig
+2015-04-14,4404,Enemy (Arc 1),Twig
+2015-04-16,4407,Cat out of the Bag 2.1,Twig
+2015-04-18,4225,Cat out of the Bag 2.2,Twig
+2015-04-21,4159,Cat out of the Bag 2.3,Twig
+2015-04-25,4375,Cat out of the Bag 2.4,Twig
+2015-04-28,4501,Cat out of the Bag 2.5,Twig
+2015-04-30,4370,Cat out of the Bag 2.6,Twig
+2015-05-02,4536,Cat out of the Bag 2.7,Twig
+2015-05-05,4329,Cat out of the Bag 2.8,Twig
+2015-05-09,4186,Cat out of the Bag 2.9,Twig
+2015-05-12,4586,Cat out of the Bag 2.10,Twig
+2015-05-14,5501,Cat out of the Bag 2.11,Twig
+2015-05-16,4854,Enemy (Arc 2),Twig
+2015-05-19,4963,Lips Sealed 3.1,Twig
+2015-05-23,4486,Lips Sealed 3.2,Twig
+2015-05-26,4327,Lips Sealed 3.3,Twig
+2015-05-28,4766,Lips Sealed 3.4,Twig
+2015-05-30,4967,Lips Sealed 3.5,Twig
+2015-06-02,4909,Lips Sealed 3.6,Twig
+2015-06-06,4428,Lips Sealed 3.7,Twig
+2015-06-09,4640,Lips Sealed 3.8,Twig
+2015-06-11,5125,Lips Sealed 3.9,Twig
+2015-06-13,4914,Lips Sealed 3.10,Twig
+2015-06-16,6446,Enemy (Arc 3),Twig
+2015-06-20,4246,Stitch in Time – 4.1,Twig
+2015-06-23,4679,Stitch in Time – 4.2,Twig
+2015-06-25,4857,Stitch in Time – 4.3,Twig
+2015-06-27,4374,Stitch in Time – 4.4,Twig
+2015-06-30,4391,Stitch in Time – 4.5,Twig
+2015-07-04,4176,Stitch in Time – 4.6,Twig
+2015-07-07,4459,Stitch in Time – 4.7,Twig
+2015-07-11,4808,Stitch in Time – 4.8,Twig
+2015-07-14,4392,Stitch in Time – 4.9,Twig
+2015-07-18,6071,Stitch in Time – 4.10,Twig
+2015-07-21,4332,Stitch in Time – 4.11,Twig
+2015-07-23,5052,Stitch in Time – 4.12,Twig
+2015-07-25,4192,Enemy (Arc 4),Twig
+2015-07-28,4470,Esprit de Corpse – 5.1,Twig
+2015-07-30,4755,Esprit de Corpse – 5.2,Twig
+2015-08-01,4406,Esprit de Corpse – 5.3,Twig
+2015-08-04,5214,Esprit de Corpse – 5.4,Twig
+2015-08-08,4220,Esprit de Corpse – 5.5,Twig
+2015-08-11,4645,Esprit de Corpse – 5.6,Twig
+2015-08-13,4554,Esprit de Corpse – 5.7,Twig
+2015-08-15,4686,Esprit de Corpse – 5.8,Twig
+2015-08-18,6464,Esprit de Corpse – 5.9,Twig
+2015-08-20,4830,Esprit de Corpse – 5.10,Twig
+2015-08-22,4334,Esprit de Corpse – 5.11,Twig
+2015-08-25,4706,Esprit de Corpse – 5.12,Twig
+2015-08-27,4850,Esprit de Corpse – 5.13,Twig
+2015-08-29,4631,Esprit de Corpse – 5.14,Twig
+2015-09-01,5622,Esprit de Corpse – 5.15,Twig
+2015-09-05,5890,Enemy (Arc 5),Twig
+2015-09-08,4689,Lamb to the Slaughter – 6.1,Twig
+2015-09-12,4730,Lamb to the Slaughter – 6.2,Twig
+2015-09-15,4511,Lamb to the Slaughter – 6.3,Twig
+2015-09-17,4399,Lamb to the Slaughter – 6.4,Twig
+2015-09-19,4531,Lamb to the Slaughter – 6.5,Twig
+2015-09-22,4564,Lamb to the Slaughter – 6.6,Twig
+2015-09-26,5532,Lamb to the Slaughter – 6.7,Twig
+2015-09-29,5425,Lamb to the Slaughter – 6.8,Twig
+2015-10-01,5408,Lamb to the Slaughter – 6.9,Twig
+2015-10-03,4679,Lamb to the Slaughter – 6.10,Twig
+2015-10-06,5413,Lamb to the Slaughter – 6.11,Twig
+2015-10-10,4749,Lamb to the Slaughter – 6.12,Twig
+2015-10-13,7539,Lamb to the Slaughter – 6.13,Twig
+2015-10-17,5059,Enemy (Arc 6),Twig
+2015-10-20,4557,Tooth and Nail – 7.1,Twig
+2015-10-22,4527,Tooth and Nail – 7.2,Twig
+2015-10-24,3661,Tooth and Nail – 7.3,Twig
+2015-10-27,4214,Tooth and Nail – 7.4,Twig
+2015-10-29,4529,Tooth and Nail – 7.5,Twig
+2015-10-31,4790,Tooth and Nail – 7.6,Twig
+2015-11-03,5455,Tooth and Nail – 7.7,Twig
+2015-11-07,4612,Tooth and Nail – 7.8,Twig
+2015-11-10,4624,Tooth and Nail – 7.9,Twig
+2015-11-14,4632,Tooth and Nail – 7.10,Twig
+2015-11-17,4485,Tooth and Nail – 7.11,Twig
+2015-11-19,4215,Tooth and Nail – 7.12,Twig
+2015-11-21,4429,Tooth and Nail – 7.13,Twig
+2015-11-24,4183,Tooth and Nail – 7.14,Twig
+2015-11-26,5864,Tooth and Nail – 7.15,Twig
+2015-11-28,5178,Tooth and Nail – 7.16,Twig
+2015-12-01,4434,Enemy (Arc 7 – Boys),Twig
+2015-12-05,9045,Enemy (Arc 7 – Girls),Twig
+2015-12-08,4785,Bleeding Edge – 8.1,Twig
+2015-12-12,4614,Bleeding Edge – 8.2,Twig
+2015-12-15,4291,Bleeding Edge – 8.3,Twig
+2015-12-17,4524,Bleeding Edge – 8.4,Twig
+2015-12-19,4334,Bleeding Edge – 8.5,Twig
+2015-12-22,5019,Bleeding Edge – 8.6,Twig
+2015-12-26,4984,Bleeding Edge – 8.7,Twig
+2015-12-29,4712,Bleeding Edge – 8.8,Twig
+2016-01-02,5487,Bleeding Edge – 8.9,Twig
+2016-01-05,5599,Bleeding Edge – 8.10,Twig
+2016-01-09,4591,Bleeding Edge – 8.11,Twig
+2016-01-12,4365,Bleeding Edge – 8.12,Twig
+2016-01-16,5631,Bleeding Edge – 8.13,Twig
+2016-01-19,5211,Bleeding Edge – 8.14,Twig
+2016-01-21,4383,Bleeding Edge – 8.15,Twig
+2016-01-23,5240,Bleeding Edge – 8.16,Twig
+2016-01-26,5355,Enemy (Arc 8),Twig
+2016-01-28,4540,Counting Sheep – 9.1,Twig
+2016-01-30,5260,Counting Sheep – 9.2,Twig
+2016-02-02,4296,Counting Sheep – 9.3,Twig
+2016-02-06,5683,Counting Sheep – 9.4,Twig
+2016-02-09,5106,Counting Sheep – 9.5,Twig
+2016-02-13,4482,Counting Sheep – 9.6,Twig
+2016-02-16,4288,Counting Sheep – 9.7,Twig
+2016-02-18,4673,Counting Sheep – 9.8,Twig
+2016-02-20,4569,Counting Sheep – 9.9,Twig
+2016-02-23,4264,Counting Sheep – 9.10,Twig
+2016-02-25,5219,Counting Sheep – 9.11,Twig
+2016-02-27,4419,Counting Sheep – 9.12,Twig
+2016-03-01,4248,Counting Sheep – 9.13,Twig
+2016-03-05,5899,Counting Sheep – 9.14,Twig
+2016-03-08,4405,Counting Sheep – 9.15,Twig
+2016-03-10,5028,Counting Sheep – 9.16,Twig
+2016-03-12,4598,Counting Sheep – 9.17,Twig
+2016-03-15,5216,Counting Sheep – 9.18,Twig
+2016-03-18,5766,Enemy (Arc 9),Twig
+2016-03-22,5927,In Sheep’s Clothing – 10.1,Twig
+2016-03-24,5803,In Sheep’s Clothing – 10.2,Twig
+2016-03-26,5043,In Sheep’s Clothing – 10.3,Twig
+2016-03-29,5609,In Sheep’s Clothing – 10.4,Twig
+2016-03-31,5499,In Sheep’s Clothing – 10.5,Twig
+2016-04-02,6196,In Sheep’s Clothing – 10.6,Twig
+2016-04-05,4603,In Sheep’s Clothing – 10.7,Twig
+2016-04-09,5533,In Sheep’s Clothing – 10.8,Twig
+2016-04-12,5081,In Sheep’s Clothing – 10.9,Twig
+2016-04-16,5589,In Sheep’s Clothing – 10.10,Twig
+2016-04-19,4930,In Sheep’s Clothing – 10.11,Twig
+2016-04-23,4538,In Sheep’s Clothing – 10.12,Twig
+2016-04-26,4471,In Sheep’s Clothing – 10.13,Twig
+2016-04-28,5163,In Sheep’s Clothing – 10.14,Twig
+2016-04-30,5110,In Sheep’s Clothing – 10.15,Twig
+2016-05-03,4412,In Sheep’s Clothing – 10.16,Twig
+2016-05-07,5140,In Sheep’s Clothing – 10.17,Twig
+2016-05-10,5938,In Sheep’s Clothing – 10.18,Twig
+2016-05-14,6307,In Sheep’s Clothing – 10.19,Twig
+2016-05-17,7433,In Sheep’s Clothing – 10.20,Twig
+2016-05-19,4865,Lamb – Arc 10,Twig
+2016-05-21,4552,Cut to the Quick – 11.1,Twig
+2016-05-24,4693,Cut to the Quick – 11.2,Twig
+2016-05-26,4678,Cut to the Quick – 11.3,Twig
+2016-05-28,4874,Cut to the Quick – 11.4,Twig
+2016-05-31,4447,Cut to the Quick – 11.5,Twig
+2016-06-04,4343,Cut to the Quick – 11.6,Twig
+2016-06-07,4432,Cut to the Quick – 11.7,Twig
+2016-06-11,5816,Cut to the Quick – 11.8,Twig
+2016-06-14,4480,Cut to the Quick – 11.9,Twig
+2016-06-18,4709,Cut to the Quick – 11.10,Twig
+2016-06-21,5389,Cut to the Quick – 11.11,Twig
+2016-06-25,6297,Cut to the Quick – 11.12,Twig
+2016-06-28,4576,Cut to the Quick – 11.13,Twig
+2016-06-30,6709,Cut to the Quick – 11.14,Twig
+2016-07-02,6009,Cut to the Quick – 11.15,Twig
+2016-07-05,9220,Lamb (Arc 11),Twig
+2016-07-07,5449,Dyed in the Wool – 12.1,Twig
+2016-07-09,4423,Dyed in the Wool – 12.2,Twig
+2016-07-12,4778,Dyed in the Wool – 12.3,Twig
+2016-07-16,5420,Dyed in the Wool – 12.4,Twig
+2016-07-19,4840,Dyed in the Wool – 12.5,Twig
+2016-07-21,4254,Dyed in the Wool – 12.6,Twig
+2016-07-23,4297,Dyed in the Wool – 12.7,Twig
+2016-07-26,4756,Dyed in the Wool – 12.8,Twig
+2016-07-28,5901,Dyed in the Wool – 12.9,Twig
+2016-07-30,5353,Dyed in the Wool – 12.10,Twig
+2016-08-02,5487,Dyed in the Wool – 12.11,Twig
+2016-08-06,5660,Dyed in the Wool – 12.12,Twig
+2016-08-09,4669,Black Sheep – 13.1 (Lamb),Twig
+2016-08-13,6236,Black Sheep – 13.2 (Lamb),Twig
+2016-08-16,5599,Black Sheep – 13.3 (Lamb),Twig
+2016-08-18,5150,Black Sheep – 13.4 (Lamb),Twig
+2016-08-20,6252,Black Sheep – 13.5 (Lamb),Twig
+2016-08-23,5061,Black Sheep – 13.6 (Lamb),Twig
+2016-08-27,7154,Black Sheep – 13.7,Twig
+2016-08-30,4922,Black Sheep – 13.8 (Lamb),Twig
+2016-09-01,7590,Black Sheep – 13.9 (Lamb),Twig
+2016-09-03,7908,Black Sheep – 13.10 (Lamb),Twig
+2016-09-06,11995,Black Sheep – 13.11,Twig
+2016-09-10,5464,Thicker than Water – 14.1,Twig
+2016-09-13,5682,Thicker than Water – 14.2,Twig
+2016-09-17,5059,Thicker than Water – 14.3,Twig
+2016-09-20,7063,Thicker than Water – 14.4,Twig
+2016-09-22,4573,Thicker than Water – 14.5,Twig
+2016-09-24,5532,Thicker than Water – 14.6,Twig
+2016-09-27,5160,Thicker than Water – 14.7,Twig
+2016-10-01,4686,Thicker than Water – 14.8,Twig
+2016-10-04,4772,Thicker than Water – 14.9,Twig
+2016-10-08,5160,Thicker than Water – 14.10,Twig
+2016-10-11,5386,Thicker than Water – 14.11,Twig
+2016-10-15,6625,Thicker than Water – 14.12,Twig
+2016-10-18,4858,Thicker than Water – 14.13,Twig
+2016-10-22,5011,Thicker than Water – 14.14,Twig
+2016-10-25,4949,Thicker than Water – 14.15,Twig
+2016-10-27,4303,Thicker than Water – 14.16,Twig
+2016-10-29,5434,Thicker than Water – 14.17,Twig
+2016-11-01,4837,Thicker than Water – 14.18,Twig
+2016-11-05,7736,Lamb (Arc 14),Twig
+2016-11-08,5424,Bitter Pill – 15.1,Twig
+2016-11-12,5669,Bitter Pill – 15.2,Twig
+2016-11-15,5286,Bitter Pill – 15.3,Twig
+2016-11-17,4667,Bitter Pill – 15.4,Twig
+2016-11-19,4905,Bitter Pill – 15.5,Twig
+2016-11-22,5384,Bitter Pill – 15.6,Twig
+2016-11-24,4468,Bitter Pill – 15.7,Twig
+2016-11-26,5242,Bitter Pill – 15.8,Twig
+2016-11-29,5175,Bitter Pill – 15.9,Twig
+2016-12-03,5049,Bitter Pill – 15.10,Twig
+2016-12-06,4564,Bitter Pill – 15.11,Twig
+2016-12-10,6218,Bitter Pill – 15.12,Twig
+2016-12-13,5174,Bitter Pill – 15.13,Twig
+2016-12-15,6463,Bitter Pill – 15.14,Twig
+2016-12-17,4893,Bitter Pill – 15.15,Twig
+2016-12-20,4617,Bitter Pill – 15.16,Twig
+2016-12-24,5731,Lamb (Arc 15),Twig
+2016-12-27,4269,Head over Heels – 16.1,Twig
+2016-12-29,4210,Head over Heels – 16.2,Twig
+2016-12-31,4432,Head over Heels – 16.3,Twig
+2017-01-03,5583,Head over Heels – 16.4,Twig
+2017-01-07,6289,Head over Heels – 16.5,Twig
+2017-01-10,6479,Head over Heels – 16.6,Twig
+2017-01-14,5332,Head over Heels – 16.7,Twig
+2017-01-17,5771,Head over Heels – 16.8,Twig
+2017-01-21,6121,Head over Heels – 16.9,Twig
+2017-01-24,5055,Head over Heels – 16.10,Twig
+2017-01-26,4660,Head over Heels – 16.11,Twig
+2017-01-28,6432,Head over Heels – 16.12,Twig
+2017-01-31,6087,Head over Heels – 16.13,Twig
+2017-02-04,5587,Lamb (Arc 16),Twig
+2017-02-07,4203,Gut Feeling – 17.1,Twig
+2017-02-09,4842,Gut Feeling – 17.2,Twig
+2017-02-11,4668,Gut Feeling – 17.3,Twig
+2017-02-14,4991,Gut Feeling – 17.4,Twig
+2017-02-18,4738,Gut Feeling – 17.5,Twig
+2017-02-21,4529,Gut Feeling – 17.6,Twig
+2017-02-23,4587,Gut Feeling – 17.7,Twig
+2017-02-25,3791,Gut Feeling – 17.8,Twig
+2017-02-28,4200,Gut Feeling – 17.9,Twig
+2017-03-04,4291,Gut Feeling – 17.10,Twig
+2017-03-07,3738,Gut Feeling – 17.11,Twig
+2017-03-11,5297,Gut Feeling – 17.12,Twig
+2017-03-14,4210,Gut Feeling – 17.13,Twig
+2017-03-18,4334,Gut Feeling – 17.14,Twig
+2017-03-21,4213,Gut Feeling – 17.15,Twig
+2017-03-23,5170,Gut Feeling – 17.16,Twig
+2017-03-25,6124,Gut Feeling – 17.17,Twig
+2017-03-28,5132,Gut Feeling – 17.18,Twig
+2017-04-01,7336,Lamb (Arc 17),Twig
+2017-04-04,6491,Dog Eat Dog – 18.1,Twig
+2017-04-06,4399,Dog Eat Dog – 18.2,Twig
+2017-04-08,4963,Dog Eat Dog – 18.3,Twig
+2017-04-11,4453,Dog Eat Dog – 18.4,Twig
+2017-04-15,3811,Dog Eat Dog – 18.5,Twig
+2017-04-18,4388,Dog Eat Dog – 18.6,Twig
+2017-04-20,5363,Dog Eat Dog – 18.7,Twig
+2017-04-22,3498,Enemy I (Arc 18),Twig
+2017-04-25,6455,Dog Eat Dog – 18.8,Twig
+2017-04-29,7062,Lamb I (Arc 18),Twig
+2017-05-02,5237,Dog Eat Dog – 18.9,Twig
+2017-05-06,7347,Enemy II (Arc 18),Twig
+2017-05-09,5003,Lamb II (Arc 18),Twig
+2017-05-13,5843,Dog Eat Dog – 18.10,Twig
+2017-05-16,7222,Lamb III (Arc 18),Twig
+2017-05-20,7077,Enemy III (Arc 18),Twig
+2017-05-23,6122,Enemy IV (Arc 18),Twig
+2017-05-27,6389,Enemy V (Arc 18),Twig
+2017-05-30,6392,Root and Branch – 19.1,Twig
+2017-06-03,5572,Root and Branch – 19.2,Twig
+2017-06-06,5559,Root and Branch – 19.3,Twig
+2017-06-10,6789,Root and Branch – 19.4,Twig
+2017-06-13,5316,Root and Branch – 19.5,Twig
+2017-06-17,5340,Root and Branch – 19.6,Twig
+2017-06-20,4309,Root and Branch – 19.7,Twig
+2017-06-24,5715,Root and Branch – 19.8,Twig
+2017-06-27,4354,Root and Branch – 19.9,Twig
+2017-07-01,4717,Root and Branch – 19.10,Twig
+2017-07-04,6606,Root and Branch – 19.11,Twig
+2017-07-08,4597,Root and Branch – 19.12,Twig
+2017-07-11,5720,Root and Branch – 19.13,Twig
+2017-07-15,5581,Root and Branch – 19.14,Twig
+2017-07-18,6920,Root and Branch – 19.15,Twig
+2017-07-22,6104,Enemy (Arc 19),Twig
+2017-07-25,5423,Crown of Thorns – 20.1,Twig
+2017-07-29,4315,Crown of Thorns – 20.2,Twig
+2017-08-01,4663,Crown of Thorns – 20.3,Twig
+2017-08-05,4847,Crown of Thorns – 20.4,Twig
+2017-08-08,4564,Enemy (Arc 20),Twig
+2017-08-12,5408,Crown of Thorns – 20.5,Twig
+2017-08-15,5217,Crown of Thorns – 20.6,Twig
+2017-08-19,4733,Crown of Thorns – 20.7,Twig
+2017-08-22,4533,Crown of Thorns – 20.8,Twig
+2017-08-26,4521,Crown of Thorns – 20.9,Twig
+2017-08-29,5928,Crown of Thorns – 20.10,Twig
+2017-09-02,4995,Crown of Thorns – 20.11,Twig
+2017-09-05,4621,Crown of Thorns – 20.12,Twig
+2017-09-09,4766,Crown of Thorns – 20.13,Twig
+2017-09-12,4226,Crown of Thorns – 20.14,Twig
+2017-09-16,5217,Crown of Thorns – 20.15,Twig
+2017-09-19,5823,Crown of Thorns – 20.16,Twig
+2017-09-23,5265,Crown of Thorns – 20.17,Twig
+2017-09-26,4771,Crown of Thorns – 20.18,Twig
+2017-09-30,5549,Crown of Thorns – 20.19,Twig
+2017-10-03,6303,Crown of Thorns – 20.20,Twig
+2017-10-07,5846,Forest for the Trees – e.1,Twig
+2017-10-10,5407,Forest for the Trees – e.2,Twig
+2017-10-14,4654,Forest for the Trees – e.3,Twig
+2017-10-17,7278,Forest for the Trees – e.4,Twig

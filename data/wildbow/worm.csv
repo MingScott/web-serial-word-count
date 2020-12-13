@@ -1,0 +1,316 @@
+date,wordcount,chapter,work
+2011-06-11,3000,Gestation 1.1,Worm
+2011-06-14,2283,Gestation 1.2,Worm
+2011-06-18,1964,Gestation 1.3,Worm
+2011-06-21,2202,Gestation 1.4,Worm
+2011-06-25,2777,Gestation 1.5,Worm
+2011-06-28,2413,Gestation 1.6,Worm
+2011-07-02,3181,Interlude 1,Worm
+2011-07-05,1424,Insinuation 2.1,Worm
+2011-07-09,2756,Insinuation 2.2,Worm
+2011-07-12,2286,Insinuation 2.3,Worm
+2011-07-16,2263,Insinuation 2.4,Worm
+2011-07-19,2061,Insinuation 2.5,Worm
+2011-07-23,3051,Insinuation 2.6,Worm
+2011-07-26,3647,Insinuation 2.7,Worm
+2011-07-30,2735,Insinuation 2.8,Worm
+2011-08-02,1983,Insinuation 2.9,Worm
+2011-08-06,3832,Interlude 2,Worm
+2011-08-09,3652,Agitation 3.1,Worm
+2011-08-13,3029,Agitation 3.2,Worm
+2011-08-16,4320,Agitation 3.3,Worm
+2011-08-20,3094,Agitation 3.4,Worm
+2011-08-23,2045,Agitation 3.5,Worm
+2011-08-27,1928,Agitation 3.6,Worm
+2011-08-30,2553,Agitation 3.7,Worm
+2011-09-03,2883,Agitation 3.8,Worm
+2011-09-06,2438,Agitation 3.9,Worm
+2011-09-10,2391,Agitation 3.10,Worm
+2011-09-13,2909,Agitation 3.11,Worm
+2011-09-17,2847,Agitation 3.12,Worm
+2011-09-20,4943,Interlude 3,Worm
+2011-09-24,2604,Shell 4.1,Worm
+2011-09-27,2502,Shell 4.2,Worm
+2011-10-01,3175,Shell 4.3,Worm
+2011-10-04,3660,Shell 4.4,Worm
+2011-10-08,2212,Shell 4.5,Worm
+2011-10-11,2559,Shell 4.6,Worm
+2011-10-11,4192,Interlude 3½ (Bonus),Worm
+2011-10-15,2925,Shell 4.7,Worm
+2011-10-18,2510,Shell 4.8,Worm
+2011-10-22,2334,Shell 4.9,Worm
+2011-10-25,2803,Shell 4.10,Worm
+2011-10-29,4467,Shell 4.11,Worm
+2011-11-01,2840,Interlude 4,Worm
+2011-11-05,3845,Hive 5.1,Worm
+2011-11-08,3044,Hive 5.2,Worm
+2011-11-12,2975,Hive 5.3,Worm
+2011-11-15,4350,Hive 5.4,Worm
+2011-11-19,2596,Hive 5.5,Worm
+2011-11-22,2466,Hive 5.6,Worm
+2011-11-26,2293,Hive 5.7,Worm
+2011-11-29,2677,Hive 5.8,Worm
+2011-12-03,4773,Hive 5.9,Worm
+2011-12-06,4255,Hive 5.10,Worm
+2011-12-10,5290,Interlude 5,Worm
+2011-12-13,3038,Tangle 6.1,Worm
+2011-12-17,3417,Tangle 6.2,Worm
+2011-12-20,4484,Tangle 6.3,Worm
+2011-12-24,2691,Tangle 6.4,Worm
+2011-12-27,4192,Tangle 6.5,Worm
+2011-12-31,6275,Tangle 6.6,Worm
+2012-01-03,4188,Tangle 6.7,Worm
+2012-01-07,4100,Tangle 6.8,Worm
+2012-01-10,5180,Tangle 6.9,Worm
+2012-01-14,7805,Interlude 6,Worm
+2012-01-17,4006,Buzz 7.1,Worm
+2012-01-21,3010,Buzz 7.2,Worm
+2012-01-24,4210,Buzz 7.3,Worm
+2012-01-28,3663,Buzz 7.4,Worm
+2012-01-31,3209,Buzz 7.5,Worm
+2012-02-04,4299,Buzz 7.6,Worm
+2012-02-07,3459,Buzz 7.7,Worm
+2012-02-11,4126,Buzz 7.8,Worm
+2012-02-14,2698,Buzz 7.9,Worm
+2012-02-18,3916,Buzz 7.10,Worm
+2012-02-21,3526,Buzz 7.11,Worm
+2012-02-25,3051,Buzz 7.12,Worm
+2012-02-28,5502,Interlude 7,Worm
+2012-03-03,3165,Extermination 8.1,Worm
+2012-03-06,3205,Extermination 8.2,Worm
+2012-03-08,6100,Interlude 8 (Bonus),Worm
+2012-03-10,6700,Extermination 8.3,Worm
+2012-03-13,5923,Extermination 8.4,Worm
+2012-03-17,9390,Extermination 8.5,Worm
+2012-03-20,5361,Extermination 8.6,Worm
+2012-03-24,4886,Extermination 8.7,Worm
+2012-03-27,4089,Extermination 8.8,Worm
+2012-03-31,4174,Interlude 8,Worm
+2012-04-03,5593,Sentinel 9.1,Worm
+2012-04-07,6569,Sentinel 9.2,Worm
+2012-04-10,5757,Sentinel 9.3,Worm
+2012-04-14,6535,Sentinel 9.4,Worm
+2012-04-17,5664,Sentinel 9.5,Worm
+2012-04-21,5563,Sentinel 9.6,Worm
+2012-04-24,4026,Parasite 10.1,Worm
+2012-04-28,4891,Parasite 10.2,Worm
+2012-05-01,4494,Parasite 10.3,Worm
+2012-05-05,3167,Parasite 10.4,Worm
+2012-05-08,4284,Parasite 10.5,Worm
+2012-05-12,6300,Parasite 10.6,Worm
+2012-05-15,6170,Interlude 10,Worm
+2012-05-17,6397,Interlude 10.5 (Bonus),Worm
+2012-05-19,5982,Infestation 11.1,Worm
+2012-05-22,5317,Infestation 11.2,Worm
+2012-05-26,5635,Infestation 11.3,Worm
+2012-05-29,3959,Infestation 11.4,Worm
+2012-06-02,4853,Infestation 11.5,Worm
+2012-06-05,5295,Infestation 11.6,Worm
+2012-06-09,6761,Infestation 11.7,Worm
+2012-06-12,4908,Infestation 11.8,Worm
+2012-06-16,7863,Interlude 11a,Worm
+2012-06-17,3886,Interlude 11b (Anniversary Bonus),Worm
+2012-06-18,4421,Interlude 11c (Anniversary Bonus),Worm
+2012-06-19,4066,Interlude 11d,Worm
+2012-06-20,4862,Interlude 11e (Anniversary Bonus),Worm
+2012-06-21,4650,Interlude 11f (Anniversary Bonus),Worm
+2012-06-22,4573,Interlude 11g (Anniversary Bonus),Worm
+2012-06-23,9092,Interlude 11h,Worm
+2012-06-26,6327,Plague 12.1,Worm
+2012-06-30,5857,Plague 12.2,Worm
+2012-07-03,4955,Plague 12.3,Worm
+2012-07-07,4944,Plague 12.4,Worm
+2012-07-10,4431,Plague 12.5,Worm
+2012-07-14,5337,Plague 12.6,Worm
+2012-07-17,7552,Plague 12.7,Worm
+2012-07-21,5000,Plague 12.8,Worm
+2012-07-24,5280,Interlude 12,Worm
+2012-07-26,9841,Interlude 12½ (Donation Bonus),Worm
+2012-07-28,4923,Snare 13.1,Worm
+2012-07-31,4821,Snare 13.2,Worm
+2012-08-02,4482,Interlude 13½ (Donation Bonus),Worm
+2012-08-04,5760,Snare 13.3,Worm
+2012-08-07,4705,Snare 13.4,Worm
+2012-08-11,4495,Snare 13.5,Worm
+2012-08-14,6646,Snare 13.6,Worm
+2012-08-18,4324,Snare 13.7,Worm
+2012-08-21,5715,Snare 13.8,Worm
+2012-08-25,7227,Snare 13.9,Worm
+2012-08-28,4326,Snare 13.10,Worm
+2012-09-01,5490,Interlude 13,Worm
+2012-09-04,5049,Prey 14.1,Worm
+2012-09-08,5256,Prey 14.2,Worm
+2012-09-11,5947,Prey 14.3,Worm
+2012-09-15,5588,Prey 14.4,Worm
+2012-09-18,4830,Prey 14.5,Worm
+2012-09-22,4837,Prey 14.6,Worm
+2012-09-25,6009,Prey 14.7,Worm
+2012-09-29,7486,Prey 14.8,Worm
+2012-10-02,5745,Prey 14.9,Worm
+2012-10-06,7164,Prey 14.10,Worm
+2012-10-09,5937,Prey 14.11,Worm
+2012-10-11,6486,Interlude 14,Worm
+2012-10-13,6222,Interlude 14.5 (Bonus Interlude),Worm
+2012-10-16,6676,Colony 15.1,Worm
+2012-10-18,7968,Interlude 15 (Donation Bonus),Worm
+2012-10-20,5793,Colony 15.2,Worm
+2012-10-23,5180,Colony 15.3,Worm
+2012-10-25,6277,Interlude 15 (Donation Bonus #2),Worm
+2012-10-27,5049,Colony 15.4,Worm
+2012-10-30,5170,Colony 15.5,Worm
+2012-11-03,4946,Colony 15.6,Worm
+2012-11-06,4867,Colony 15.7,Worm
+2012-11-08,7594,Interlude 15 (Donation Bonus #3),Worm
+2012-11-10,4978,Colony 15.8,Worm
+2012-11-13,5101,Colony 15.9,Worm
+2012-11-17,6228,Colony 15.10,Worm
+2012-11-20,5985,Interlude 15,Worm
+2012-11-24,5038,Monarch 16.1,Worm
+2012-11-27,5883,Monarch 16.2,Worm
+2012-11-29,5180,Interlude 16 (Donation Bonus),Worm
+2012-12-01,5184,Monarch 16.3,Worm
+2012-12-04,5583,Monarch 16.4,Worm
+2012-12-08,6986,Monarch 16.5,Worm
+2012-12-11,5544,Monarch 16.6,Worm
+2012-12-13,6762,Interlude 16 (Donation Bonus #2),Worm
+2012-12-15,5673,Monarch 16.7,Worm
+2012-12-18,4465,Monarch 16.8,Worm
+2012-12-22,5110,Monarch 16.9,Worm
+2012-12-25,6619,Monarch 16.10,Worm
+2012-12-27,6434,Interlude 16 (Donation Bonus #3),Worm
+2012-12-29,6494,Monarch 16.11,Worm
+2013-01-01,6027,Monarch 16.12,Worm
+2013-01-05,8790,Monarch 16.13,Worm
+2013-01-08,6463,Migration 17.1,Worm
+2013-01-09,6219,Migration 17.2,Worm
+2013-01-10,5989,Migration 17.3,Worm
+2013-01-11,6041,Migration 17.4,Worm
+2013-01-12,4938,Migration 17.5,Worm
+2013-01-13,9180,Migration 17.6,Worm
+2013-01-14,7603,Migration 17.7,Worm
+2013-01-15,8239,Migration 17.8,Worm
+2013-01-19,5329,Queen 18.1,Worm
+2013-01-22,5004,Queen 18.2,Worm
+2013-01-24,5328,Interlude 18 (Donation Bonus #1),Worm
+2013-01-26,5706,Queen 18.3,Worm
+2013-01-29,5878,Queen 18.4,Worm
+2013-01-31,6646,Interlude 18 (Donation Bonus #2),Worm
+2013-02-02,4789,Queen 18.5,Worm
+2013-02-05,5269,Queen 18.6,Worm
+2013-02-07,8741,Interlude 18 (Donation Bonus #3),Worm
+2013-02-09,5698,Queen 18.7,Worm
+2013-02-12,6220,Queen 18.8,Worm
+2013-02-14,7940,Interlude 18 (Donation Bonus #4),Worm
+2013-02-16,8021,Interlude 18,Worm
+2013-02-19,7326,Scourge 19.1,Worm
+2013-02-23,5702,Scourge 19.2,Worm
+2013-02-26,5265,Scourge 19.3,Worm
+2013-02-28,8221,Interlude 19 (Donation Bonus #1),Worm
+2013-03-02,5776,Scourge 19.4,Worm
+2013-03-05,6996,Scourge 19.5,Worm
+2013-03-09,6296,Scourge 19.6,Worm
+2013-03-12,8660,Scourge 19.7,Worm
+2013-03-16,5714,Interlude 19 (Donation Bonus #2),Worm
+2013-03-19,8984,Interlude 19,Worm
+2013-03-21,6767,Chrysalis 20.1,Worm
+2013-03-23,6405,Chrysalis 20.2,Worm
+2013-03-26,5851,Chrysalis 20.3,Worm
+2013-03-30,5248,Chrysalis 20.4,Worm
+2013-04-02,6814,Chrysalis 20.5,Worm
+2013-04-04,6466,Interlude 20 (Donation Bonus #1),Worm
+2013-04-06,7528,Interlude 20,Worm
+2013-04-09,6082,Imago 21.1,Worm
+2013-04-13,5410,Imago 21.2,Worm
+2013-04-16,6167,Imago 21.3,Worm
+2013-04-18,6313,Imago 21.4,Worm
+2013-04-20,6354,Imago 21.5,Worm
+2013-04-23,8284,Imago 21.6,Worm
+2013-04-25,4644,Imago 21.7,Worm
+2013-04-27,7201,Interlude 21 (Donation Bonus #1),Worm
+2013-04-30,8435,Interlude 21,Worm
+2013-05-04,8443,Cell 22.1,Worm
+2013-05-07,7018,Cell 22.2,Worm
+2013-05-09,7827,Cell 22.3,Worm
+2013-05-11,8253,Cell 22.4,Worm
+2013-05-14,5930,Cell 22.5,Worm
+2013-05-16,5998,Cell 22.6,Worm
+2013-05-18,8006,Interlude 22,Worm
+2013-05-21,9506,Interlude 22 (Donation Bonus #1),Worm
+2013-05-25,10195,Drone 23.1,Worm
+2013-05-28,9226,Drone 23.2,Worm
+2013-05-30,5577,Drone 23.3,Worm
+2013-06-01,6940,Drone 23.4,Worm
+2013-06-04,7551,Drone 23.5,Worm
+2013-06-06,7704,Interlude 23,Worm
+2013-06-08,7583,Crushed 24.1,Worm
+2013-06-11,7933,Crushed 24.2,Worm
+2013-06-15,8479,Crushed 24.3,Worm
+2013-06-18,9544,Crushed 24.4,Worm
+2013-06-20,6888,Crushed 24.5,Worm
+2013-06-22,10398,Interlude 24,Worm
+2013-06-25,7415,Interlude 24 (Donation Bonus #1),Worm
+2013-06-29,6586,Scarab 25.1,Worm
+2013-07-02,5573,Scarab 25.2,Worm
+2013-07-06,11630,Scarab 25.3,Worm
+2013-07-09,7501,Scarab 25.4,Worm
+2013-07-11,7705,Scarab 25.5,Worm
+2013-07-13,8394,Scarab 25.6,Worm
+2013-07-16,10051,Interlude 25,Worm
+2013-07-18,7470,Sting 26.1,Worm
+2013-07-20,8334,Sting 26.2,Worm
+2013-07-23,10278,Sting 26.3,Worm
+2013-07-25,7793,Interlude 26 (Donation Bonus #1),Worm
+2013-07-27,9603,Sting 26.4,Worm
+2013-07-30,7572,Sting 26.5,Worm
+2013-08-03,8910,Sting 26.6,Worm
+2013-08-06,8443,Interlude 26a,Worm
+2013-08-08,8635,Interlude 26b,Worm
+2013-08-10,10940,Interlude 26,Worm
+2013-08-13,6524,Extinction 27.1,Worm
+2013-08-17,7497,Extinction 27.2,Worm
+2013-08-20,8121,Extinction 27.3,Worm
+2013-08-22,7259,Extinction 27.4,Worm
+2013-08-24,8103,Extinction 27.5,Worm
+2013-08-27,8853,Interlude 27,Worm
+2013-08-29,4,Interlude 27b,Worm
+2013-08-31,7946,Cockroaches 28.1,Worm
+2013-09-03,6255,Cockroaches 28.2,Worm
+2013-09-05,6530,Cockroaches 28.3,Worm
+2013-09-07,7156,Cockroaches 28.4,Worm
+2013-09-10,7480,Cockroaches 28.5,Worm
+2013-09-14,8094,Cockroaches 28.6,Worm
+2013-09-17,8524,Interlude 28,Worm
+2013-09-19,7317,Venom 29.1,Worm
+2013-09-21,7655,Venom 29.2,Worm
+2013-09-24,6735,Venom 29.3,Worm
+2013-09-26,6620,Venom 29.4,Worm
+2013-09-28,7574,Venom 29.5,Worm
+2013-10-01,6490,Venom 29.6,Worm
+2013-10-03,8432,Venom 29.7,Worm
+2013-10-05,7356,Venom 29.8,Worm
+2013-10-08,7003,Venom 29.9,Worm
+2013-10-12,10053,Interlude 29,Worm
+2013-10-15,6854,Speck 30.1,Worm
+2013-10-17,7642,Speck 30.2,Worm
+2013-10-19,8355,Speck 30.3,Worm
+2013-10-22,8018,Speck 30.4,Worm
+2013-10-24,8848,Speck 30.5,Worm
+2013-10-26,9643,Speck 30.6,Worm
+2013-10-29,7196,Speck 30.7,Worm
+2013-11-02,7352,Teneral e.1,Worm
+2013-11-05,8030,Teneral e.2,Worm
+2013-11-09,9222,Teneral e.3,Worm
+2013-11-12,7369,Teneral e.4,Worm
+2013-11-16,8234,Teneral e.5,Worm
+2013-11-19,8211,Interlude: End,Worm
+2015-03-10,371,Moving On…,Worm
+2017-10-21,2125,Glow-worm – P.1,Worm
+2017-10-24,2742,Glow-worm – P.2,Worm
+2017-10-26,2933,Glow-worm – P.3,Worm
+2017-10-28,2929,Glow-worm – P.4,Worm
+2017-10-31,901,Glow-worm – P.5,Worm
+2017-10-31,3693,Glow-worm – P.6,Worm
+2017-11-02,3986,Glow-worm – P.7,Worm
+2017-11-04,4718,Glow-worm – P.8,Worm
+2017-11-07,3922,Glow-worm – P.9,Worm
+2017-11-11,23,Glow-worm – P.10 (Sequel is live!),Worm

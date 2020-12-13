@@ -1,0 +1,155 @@
+date,wordcount,chapter,work
+2013-12-17,9005,Bonds 1.1,Pact
+2013-12-17,8675,Bonds 1.2,Pact
+2013-12-24,7171,Bonds 1.3,Pact
+2013-12-30,7167,Bonds 1.4,Pact
+2014-01-04,6868,Bonds 1.5,Pact
+2014-01-07,6924,Bonds 1.6,Pact
+2014-01-11,7315,Bonds 1.7,Pact
+2014-01-14,5039,Gathered Pages: 1,Pact
+2014-01-18,6705,Damages 2.1,Pact
+2014-01-21,7926,Damages 2.2,Pact
+2014-01-25,7112,Damages 2.3,Pact
+2014-01-28,6672,Damages 2.4,Pact
+2014-02-01,7563,Damages 2.5,Pact
+2014-02-04,7014,Damages 2.6,Pact
+2014-02-06,6871,Gathered Pages: 2,Pact
+2014-02-08,6868,Damages 2.7,Pact
+2014-02-11,8451,Histories (Arc 2),Pact
+2014-02-15,6790,Breach 3.1,Pact
+2014-02-18,7726,Breach 3.2,Pact
+2014-02-20,7519,Breach 3.3,Pact
+2014-02-22,6795,Breach 3.4,Pact
+2014-02-25,7159,Breach 3.5,Pact
+2014-03-01,8413,Histories (Arc 3),Pact
+2014-03-04,9016,Collateral 4.1,Pact
+2014-03-06,7126,Collateral 4.2,Pact
+2014-03-08,8057,Collateral 4.3,Pact
+2014-03-11,7216,Collateral 4.4,Pact
+2014-03-15,7211,Collateral 4.5,Pact
+2014-03-18,6684,Collateral 4.6,Pact
+2014-03-20,6829,Collateral 4.7,Pact
+2014-03-22,7187,Collateral 4.8,Pact
+2014-03-25,6725,Collateral 4.9,Pact
+2014-03-29,6988,Collateral 4.10,Pact
+2014-04-01,7471,Collateral 4.11,Pact
+2014-04-03,9677,Collateral 4.12,Pact
+2014-04-05,5990,Gathered Pages: 4,Pact
+2014-04-08,7403,Conviction 5.1,Pact
+2014-04-12,7679,Conviction 5.2,Pact
+2014-04-15,6397,Conviction 5.3,Pact
+2014-04-17,6747,Conviction 5.4,Pact
+2014-04-19,6849,Conviction 5.5,Pact
+2014-04-22,7577,Conviction 5.6,Pact
+2014-04-26,7612,Histories (Arc 5),Pact
+2014-04-29,7208,Subordination 6.1,Pact
+2014-05-01,6855,Subordination 6.2,Pact
+2014-05-03,6453,Subordination 6.3,Pact
+2014-05-06,6621,Subordination 6.4,Pact
+2014-05-08,6355,Subordination 6.5,Pact
+2014-05-10,7037,Subordination 6.6,Pact
+2014-05-13,6093,Subordination 6.7,Pact
+2014-05-15,6822,Subordination 6.8,Pact
+2014-05-17,6340,Subordination 6.9,Pact
+2014-05-20,6325,Subordination 6.10,Pact
+2014-05-24,6931,Subordination 6.12,Pact
+2014-05-27,6114,Histories (Arc 6),Pact
+2014-05-29,6154,Void 7.1,Pact
+2014-05-31,5693,Void 7.2,Pact
+2014-06-03,5627,Void 7.3,Pact
+2014-06-07,5485,Void 7.4,Pact
+2014-06-10,6392,Void 7.5,Pact
+2014-06-14,6772,Void 7.6,Pact
+2014-06-17,6075,Void 7.7,Pact
+2014-06-21,5296,Void 7.8,Pact
+2014-06-24,6581,Void 7.9,Pact
+2014-06-28,6511,Void 7.10,Pact
+2014-07-01,6694,Void 7.11,Pact
+2014-07-05,6133,Histories (Arc 7),Pact
+2014-07-08,9091,Signature 8.1,Pact
+2014-07-12,7476,Signature 8.2,Pact
+2014-07-15,6671,Signature 8.3,Pact
+2014-07-17,6717,Signature 8.4,Pact
+2014-07-19,5851,Signature 8.5,Pact
+2014-07-22,6251,Signature 8.6,Pact
+2014-07-24,7961,Signature 8.7,Pact
+2014-07-26,7383,Null 9.1,Pact
+2014-07-29,7100,Null 9.2,Pact
+2014-08-02,7489,Null 9.3,Pact
+2014-08-05,9996,Null 9.4,Pact
+2014-08-07,7442,Null 9.5,Pact
+2014-08-09,6743,Null 9.6,Pact
+2014-08-12,6839,Histories 9,Pact
+2014-08-16,6514,Mala Fide 10.1,Pact
+2014-08-19,6245,Mala Fide 10.2,Pact
+2014-08-21,7016,Mala Fide 10.3,Pact
+2014-08-23,7561,Mala Fide 10.4,Pact
+2014-08-26,6461,Mala Fide 10.5,Pact
+2014-08-30,6188,Mala Fide 10.6,Pact
+2014-09-02,5697,Mala Fide 10.7,Pact
+2014-09-04,5536,Gathered Pages (Arc 10),Pact
+2014-09-06,6195,Malfeasance 11.1,Pact
+2014-09-09,6366,Malfeasance 11.2,Pact
+2014-09-11,5714,Malfeasance 11.3,Pact
+2014-09-13,5763,Malfeasance 11.4,Pact
+2014-09-16,5798,Malfeasance 11.5,Pact
+2014-09-20,5836,Malfeasance 11.6,Pact
+2014-09-23,5990,Malfeasance 11.7,Pact
+2014-09-27,6507,Malfeasance 11.8,Pact
+2014-09-30,5742,Malfeasance 11.9,Pact
+2014-10-02,5761,Malfeasance 11.10,Pact
+2014-10-04,5496,Malfeasance 11.11,Pact
+2014-10-07,8029,Histories (Arc 11),Pact
+2014-10-09,6444,Duress 12.1,Pact
+2014-10-11,7243,Duress 12.2,Pact
+2014-10-14,6434,Duress 12.3,Pact
+2014-10-16,5517,Duress 12.4,Pact
+2014-10-18,7358,Duress 12.5,Pact
+2014-10-21,5931,Duress 12.6,Pact
+2014-10-25,6185,Duress 12.7,Pact
+2014-10-28,5818,Duress 12.8,Pact
+2014-11-01,6820,Histories (Arc 12),Pact
+2014-11-04,5281,Execution 13.1,Pact
+2014-11-06,5571,Execution 13.2,Pact
+2014-11-08,6351,Execution 13.3,Pact
+2014-11-11,4111,Execution 13.4,Pact
+2014-11-15,6243,Execution 13.5,Pact
+2014-11-18,5307,Execution 13.6,Pact
+2014-11-20,5375,Execution 13.7,Pact
+2014-11-22,6610,Execution 13.8,Pact
+2014-11-25,5482,Execution 13.9,Pact
+2014-11-29,6074,Gathered Pages (Arc 13),Pact
+2014-12-02,5410,Sine Die 14.1,Pact
+2014-12-04,4765,Sine Die 14.2,Pact
+2014-12-06,5510,Sine Die 14.3,Pact
+2014-12-09,4693,Sine Die 14.4,Pact
+2014-12-13,6387,Sine Die 14.5,Pact
+2014-12-16,5258,Sine Die 14.6,Pact
+2014-12-20,5657,Sine Die 14.7,Pact
+2014-12-23,4955,Sine Die 14.8,Pact
+2014-12-27,5386,Sine Die 14.9,Pact
+2014-12-30,4517,Sine Die 14.10,Pact
+2015-01-03,4671,Histories (Arc 14),Pact
+2015-01-06,6105,Possession 15.1,Pact
+2015-01-08,6262,Possession 15.2,Pact
+2015-01-10,6963,Possession 15.3,Pact
+2015-01-13,5201,Possession 15.4,Pact
+2015-01-17,5284,Possession 15.5,Pact
+2015-01-20,5296,Possession 15.6,Pact
+2015-01-22,4800,Possession 15.7,Pact
+2015-01-24,5210,Histories (Arc 15),Pact
+2015-01-27,5130,Judgment 16.1,Pact
+2015-01-29,5604,Judgment 16.2,Pact
+2015-01-31,5558,Judgment 16.3,Pact
+2015-02-03,4336,Judgment 16.4,Pact
+2015-02-07,4889,Judgment 16.5,Pact
+2015-02-10,4921,Judgment 16.6,Pact
+2015-02-14,5654,Judgment 16.7,Pact
+2015-02-17,5432,Judgment 16.8,Pact
+2015-02-19,6425,Judgment 16.9,Pact
+2015-02-21,5051,Judgment 16.10,Pact
+2015-02-24,5755,Judgment 16.11,Pact
+2015-02-28,4322,Judgment 16.12,Pact
+2015-03-03,5515,Judgment 16.13,Pact
+2015-03-07,4000,Epilogue,Pact
+2015-03-10,149,Rule of Three,Pact

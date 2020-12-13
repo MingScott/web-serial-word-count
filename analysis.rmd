@@ -1,0 +1,139 @@
+```{r}
+require(tidyverse)
+library(scales)
+library(directlabels)
+```
+Wildbow:
+```{r}
+pact <- read_csv("data/wildbow/pact.csv", 
+    col_types = cols(date = col_datetime(format = "%Y-%m-%d"), 
+        wordcount = col_integer(), work = col_character()))
+pale <- read_csv("data/wildbow/pale.csv", 
+    col_types = cols(date = col_datetime(format = "%Y-%m-%d"), 
+        wordcount = col_integer(), work = col_character()))
+worm <- read_csv("data/wildbow/worm.csv", 
+    col_types = cols(date = col_datetime(format = "%Y-%m-%d"), 
+        wordcount = col_integer(), work = col_character()))
+ward <- read_csv("data/wildbow/ward.csv", 
+    col_types = cols(date = col_datetime(format = "%Y-%m-%d"), 
+        wordcount = col_integer(), work = col_character()))
+twig <- read_csv("data/wildbow/twig.csv", 
+    col_types = cols(date = col_datetime(format = "%Y-%m-%d"), 
+        wordcount = col_integer(), work = col_character()))
+
+wildbow <- bind_rows(pact, pale, worm, ward, twig)
+wildbow <- wildbow %>% arrange(date) %>% mutate(author = as.factor("Wildbow"))
+```
+Other Web Serial Authors:
+```{r}
+ee <- read_csv("data/pgte.csv", 
+    col_types = cols(date = col_datetime(format = "%Y-%m-%d"), 
+        wordcount = col_integer(), work = col_character())) %>% 
+  mutate(author = "ErraticErrata")
+pirateaba <- read_csv("data/twi.csv", 
+    col_types = cols(date = col_datetime(format = "%Y-%m-%d"), 
+        wordcount = col_integer(), work = col_character())) %>% 
+  mutate(author = "Pirateaba")
+georgemfrost <- read_csv("data/tzk.csv", 
+    col_types = cols(date = col_datetime(format = "%Y-%m-%d"), 
+        wordcount = col_integer(), work = col_character())) %>% 
+  mutate(author = "George M. Frost")
+```
+qntm
+```{r}
+qntm_blog <- read_csv("data/qntm/blog.csv", 
+    col_types = cols(date = col_datetime(format = "%Y-%m-%d"), 
+        wordcount = col_integer(), work = col_character())) %>% 
+  mutate(author = "qntm")
+qntm_scp <- read_csv("data/qntm/scp.csv", 
+    col_types = cols(date = col_datetime(format = "%Y"), 
+        wordcount = col_integer(), work = col_character())) %>% 
+  mutate(author = "qntm")
+
+qntm <- bind_rows(qntm_blog,qntm_scp)
+```
+Fantasy authors (data courtesy of u/N3XT191)
+```{r}
+sanderson <- read_csv("data/data_sanderson.csv", 
+    col_names = FALSE, col_types = cols(X1 = col_character(), 
+        X2 = col_date(format = "%Y"), X3 = col_skip(), 
+        X4 = col_integer(), X5 = col_skip())) %>% 
+  rename(chapter = X1, date = X2, wordcount = X4) %>% 
+  mutate(work = chapter, author = "Sanderson")
+rothfuss <- read_csv("data/data_rothfuss.csv", 
+    col_names = FALSE, col_types = cols(X1 = col_character(), 
+        X2 = col_date(format = "%Y"), X3 = col_skip(), 
+        X4 = col_integer(), X5 = col_skip())) %>% 
+  rename(chapter = X1, date = X2, wordcount = X4) %>% 
+  mutate(work = chapter, author = "Rothfuss")
+martin <- read_csv("data/data_martin.csv", 
+    col_names = FALSE, col_types = cols(X1 = col_character(), 
+        X2 = col_date(format = "%Y"), X3 = col_skip(), 
+        X4 = col_integer(), X5 = col_skip())) %>% 
+  rename(chapter = X1, date = X2, wordcount = X4) %>% 
+  mutate(work = chapter, author = "Martin")
+king <- read_csv("data/data_king.csv", 
+    col_names = FALSE, col_types = cols(X1 = col_character(), 
+        X2 = col_date(format = "%Y"), X3 = col_skip(), 
+        X4 = col_integer(), X5 = col_skip())) %>% 
+  rename(chapter = X1, date = X2, wordcount = X4) %>% 
+  mutate(work = chapter, author = "King")
+jordan <- read_csv("data/data_jordan.csv", 
+    col_names = FALSE, col_types = cols(X1 = col_character(), 
+        X2 = col_date(format = "%Y"), X3 = col_skip(), 
+        X4 = col_integer())) %>% 
+  rename(chapter = X1, date = X2, wordcount = X4) %>% 
+  mutate(work = chapter, author = "Jordan")
+```
+
+```{r}
+data <- bind_rows(rothfuss, martin, king, jordan, sanderson,
+                  wildbow,
+                  ee,
+                  pirateaba,
+                  georgemfrost,
+                  qntm
+                  ) %>% 
+  arrange(date) %>% 
+  group_by(author) %>% 
+  mutate(cum_wc = cumsum(wordcount))
+
+webdata <- bind_rows(
+                      wildbow,
+                      ee,
+                      pirateaba,
+                      georgemfrost,
+                      qntm
+                      ) %>% 
+  arrange(date) %>% 
+  group_by(author) %>% 
+  mutate(cum_wc = cumsum(wordcount))
+```
+Plotting
+```{r}
+
+ggplot(data %>% group_by(work),aes(date,cum_wc))+
+  geom_smooth(aes(group=author,col=author),method="lm",fill=NA,formula=y~x,size=0.1, fullrange=T)+
+  geom_line(aes(col=author))+
+  coord_cartesian(ylim=c(0,NA))+
+  scale_y_continuous(labels = unit_format(unit = "M", scale = 1e-6))+
+  labs(
+    title ="Cumulative Wordcount of Authors Over Time"
+    )+
+  xlab("Date")+
+  ylab("Cumulative Wordcount")
+
+ggplot(webdata %>% group_by(work),aes(date,cum_wc))+
+  geom_smooth(aes(group=author,col=author),method="lm",fill=NA,formula=y~x,size=0.1, fullrange=T)+
+  geom_point(aes(col=author),size=0.05)+
+  scale_y_continuous(labels = unit_format(unit = "M", scale = 1e-6))+
+  geom_dl(aes(label = author, col=author), method = list(cex=0.8,"last.bumpup"))+
+  coord_cartesian(ylim=c(0,NA))+
+  expand_limits(x = as.POSIXct.Date(as.Date("2024-01-01")))+
+  scale_color_discrete(guide="none")+
+  labs(
+    title ="Cumulative Wordcount of Web Serial Authors Over Time"
+    )+
+  xlab("Date")+
+  ylab("Cumulative Wordcount")
+```

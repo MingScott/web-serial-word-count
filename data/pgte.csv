@@ -1,0 +1,577 @@
+date,wordcount,chapter,work
+2015-03-25,1012,Prologue,PGTE
+2015-04-01,11299,Chapter 1: Knife,PGTE
+2015-04-08,5018,Chapter 2: Invitation,PGTE
+2015-04-16,5177,Chapter 3: Party,PGTE
+2015-04-22,5212,Chapter 4: Name,PGTE
+2015-04-30,5030,Chapter 5: Role,PGTE
+2015-05-06,4632,Chapter 6: Aspect,PGTE
+2015-05-13,5282,Chapter 7: Sword,PGTE
+2015-05-20,4328,Chapter 8: Introduction,PGTE
+2015-05-27,4733,Chapter 9: Claimant,PGTE
+2015-06-03,5609,Chapter 10: Menace,PGTE
+2015-06-10,4756,Chapter 11: Sucker Punch,PGTE
+2015-06-17,6247,Chapter 12: Squire,PGTE
+2015-06-24,4007,Chapter 13: Order,PGTE
+2015-07-01,3971,Chapter 14: Villain,PGTE
+2015-07-08,4183,Chapter 15: Company,PGTE
+2015-07-15,4701,Chapter 16: Game,PGTE
+2015-07-22,5757,Chapter 17: Set,PGTE
+2015-07-29,6307,Chapter 18: Match,PGTE
+2015-08-05,3884,Chapter 19: Pivot,PGTE
+2015-08-12,4613,Chapter 20: Rise,PGTE
+2015-08-19,5457,Chapter 21: Fall,PGTE
+2015-08-26,6205,Chapter 22: All According To,PGTE
+2015-09-02,5465,Chapter 23: Morok’s Plan,PGTE
+2015-09-09,6084,Chapter 24: Aisha’s Plan,PGTE
+2015-09-16,3855,Chapter 25: Snatcher’s Plan,PGTE
+2015-09-23,6610,Chapter 26: Juniper’s Plan,PGTE
+2015-09-30,4309,Chapter 27: Callow’s Plan,PGTE
+2015-10-07,6541,Chapter 28: Win Condition,PGTE
+2015-10-14,4475,Epilogue,PGTE
+2015-11-04,3365,Prologue,PGTE
+2015-11-11,5220,Chapter 1: Supply,PGTE
+2015-11-18,3876,Chapter 2: Demand,PGTE
+2015-11-25,4429,Chapter 3: Cost,PGTE
+2015-12-02,2852,Heroic Interlude: Balestra,PGTE
+2015-12-09,4772,Chapter 4: Return,PGTE
+2015-12-16,3713,Chapter 5: Recognition,PGTE
+2015-12-23,3538,Chapter 6: Rapport,PGTE
+2015-12-31,3310,Chapter 7: Reception,PGTE
+2016-01-06,3398,Chapter 8: Reversal,PGTE
+2016-01-13,3820,Chapter 9: Rematch,PGTE
+2016-01-20,4057,Chapter 10: Release,PGTE
+2016-01-27,4873,Chapter 11: Report,PGTE
+2016-02-03,4305,Chapter 12: Reproval,PGTE
+2016-02-10,5912,Heroic Interlude: Riposte,PGTE
+2016-02-17,3772,Villainous Interlude: Coulisse,PGTE
+2016-02-24,4034,Chapter 13: Fireside,PGTE
+2016-03-02,3483,Chapter 14: Situation,PGTE
+2016-03-09,5575,Chapter 15: Council,PGTE
+2016-03-16,5331,Chapter 16: Trust,PGTE
+2016-03-23,7136,Chapter 17: Aplomb,PGTE
+2016-03-30,5179,Chapter 18: Tinder,PGTE
+2016-04-06,3059,Chapter 19: Flame,PGTE
+2016-04-13,3732,Chapter 20: Ashes,PGTE
+2016-04-20,3309,Chapter 21: Marchford,PGTE
+2016-04-27,4185,Villainous Interlude: Coup de Théatre,PGTE
+2016-05-04,4205,Heroic Interlude: Attaque au Fer,PGTE
+2016-05-11,3934,Chapter 22: Rescue,PGTE
+2016-05-18,4068,Chapter 23: Defeat,PGTE
+2016-05-25,4096,Chapter 24: Archer,PGTE
+2016-06-01,4262,Chapter 25: Wake,PGTE
+2016-06-08,3843,Chapter 26: Seek,PGTE
+2016-06-15,3310,Chapter 27: Cut,PGTE
+2016-06-22,3502,Chapter 28: Prelude,PGTE
+2016-06-29,6420,Interlude: Greenskins,PGTE
+2016-07-06,3383,Chapter 29: Stand,PGTE
+2016-07-13,3345,Chapter 30: Deliver,PGTE
+2016-07-20,3595,Chapter 31: Sleight,PGTE
+2016-07-27,3053,Chapter 32: Draw,PGTE
+2016-08-03,3682,Chapter 33: Clean-up,PGTE
+2016-08-10,3057,Chapter 34: Lesson,PGTE
+2016-08-17,4092,Chapter 35: Spur,PGTE
+2016-08-24,4639,Chapter 36: Madman,PGTE
+2016-08-31,5099,Interlude: Nemeses,PGTE
+2016-09-07,3869,Chapter 37: Apprentice,PGTE
+2016-09-07,4366,Conspiracy I,PGTE
+2016-09-14,3804,Chapter 38: Juncture,PGTE
+2016-09-21,5016,Villainous Interlude: Impresario,PGTE
+2016-09-28,5310,Interlude: Rats,PGTE
+2016-10-05,3534,Chapter 39: Countdown,PGTE
+2016-10-05,7812,Conspiracy II,PGTE
+2016-10-12,3636,Heroic Interlude – Prise au Fer,PGTE
+2016-10-19,4203,Chapter 40: Knock,PGTE
+2016-10-26,3748,Chapter 41: Retrieve,PGTE
+2016-11-02,3249,Chapter 42: Flaw,PGTE
+2016-11-02,3162,Red Skies,PGTE
+2016-11-09,3461,Chapter 43: Truce,PGTE
+2016-11-16,5558,Chapter 44: Victory,PGTE
+2016-11-23,5998,Chapter 45: Corpses,PGTE
+2016-11-30,2924,Chapter 46: Squire (Redux),PGTE
+2016-12-07,4202,Beast,PGTE
+2016-12-07,4019,Chapter 47: And Justice For All,PGTE
+2016-12-14,6965,Chapter 48: Threes,PGTE
+2016-12-21,6341,Chapter 49: Triumph,PGTE
+2016-12-28,7527,Interlude – Precipitation,PGTE
+2017-01-04,7511,Epilogue,PGTE
+2017-01-04,3517,Regard,PGTE
+2017-02-08,2940,Reign,PGTE
+2017-02-08,3416,Prologue,PGTE
+2017-02-15,4915,Chapter 1: Right,PGTE
+2017-02-22,4201,Chapter 2: Might,PGTE
+2017-03-01,3677,Interlude: Gate,PGTE
+2017-03-01,2492,Crowned,PGTE
+2017-03-08,5056,Heroic Interlude: Arraignment,PGTE
+2017-03-15,3666,Chapter 3: Demesne,PGTE
+2017-03-22,4499,Chapter 4: Developments,PGTE
+2017-03-29,3973,Chapter 5: Beachhead,PGTE
+2017-04-05,2931,Chapter 6: Backlash,PGTE
+2017-04-05,2986,Usurpation,PGTE
+2017-04-12,4318,Chapter 7: Elaboration,PGTE
+2017-04-19,5089,Villainous Interlude: Chiaroscuro,PGTE
+2017-04-26,8071,Heroic Interlude: Appellant,PGTE
+2017-05-03,3341,Chapter 8: Lies,PGTE
+2017-05-03,3079,Warden I,PGTE
+2017-05-10,4124,Chapter 9: More Lies,PGTE
+2017-05-17,3938,Chapter 10: Entrance,PGTE
+2017-05-24,3795,Chapter 11: Swerve,PGTE
+2017-05-31,3173,Chapter 12: Double Down,PGTE
+2017-05-31,4932,Warden II,PGTE
+2017-06-07,3872,Chapter 13: Forgery,PGTE
+2017-06-14,4437,Chapter 14: Trick,PGTE
+2017-06-21,3136,Chapter 15: Bestowal,PGTE
+2017-06-28,3432,Villainous Interlude: Proscenium,PGTE
+2017-07-03,5003,Raid,PGTE
+2017-07-03,3096,Villainous Interlude: Stormfront,PGTE
+2017-07-05,3727,Chapter 16: Shambles,PGTE
+2017-07-10,4259,Chapter 17: Allegiance,PGTE
+2017-07-12,3671,Chapter 18: Crack,PGTE
+2017-07-17,4279,Chapter 19: Order (Redux),PGTE
+2017-07-19,3854,Chapter 20: Skew,PGTE
+2017-07-24,4369,Chapter 21: Example,PGTE
+2017-07-26,3735,Chapter 22: Govern,PGTE
+2017-07-31,2557,Chapter 23: Reassessment,PGTE
+2017-08-02,3924,Interlude – Apprentice,PGTE
+2017-08-02,3014,Deadhand,PGTE
+2017-08-07,3781,Villainous Interlude: Exeunt,PGTE
+2017-08-09,4130,Villainous Interlude: Decorum,PGTE
+2017-08-14,2780,Heroic Interlude: Injunction,PGTE
+2017-08-16,3506,Chapter 24: Vanguard,PGTE
+2017-08-21,4317,Chapter 25: Intent,PGTE
+2017-08-23,5047,Chapter 26: Advance,PGTE
+2017-08-28,4304,Chapter 27: Expedition,PGTE
+2017-08-30,6703,Interlude: Commanders,PGTE
+2017-09-04,3495,Chapter 28: Gambits,PGTE
+2017-09-04,2564,Closure,PGTE
+2017-09-06,3606,Chapter 29: Scale,PGTE
+2017-09-11,3802,Chapter 30: Riot,PGTE
+2017-09-13,3200,Chapter 31: High Noon,PGTE
+2017-09-18,4259,Chapter 32: Close,PGTE
+2017-09-20,2821,Villainous Interlude: Cadenza,PGTE
+2017-09-25,3030,Villainous Interlude: Thunder,PGTE
+2017-09-27,4089,Villainous Interlude: Calamity I,PGTE
+2017-10-02,3773,Dues,PGTE
+2017-10-02,4124,Villainous Interlude: Calamity II,PGTE
+2017-10-04,5118,Villainous Interlude: Calamity III,PGTE
+2017-10-09,4124,Chapter 33: Promises,PGTE
+2017-10-11,4579,Chapter 34: Talks,PGTE
+2017-10-16,4171,Chapter 35: Questions,PGTE
+2017-10-18,4299,Chapter 36: Malice,PGTE
+2017-10-23,3536,Chapter 37: Procedures,PGTE
+2017-10-25,3164,Chapter 38: Host,PGTE
+2017-10-30,3187,Chapter 39: Exposition,PGTE
+2017-11-01,3414,Background,PGTE
+2017-11-01,3714,Chapter 40: Rising Action,PGTE
+2017-11-06,5170,Chapter 41: Turning Point,PGTE
+2017-11-08,4455,Chapter 42: Plateau,PGTE
+2017-11-13,3869,Chapter 43: Cliff,PGTE
+2017-11-15,4625,Chapter 44: Drop,PGTE
+2017-11-20,3763,Chapter 45: Falling Action,PGTE
+2017-11-22,3019,Chapter 46: Denouement,PGTE
+2017-11-27,4666,Chapter 47: Offers,PGTE
+2017-11-29,2963,Chapter 48: Interrogation,PGTE
+2017-12-04,3266,Fletched,PGTE
+2017-12-04,4047,Chapter 49: Hearsay,PGTE
+2017-12-06,3827,Chapter 50: Preparation,PGTE
+2017-12-11,3712,Chapter 51: Overlooked,PGTE
+2017-12-13,3478,Chapter 52: Tensile,PGTE
+2017-12-18,3360,Chapter 53: Manoeuvring,PGTE
+2017-12-20,4186,Interlude: Skirmish I,PGTE
+2017-12-25,3486,Interlude: Skirmish II,PGTE
+2017-12-27,3579,Chapter 54: Wake,PGTE
+2017-12-31,3365,Prodigy,PGTE
+2017-12-31,3001,Chapter 55: Reunion,PGTE
+2018-01-03,3291,Chapter 56: Recess,PGTE
+2018-01-08,3318,Chapter 57: Revolve,PGTE
+2018-01-10,4343,Chapter 58: Hard Measures,PGTE
+2018-01-15,3058,Chapter 59: Anacrusis,PGTE
+2018-01-17,3113,Villainous Interlude: Crescendo,PGTE
+2018-01-22,3128,Chapter 60: Opening,PGTE
+2018-01-24,4841,Chapter 61: Tempo,PGTE
+2018-01-29,3242,Chapter 62: Verse,PGTE
+2018-01-31,4097,Interlude: Liesse I,PGTE
+2018-01-31,4495,Hierarchy,PGTE
+2018-02-05,3766,Interlude: Liesse II,PGTE
+2018-02-07,5033,Interlude: Liesse III,PGTE
+2018-02-09,3664,Interlude: Liesse IV,PGTE
+2018-02-12,3725,Chapter 63: Bridge,PGTE
+2018-02-14,3666,Chapter 64: Solo,PGTE
+2018-02-16,5888,Chapter 65: Elision,PGTE
+2018-02-19,3765,Chapter 66: Refrain,PGTE
+2018-02-21,3450,Chapter 67: Middle Eight,PGTE
+2018-02-23,4108,Chapter 68: Coda,PGTE
+2018-02-26,5560,Chapter 69: Swan Song,PGTE
+2018-02-28,3702,Chapter 70: Reverb,PGTE
+2018-03-02,4653,Prosecution I,PGTE
+2018-03-02,4755,Chapter 71: Reprise,PGTE
+2018-03-05,7164,Chapter 72: Curtains,PGTE
+2018-03-07,9000,Epilogue,PGTE
+2018-04-09,3077,Prosecution II,PGTE
+2018-04-09,8250,Prologue,PGTE
+2018-04-11,4085,Interlude: Stairway,PGTE
+2018-04-13,4078,Chapter 1: Observatory,PGTE
+2018-04-16,3284,Chapter 2: Alarm,PGTE
+2018-04-18,4383,Chapter 3: Chat,PGTE
+2018-04-20,4717,Chapter 4: Warpath,PGTE
+2018-04-23,3808,Chapter 5: Interests,PGTE
+2018-04-25,3565,Chapter 6: Hedges,PGTE
+2018-04-27,3627,Chapter 7: Snares,PGTE
+2018-04-30,3435,Chapter 8: Dialogue,PGTE
+2018-05-02,3502,Court I,PGTE
+2018-05-02,3542,Interlude: Crusaders,PGTE
+2018-05-04,3266,Chapter 9: Grand Pas,PGTE
+2018-05-07,3881,Chapter 10: Allegro,PGTE
+2018-05-09,3740,Chapter 11: Ballon,PGTE
+2018-05-11,3567,Chapter 12: Cambré,PGTE
+2018-05-14,3105,Chapter 13: Élevé,PGTE
+2018-05-16,3438,Chapter 14: Arabesque,PGTE
+2018-05-18,3747,Chapter 15: Bravura,PGTE
+2018-05-21,3802,Chapter 16: Pirouette,PGTE
+2018-05-23,4861,Interlude: Kaleidoscope,PGTE
+2018-05-25,3540,Interlude: Kaleidoscope II,PGTE
+2018-05-28,3757,Interlude: Kaleidoscope III,PGTE
+2018-05-30,5521,Interlude: Kaleidoscope IV,PGTE
+2018-06-01,4005,Court II,PGTE
+2018-06-01,3830,Interlude: Kaleidoscope V,PGTE
+2018-06-04,6117,Interlude: Kaleidoscope VI,PGTE
+2018-06-06,4174,Chapter 17: Contingent,PGTE
+2018-06-08,5411,Chapter 18: Cradle,PGTE
+2018-06-11,4048,Chapter 19: Recovery,PGTE
+2018-06-13,3674,Chapter 20: Onset,PGTE
+2018-06-15,4564,Chapter 21: Tug-of-War,PGTE
+2018-06-18,3845,Chapter 22: Trip,PGTE
+2018-06-20,6110,Interlude: Red The Flowers,PGTE
+2018-06-22,5473,Interlude: Sing We Of Rage,PGTE
+2018-06-25,5067,Interlude: Lest Dawn Fail,PGTE
+2018-06-27,3847,Chapter 23: Recoup,PGTE
+2018-06-29,4012,Chapter 24: Invitation (Redux),PGTE
+2018-07-02,3186,Court III,PGTE
+2018-07-02,3280,Chapter 25: Edge,PGTE
+2018-07-04,4246,Chapter 26: Plunge,PGTE
+2018-07-06,3747,Chapter 27: Into Dusk,PGTE
+2018-07-09,3717,Chapter 28: Archaic,PGTE
+2018-07-11,3653,Chapter 29: Sixth,PGTE
+2018-07-13,3188,Chapter 30: Witness,PGTE
+2018-07-16,4430,Chapter 31: Spectation,PGTE
+2018-07-18,4108,Chapter 32: Kernel,PGTE
+2018-07-20,3565,Chapter 33: Keter,PGTE
+2018-07-23,3585,Chapter 34: Abyss,PGTE
+2018-07-25,4271,Chapter 35: Stroll,PGTE
+2018-07-27,3649,Chapter 36: Enchère,PGTE
+2018-07-30,4645,Chapter 37: Offing,PGTE
+2018-08-01,3443,Fatalism I,PGTE
+2018-08-01,3544,Chapter 38: All According To (Redux),PGTE
+2018-08-03,3619,Chapter 39: Hakram’s Plan,PGTE
+2018-08-06,3546,Chapter 40: Vivienne’s Plan,PGTE
+2018-08-08,3517,Chapter 41: Akua’s Plan,PGTE
+2018-08-10,3492,Chapter 42: The Skein’s Plan,PGTE
+2018-08-13,3659,Chapter 43: Masego’s Plan,PGTE
+2018-08-15,3511,Chapter 44: Catherine’s Plan,PGTE
+2018-08-17,3624,Chapter 45: Ambush,PGTE
+2018-08-20,3745,Chapter 46: Possibly A Plan,PGTE
+2018-08-22,3486,Chapter 47: Culmination,PGTE
+2018-08-24,5402,Interlude: Empires,PGTE
+2018-08-27,3731,Chapter 48: Shadows,PGTE
+2018-08-29,3772,Chapter 49: Wrangle,PGTE
+2018-08-31,4628,Chapter 50: Partings,PGTE
+2018-09-03,4302,Fatalism II,PGTE
+2018-09-03,3876,Chapter 51: First Impressions,PGTE
+2018-09-05,3784,Chapter 52: Finesse,PGTE
+2018-09-07,3789,Chapter 53: Gloom,PGTE
+2018-09-10,3866,Chapter 54: Scavenger,PGTE
+2018-09-12,7146,Chapter 55: Outskirts,PGTE
+2018-09-14,3593,Chapter 56: Knock Knock,PGTE
+2018-09-17,3914,Chapter 57: Betwixt,PGTE
+2018-09-19,3853,Chapter 58: Quiet,PGTE
+2018-09-21,3740,Chapter 59: Audience,PGTE
+2018-09-24,3716,Chapter 60: Profiteers,PGTE
+2018-09-26,3726,Chapter 61: Remonstration,PGTE
+2018-09-28,3644,"Interlude: Queen’s Gambit, Offered",PGTE
+2018-10-01,5363,Fatalism III,PGTE
+2018-10-01,4128,Interlude: Zwischenzug,PGTE
+2018-10-03,4135,Interlude: Giuoco Pianissimo,PGTE
+2018-10-05,3671,Interlude: Zwischenzug II,PGTE
+2018-10-08,3607,Interlude: Giuoco Pianissimio II,PGTE
+2018-10-10,5513,"Interlude: Queen’s Gambit, Declined",PGTE
+2018-10-12,4169,Chapter 62: Impulse,PGTE
+2018-10-15,4103,Chapter 63: Initiation,PGTE
+2018-10-17,3679,Chapter 64: Momentum,PGTE
+2018-10-19,3687,Chapter 65: Impact,PGTE
+2018-10-22,3756,Chapter 66: Tremors,PGTE
+2018-10-24,5137,Chapter 67: Breakthrough,PGTE
+2018-10-26,3833,Interlude: Heretics,PGTE
+2018-10-29,3949,Interlude: Dreadful,PGTE
+2018-10-31,3733,Interlude: Apostates,PGTE
+2018-11-02,3774,Interlude: Apogee,PGTE
+2018-11-02,3474,Ye Mighty,PGTE
+2018-11-05,5535,Interlude: Inheritance,PGTE
+2018-11-07,3546,Chapter 68: Poised,PGTE
+2018-11-09,3857,Chapter 69: Peerage,PGTE
+2018-11-12,4049,Chapter 70: The Calm Before,PGTE
+2018-11-14,4095,Chapter 71: Ozone,PGTE
+2018-11-16,4298,Chapter 72: Outflow,PGTE
+2018-11-19,3749,Chapter 73: Feeder Bands,PGTE
+2018-11-21,4580,Chapter 74: Eyewall,PGTE
+2018-11-23,4160,Chapter 75: The Eye,PGTE
+2018-11-26,4359,Chapter 76: Storm Surge,PGTE
+2018-11-28,3815,Chapter 77: What Goes Around,PGTE
+2018-11-30,4244,Chapter 78: Comes Around,PGTE
+2018-12-03,4340,Chapter 79: As Above,PGTE
+2018-12-05,4332,Chapter 80: So Below,PGTE
+2018-12-07,3659,Chapter 81: Only To The Just,PGTE
+2018-12-10,4440,Chapter 82: Thrice Dead,PGTE
+2018-12-12,4824,Interlude: Triptych,PGTE
+2018-12-14,4840,Epilogue,PGTE
+2019-01-14,3622,Peregrine II,PGTE
+2019-01-14,6282,Prologue,PGTE
+2019-01-16,3684,Chapter 1: Visitation,PGTE
+2019-01-18,4043,Chapter 2: Stirrings,PGTE
+2019-01-21,3987,Chapter 3: Orison,PGTE
+2019-01-23,3579,Chapter 4: Reconnoiter,PGTE
+2019-01-25,4571,Chapter 5: Consult,PGTE
+2019-01-28,4867,Chapter 6: Furor,PGTE
+2019-01-30,3838,Chapter 7: Fellowship,PGTE
+2019-02-01,4157,Chapter 8: Veracity,PGTE
+2019-02-01,3358,Peregrine III,PGTE
+2019-02-04,3972,Chapter 9: Patient Knives,PGTE
+2019-02-06,3849,Chapter 10: Capture,PGTE
+2019-02-08,4229,Chapter 11: Forced March,PGTE
+2019-02-11,3999,Chapter 12: Relief,PGTE
+2019-02-13,4995,Interlude: Beheld I,PGTE
+2019-02-15,5837,Interlude: Beheld II,PGTE
+2019-02-18,4495,Chapter 13: Following,PGTE
+2019-02-20,5030,Chapter 14: Expedience,PGTE
+2019-02-22,3868,Chapter 15: Bereavement,PGTE
+2019-02-25,4003,Chapter 16: Adverse,PGTE
+2019-02-27,3642,Chapter 17: Cloaks,PGTE
+2019-03-01,4079,Interlude: Congregation I,PGTE
+2019-03-01,4018,Peregrine IV,PGTE
+2019-03-01,348,Some Recent Changes,PGTE
+2019-03-03,153,March Updates,PGTE
+2019-03-04,5270,Interlude: Congregation II,PGTE
+2019-03-06,4051,Interlude: Congregation III,PGTE
+2019-03-08,4726,Chapter 18: Fable,PGTE
+2019-03-11,3548,Chapter 19: Precedent,PGTE
+2019-03-13,4011,Chapter 20: Bearings,PGTE
+2019-03-15,3975,Chapter 21: Intervention,PGTE
+2019-03-18,4151,Chapter 22: Standoffs,PGTE
+2019-03-20,3646,Chapter 23: Readjustment,PGTE
+2019-03-22,3707,Chapter 24: Theft,PGTE
+2019-03-25,3688,Chapter 25: Dead Ends,PGTE
+2019-03-27,4259,Chapter 26: Civility,PGTE
+2019-03-29,3560,Chapter 27: Overtures,PGTE
+2019-04-01,3524,Chapter 28: Acts,PGTE
+2019-04-01,4138,Inexorable,PGTE
+2019-04-03,5186,Chapter 29: Retrospect,PGTE
+2019-04-05,4769,Chapter 30: Weaver; Woven,PGTE
+2019-04-08,3673,Chapter 31: Fall or Flight,PGTE
+2019-04-10,3934,"Interlude: West, Ever Pursuing",PGTE
+2019-04-12,4770,Interlude: Graves We Have Yet To Fill,PGTE
+2019-04-15,4148,Interlude: Trust Is The Wager,PGTE
+2019-04-17,6105,Interlude: Death They Cannot Steal,PGTE
+2019-04-19,3852,Interlude: And Pay Your Toll,PGTE
+2019-04-22,3636,Interlude: When Iron Rests,PGTE
+2019-04-24,3877,Interlude: So We Shot Him,PGTE
+2019-04-26,3691,Chapter 32: Woven; Weaver,PGTE
+2019-04-29,4335,Chapter 33: Concord,PGTE
+2019-05-01,3640,Chapter 34: Seven,PGTE
+2019-05-01,3593,Peers,PGTE
+2019-05-03,3592,Chapter 35: Colloquy,PGTE
+2019-05-06,4300,Chapter 36: Bid,PGTE
+2019-05-08,4061,Chapter 37: Accessory,PGTE
+2019-05-10,3604,Chapter 38: Pinnacle,PGTE
+2019-05-13,3575,Chapter 39: Looting,PGTE
+2019-05-15,3924,Chapter 40: Entreaty,PGTE
+2019-05-17,3686,Chapter 41: Ante,PGTE
+2019-05-20,4409,Chapter 42: Twined,PGTE
+2019-05-22,3748,Chapter 43: Treachery,PGTE
+2019-05-24,3658,Chapter 44: Small Slights,PGTE
+2019-05-27,3686,Chapter 45: Long Prices,PGTE
+2019-05-29,3492,Interlude: Repudiation,PGTE
+2019-05-31,3657,Interlude: Renunciation,PGTE
+2019-06-03,3799,Interlude: Repurpose,PGTE
+2019-06-03,3928,Miraculous,PGTE
+2019-06-05,4368,Interlude: Reckoning,PGTE
+2019-06-07,3597,Interlude: Reverberation,PGTE
+2019-06-10,3778,Chapter 46: Abdication,PGTE
+2019-06-12,3517,Chapter 47: Tenet,PGTE
+2019-06-14,3593,Chapter 48: Swan Song (Redux),PGTE
+2019-06-17,3566,Chapter 49: Cracked,PGTE
+2019-06-19,4181,Chapter 50: Sunset,PGTE
+2019-06-21,3815,Chapter 51: Twilight,PGTE
+2019-06-24,4143,Interlude: Concourse I,PGTE
+2019-06-26,3532,Interlude: Concourse II,PGTE
+2019-06-28,5027,Interlude: Concourse III,PGTE
+2019-07-01,3582,Interlude: Concourse IV,PGTE
+2019-07-01,4097,Seed I,PGTE
+2019-07-03,4150,Interlude: Concourse V,PGTE
+2019-07-05,3531,Chapter 52: Recovery,PGTE
+2019-07-08,3536,Chapter 53: Avowed,PGTE
+2019-07-10,4071,Chapter 54: Lustrate,PGTE
+2019-07-12,4282,Chapter 55: Renewal,PGTE
+2019-07-15,3546,Chapter 56: Reflections,PGTE
+2019-07-17,3634,Chapter 57: Hearing,PGTE
+2019-07-19,3727,Chapter 58: Prolong,PGTE
+2019-07-22,3632,Chapter 59: Review,PGTE
+2019-07-24,3660,Chapter 60: Melancholy,PGTE
+2019-07-26,3675,Chapter 61: Reformation,PGTE
+2019-07-29,3521,Chapter 62: Pledged,PGTE
+2019-07-31,3696,Chapter 63: Draft,PGTE
+2019-08-02,3568,Chapter 64: Breathe,PGTE
+2019-08-02,3525,Seed II,PGTE
+2019-08-05,3636,Chapter 65: Convivial,PGTE
+2019-08-07,3568,Chapter 66: Silvered,PGTE
+2019-08-09,3533,Chapter 67: Starlight,PGTE
+2019-08-12,3944,Chapter 68: Apropos,PGTE
+2019-08-14,4033,Chapter 69: Repute,PGTE
+2019-08-16,3605,Chapter 70: Dawning,PGTE
+2019-08-19,3498,Chapter 71: Verge,PGTE
+2019-08-21,3469,Interlude: Iron,PGTE
+2019-08-23,3725,Interlude: Rope,PGTE
+2019-08-26,3970,Interlude: Candle,PGTE
+2019-08-28,4484,Interlude: Harp,PGTE
+2019-08-30,5891,Interlude: Bone,PGTE
+2019-08-30,97,Site Hack,PGTE
+2019-09-02,3968,Interlude: Mirror,PGTE
+2019-09-02,3650,Winter I,PGTE
+2019-09-04,6394,Interlude: And Yet We Stand,PGTE
+2019-09-06,4023,Chapter 72: Rumours,PGTE
+2019-09-09,3937,Chapter 73: Discerning,PGTE
+2019-09-11,4003,Chapter 74: Partial,PGTE
+2019-09-13,3888,Chapter 75: Analog,PGTE
+2019-09-16,3692,Chapter 76: Procession,PGTE
+2019-09-18,4452,Chapter 77: Artless,PGTE
+2019-09-20,4004,Chapter 78: Trenchant,PGTE
+2019-09-23,3613,Chapter 79: Hitch,PGTE
+2019-09-25,3805,Chapter 80: Descant,PGTE
+2019-09-27,4458,Chapter 81: Devotional,PGTE
+2019-09-30,3905,Chapter 82: Delegations,PGTE
+2019-10-02,3608,Chapter 83: A Mould Unbroken,PGTE
+2019-10-02,3619,Winter II,PGTE
+2019-10-04,3269,"Interlude: Rise, Rise",PGTE
+2019-10-07,3919,Interlude: All Ye Villains,PGTE
+2019-10-09,3482,"Interlude: So Smile, Tyrants",PGTE
+2019-10-11,4451,Interlude: And So Let Us Be,PGTE
+2019-10-14,4537,Interlude: Wicked,PGTE
+2019-10-16,3623,Interlude: Suffer No Compromise In This,PGTE
+2019-10-18,4109,Interlude: A Hundred Battles,PGTE
+2019-10-21,3277,Chapter 84: Declaration,PGTE
+2019-10-23,3988,Chapter 85: When It Rains,PGTE
+2019-10-25,3889,Chapter 86: It Pours,PGTE
+2019-10-28,5328,Chapter 87: Connive,PGTE
+2019-10-30,6346,Chapter 88: Testament,PGTE
+2019-11-01,4465,Chapter 89: Sing We Of Ruin,PGTE
+2019-11-01,3627,Winter III,PGTE
+2019-11-04,5304,Epilogue,PGTE
+2020-01-05,167,Update Schedule (Book VI),PGTE
+2020-01-06,4028,Winter IV,PGTE
+2020-01-06,6826,Prologue,PGTE
+2020-01-10,5791,Chapter 1: Recommence,PGTE
+2020-01-14,5744,Chapter 2: Enlistment,PGTE
+2020-01-17,5172,Chapter 3: Standard,PGTE
+2020-01-21,6063,Chapter 4: Shadowed,PGTE
+2020-01-24,5178,Chapter 5: Expired,PGTE
+2020-01-28,6455,Chapter 6: Equivalent,PGTE
+2020-01-31,5404,Chapter 7: Approach,PGTE
+2020-02-04,5754,Chapter 8: Stanchion,PGTE
+2020-02-04,3551,Kingfisher I,PGTE
+2020-02-07,5963,Chapter 9: Acceleration,PGTE
+2020-02-11,5212,Chapter 10: Reflections,PGTE
+2020-02-14,5381,Chapter 11: Veer,PGTE
+2020-02-18,5775,Chapter 12: Contest,PGTE
+2020-02-21,5224,Interlude: Truce,PGTE
+2020-02-25,5115,Interlude: Terms,PGTE
+2020-02-28,5168,Chapter 13: Ingress,PGTE
+2020-03-03,5190,Chapter 14: Audience,PGTE
+2020-03-03,8030,Kingfisher II,PGTE
+2020-03-06,5600,Chapter 15: Machinations,PGTE
+2020-03-10,5275,Chapter 16: Divine,PGTE
+2020-03-13,5553,Chapter 17: Felonious,PGTE
+2020-03-17,5443,Chapter 18: Clout,PGTE
+2020-03-20,5259,Chapter 19: Spectral,PGTE
+2020-03-24,5298,Chapter 20: Hook,PGTE
+2020-03-27,5354,Chapter 21: Line,PGTE
+2020-03-31,5620,Chapter 22: Sinker,PGTE
+2020-04-03,5213,Interlude: Rogue,PGTE
+2020-04-03,5068,Charlatan I,PGTE
+2020-04-07,5431,Interlude: Archer,PGTE
+2020-04-10,5178,Interlude: Deadhand,PGTE
+2020-04-15,5226,Interlude: Concert,PGTE
+2020-04-17,5247,Interlude: Threads,PGTE
+2020-04-21,5130,Interlude: Set Them Up,PGTE
+2020-04-24,7101,Interlude: Knock Them Down,PGTE
+2020-04-28,5346,Chapter 23: Repercussions,PGTE
+2020-05-01,5680,Charlatan II,PGTE
+2020-05-01,5311,Chapter 24: Like A Hanging Sword,PGTE
+2020-05-05,5243,Chapter 25: Sanitize,PGTE
+2020-05-08,5273,Chapter 26: Palaver,PGTE
+2020-05-12,5449,Chapter 27: Nigh,PGTE
+2020-05-15,5173,Chapter 28: Contend,PGTE
+2020-05-19,5415,Chapter 29: Conviction,PGTE
+2020-05-22,5949,Chapter 30: Quarters,PGTE
+2020-05-26,5937,Chapter 31: Pursuits,PGTE
+2020-05-29,5643,Chapter 32: Convened,PGTE
+2020-06-02,5627,Chapter 33: Convenience,PGTE
+2020-06-02,5112,Charlatan III,PGTE
+2020-06-05,5980,Interlude: Paragons,PGTE
+2020-06-09,5908,Interlude: Epitomes,PGTE
+2020-06-12,5172,Chapter 34: Quickening,PGTE
+2020-06-16,5157,Chapter 35: Portents,PGTE
+2020-06-19,5600,Chapter 36: Trepidation,PGTE
+2020-06-23,5648,Chapter 37: Trying,PGTE
+2020-06-26,5382,Chapter 38: Tantamount,PGTE
+2020-06-30,5942,Chapter 39: Transliteration,PGTE
+2020-07-03,5530,Chapter 40: Campaign,PGTE
+2020-07-03,8018,Charlatan IV,PGTE
+2020-07-07,5235,Chapter 41: Coterie,PGTE
+2020-07-10,5704,Chapter 42: Castigation,PGTE
+2020-07-14,6636,Chapter 43: Conclusions,PGTE
+2020-07-17,5287,Interlude: Ebb,PGTE
+2020-07-21,5181,Chapter 44: Cliff,PGTE
+2020-07-24,5213,Chapter 45: Progress,PGTE
+2020-07-28,5493,Chapter 46: Vestibule,PGTE
+2020-07-31,6783,Interlude: Reprobates,PGTE
+2020-08-04,5638,Chapter 47: Methods,PGTE
+2020-08-04,6121,Five Stories,PGTE
+2020-08-07,5497,Chapter 48: Hilltop,PGTE
+2020-08-11,5635,Chapter 49: Association,PGTE
+2020-08-14,6130,Chapter 50: Mores,PGTE
+2020-08-18,5287,Chapter 51: Endwise,PGTE
+2020-08-21,5461,Chapter 52: Sortie,PGTE
+2020-08-25,5242,Chapter 53: Joust,PGTE
+2020-08-28,5199,Chapter 54: King’s Fianchetto,PGTE
+2020-09-01,5475,Chapter 55: Queen’s Pawn,PGTE
+2020-09-01,4780,Malanza,PGTE
+2020-09-04,5123,Chapter 56: Repertoires,PGTE
+2020-09-08,5415,Chapter 57: Battery,PGTE
+2020-09-11,5142,Chapter 58: Prophylaxis,PGTE
+2020-09-15,4985,Interlude: Old Dogs,PGTE
+2020-09-18,4987,Interlude: New Tricks,PGTE
+2020-09-22,5212,Chapter 59: Materialism,PGTE
+2020-09-25,5207,Chapter 60:  Zwischenschach,PGTE
+2020-09-29,5141,Chapter 61: Adouber,PGTE
+2020-10-02,6561,Chapter 62: Adjournment,PGTE
+2020-10-02,4041,Disjunction,PGTE
+2020-10-06,5307,Interlude: Theism,PGTE
+2020-10-09,5227,Interlude: Ietsism,PGTE
+2020-10-13,5704,Chapter 63: Dynamism,PGTE
+2020-10-16,5233,Chapter 64: Candidate Moves,PGTE
+2020-10-20,5209,Chapter 65: Cross-Check,PGTE
+2020-10-23,5185,Chapter 66: Blind Pigs,PGTE
+2020-10-27,5322,Chapter 67: Isolani,PGTE
+2020-10-30,4864,Chapter 68: Opposition,PGTE
+2020-11-03,5604,Chapter 69: Book Draw,PGTE
+2020-11-03,3546,Colossal I,PGTE
+2020-11-06,5840,Chapter 70: Solved Game,PGTE
+2020-11-10,5566,Chapter 71: Eschatology,PGTE
+2020-11-13,5206,Chapter 72: Omen,PGTE
+2020-11-17,5889,Chapter 73: Signs,PGTE
+2020-11-20,5123,Chapter 74: Herald,PGTE
+2020-11-24,5579,Chapter 75: Desolation,PGTE
+2020-11-27,5861,Chapter 76: Rapt,PGTE
+2020-12-01,4875,Chapter 77: Tribulation,PGTE
+2020-12-01,3610,Colossal II,PGTE
+2020-12-04,6598,Interlude: Blood,PGTE
+2020-12-08,6576,Interlude: Song,PGTE
+2020-12-11,7819,Interlude: Woeful,PGTE

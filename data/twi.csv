@@ -1,0 +1,472 @@
+date,wordcount,chapter,work
+2016-07-27,749,1.00,The Wandering Inn
+2016-07-27,2826,1.01,The Wandering Inn
+2016-07-30,4447,1.02,The Wandering Inn
+2016-08-07,1968,1.03,The Wandering Inn
+2016-08-10,3812,1.04,The Wandering Inn
+2016-08-13,2710,1.05,The Wandering Inn
+2016-08-17,3440,1.06,The Wandering Inn
+2016-08-20,5221,1.07,The Wandering Inn
+2016-08-24,2680,1.08,The Wandering Inn
+2016-08-28,2914,1.09,The Wandering Inn
+2016-08-31,5623,1.10,The Wandering Inn
+2016-09-04,3184,1.11,The Wandering Inn
+2016-09-04,1190,Interlude,The Wandering Inn
+2016-09-07,2351,1.12,The Wandering Inn
+2016-09-11,3846,1.13,The Wandering Inn
+2016-09-14,3533,1.14,The Wandering Inn
+2016-09-18,4431,1.15,The Wandering Inn
+2016-09-21,1431,1.16,The Wandering Inn
+2016-09-25,4107,1.17,The Wandering Inn
+2016-09-28,2620,1.18,The Wandering Inn
+2016-10-02,3760,1.19,The Wandering Inn
+2016-10-05,4727,1.20,The Wandering Inn
+2016-10-06,2768,Interlude – 1.00 R,The Wandering Inn
+2016-10-12,4361,1.01 R,The Wandering Inn
+2016-10-16,5345,1.21,The Wandering Inn
+2016-10-19,5494,1.22,The Wandering Inn
+2016-10-23,5180,1.23,The Wandering Inn
+2016-10-26,3459,Interlude – King Edition,The Wandering Inn
+2016-10-30,7608,1.24,The Wandering Inn
+2016-11-02,6767,1.02 R,The Wandering Inn
+2016-11-06,4375,1.03 R,The Wandering Inn
+2016-11-09,4906,1.25,The Wandering Inn
+2016-11-13,4897,1.26,The Wandering Inn
+2016-11-16,4785,1.27,The Wandering Inn
+2016-11-20,5294,1.04 R,The Wandering Inn
+2016-11-23,7908,1.05 R,The Wandering Inn
+2016-11-27,6143,1.28,The Wandering Inn
+2016-11-30,6127,1.06 R,The Wandering Inn
+2016-12-04,7644,1.29,The Wandering Inn
+2016-12-07,5332,1.30,The Wandering Inn
+2016-12-11,7810,1.31,The Wandering Inn
+2016-12-14,8622,1.07 R,The Wandering Inn
+2016-12-18,7234,1.08 R,The Wandering Inn
+2016-12-21,6503,1.32,The Wandering Inn
+2016-12-25,8558,1.33,The Wandering Inn
+2016-12-28,5355,1.09 R,The Wandering Inn
+2017-01-01,8073,1.10 R,The Wandering Inn
+2017-01-04,7989,1.34,The Wandering Inn
+2017-01-08,7304,1.35,The Wandering Inn
+2017-01-11,6449,1.11 R,The Wandering Inn
+2017-01-15,9798,1.12 R,The Wandering Inn
+2017-01-18,8093,1.36,The Wandering Inn
+2017-01-22,7811,1.37,The Wandering Inn
+2017-01-25,6360,1.38,The Wandering Inn
+2017-01-29,5473,1.39,The Wandering Inn
+2017-01-31,8156,1.40,The Wandering Inn
+2017-02-05,6847,1.13 R,The Wandering Inn
+2017-02-07,8706,1.41,The Wandering Inn
+2017-02-12,8346,1.00 H,The Wandering Inn
+2017-02-15,6680,1.01 H,The Wandering Inn
+2017-02-19,8780,1.02 H,The Wandering Inn
+2017-02-22,8064,1.42,The Wandering Inn
+2017-02-25,7127,1.43,The Wandering Inn
+2017-03-01,8309,1.44,The Wandering Inn
+2017-03-04,5164,1.45,The Wandering Inn
+2017-03-07,3138,Interlude,The Wandering Inn
+2017-03-12,5813,2.00,The Wandering Inn
+2017-03-15,5926,2.01,The Wandering Inn
+2017-03-18,5996,2.02,The Wandering Inn
+2017-03-22,9374,2.03,The Wandering Inn
+2017-03-25,9004,2.04,The Wandering Inn
+2017-03-28,6309,2.05,The Wandering Inn
+2017-04-02,1672,2.06,The Wandering Inn
+2017-04-04,7880,2.07,The Wandering Inn
+2017-04-09,9262,2.08,The Wandering Inn
+2017-04-12,8344,2.09,The Wandering Inn
+2017-04-12,6716,2.10 T,The Wandering Inn
+2017-04-13,7888,2.11,The Wandering Inn
+2017-04-14,9634,2.12,The Wandering Inn
+2017-04-15,8297,2.13,The Wandering Inn
+2017-04-16,10108,2.14 G,The Wandering Inn
+2017-04-17,8785,Side Story – Mating Rituals,The Wandering Inn
+2017-04-18,9940,2.15,The Wandering Inn
+2017-04-22,8984,2.16,The Wandering Inn
+2017-04-22,9863,2.17,The Wandering Inn
+2017-04-25,10220,1.00 C,The Wandering Inn
+2017-04-25,8561,2.18,The Wandering Inn
+2017-04-26,4223,1.01 C,The Wandering Inn
+2017-04-27,9287,2.19 G,The Wandering Inn
+2017-04-29,9993,2.20,The Wandering Inn
+2017-05-03,10697,2.21,The Wandering Inn
+2017-05-05,11023,2.22 K,The Wandering Inn
+2017-05-07,11475,2.23,The Wandering Inn
+2017-05-10,9659,2.24 T,The Wandering Inn
+2017-05-14,10063,2.25,The Wandering Inn
+2017-05-17,10683,2.26,The Wandering Inn
+2017-05-21,10650,2.27 G,The Wandering Inn
+2017-05-24,9491,2.28,The Wandering Inn
+2017-05-26,11039,2.29,The Wandering Inn
+2017-05-28,9737,2.30,The Wandering Inn
+2017-05-28,5562,S02 – The Antinium Wars (Pt.1),The Wandering Inn
+2017-05-31,11081,2.31,The Wandering Inn
+2017-05-31,6949,S02 – The Antinium Wars (Pt.2),The Wandering Inn
+2017-06-04,10659,2.32 H,The Wandering Inn
+2017-06-07,10561,2.33,The Wandering Inn
+2017-06-09,9223,2.34,The Wandering Inn
+2017-06-11,11225,2.35,The Wandering Inn
+2017-06-14,8441,2.36 G,The Wandering Inn
+2017-06-18,9531,2.37,The Wandering Inn
+2017-06-21,11922,2.38,The Wandering Inn
+2017-06-24,9776,Interlude,The Wandering Inn
+2017-06-27,10934,2.39,The Wandering Inn
+2017-06-30,11172,S03 – Wistram Days (Pt. 1),The Wandering Inn
+2017-07-01,11236,2.40,The Wandering Inn
+2017-07-04,12591,2.41,The Wandering Inn
+2017-07-08,10313,2.42,The Wandering Inn
+2017-07-11,9120,2.43,The Wandering Inn
+2017-07-14,11964,1.00 D,The Wandering Inn
+2017-07-14,11601,1.01 D,The Wandering Inn
+2017-07-15,9046,2.44,The Wandering Inn
+2017-07-18,10809,2.45,The Wandering Inn
+2017-07-22,9646,2.46,The Wandering Inn
+2017-07-25,11760,2.47,The Wandering Inn
+2017-07-29,13519,2.48,The Wandering Inn
+2017-08-01,10480,3.00 E,The Wandering Inn
+2017-08-05,10686,3.01 E,The Wandering Inn
+2017-08-08,12956,3.02 H,The Wandering Inn
+2017-08-12,13988,3.03,The Wandering Inn
+2017-08-15,11081,3.04,The Wandering Inn
+2017-08-19,10844,3.05 L,The Wandering Inn
+2017-08-22,13259,3.06 L,The Wandering Inn
+2017-08-26,12560,3.07 H,The Wandering Inn
+2017-08-29,9160,3.08 H,The Wandering Inn
+2017-08-31,13208,S03 – Wistram Days (Pt. 2),The Wandering Inn
+2017-09-02,10737,3.09,The Wandering Inn
+2017-09-05,10819,3.10,The Wandering Inn
+2017-09-09,11642,3.11 E,The Wandering Inn
+2017-09-12,9768,3.12 E,The Wandering Inn
+2017-09-16,13206,3.13,The Wandering Inn
+2017-09-19,11066,3.14,The Wandering Inn
+2017-09-23,10964,3.15,The Wandering Inn
+2017-09-26,13137,3.16,The Wandering Inn
+2017-09-27,11377,3.17 T,The Wandering Inn
+2017-09-28,11037,3.18 T,The Wandering Inn
+2017-09-30,9372,3.19 T,The Wandering Inn
+2017-10-03,10792,3.20 T,The Wandering Inn
+2017-10-07,9770,3.21 L,The Wandering Inn
+2017-10-10,10709,3.22 L,The Wandering Inn
+2017-10-14,13912,3.23 L,The Wandering Inn
+2017-10-17,10294,3.24,The Wandering Inn
+2017-10-21,10915,3.25,The Wandering Inn
+2017-10-24,9875,3.26 G,The Wandering Inn
+2017-10-26,11708,3.27 M,The Wandering Inn
+2017-10-28,12524,3.28 G,The Wandering Inn
+2017-10-31,11213,3.29 G,The Wandering Inn
+2017-11-04,11720,3.30,The Wandering Inn
+2017-11-07,10191,3.31 G,The Wandering Inn
+2017-11-11,10597,Wistram Days (Pt. 3),The Wandering Inn
+2017-11-12,12347,Wistram Days (Pt. 4),The Wandering Inn
+2017-11-14,12448,Wistram Days (Pt. 5),The Wandering Inn
+2017-11-18,11541,Wistram Days (Pt. 6),The Wandering Inn
+2017-11-21,11831,Wistram Days (Pt. 7),The Wandering Inn
+2017-11-25,11206,3.32,The Wandering Inn
+2017-11-28,10481,3.33,The Wandering Inn
+2017-12-02,13395,3.34,The Wandering Inn
+2017-12-05,10604,3.35,The Wandering Inn
+2017-12-09,12244,3.36,The Wandering Inn
+2017-12-12,11413,3.37,The Wandering Inn
+2017-12-16,12552,3.38,The Wandering Inn
+2017-12-19,10578,3.39,The Wandering Inn
+2017-12-23,12601,3.40,The Wandering Inn
+2017-12-25,13831,3.41,The Wandering Inn
+2017-12-26,10114,3.42,The Wandering Inn
+2017-12-30,13380,Interlude,The Wandering Inn
+2018-01-06,12572,4.00 K,The Wandering Inn
+2018-01-09,14118,4.01 K,The Wandering Inn
+2018-01-13,12849,4.02 K,The Wandering Inn
+2018-01-16,14510,4.03 K,The Wandering Inn
+2018-01-20,11748,4.04 K,The Wandering Inn
+2018-01-23,14732,4.05 K,The Wandering Inn
+2018-01-27,12953,4.06 KM,The Wandering Inn
+2018-01-30,10549,4.07,The Wandering Inn
+2018-02-01,14772,4.08 T,The Wandering Inn
+2018-02-03,8376,4.09,The Wandering Inn
+2018-02-06,11185,4.10,The Wandering Inn
+2018-02-10,11404,4.11,The Wandering Inn
+2018-02-13,11813,4.12,The Wandering Inn
+2018-02-17,12885,4.13 L,The Wandering Inn
+2018-02-20,10798,4.14 L,The Wandering Inn
+2018-02-20,13288,4.15 L,The Wandering Inn
+2018-02-24,10948,4.16,The Wandering Inn
+2018-02-27,10753,4.17,The Wandering Inn
+2018-03-01,12095,1.02 D,The Wandering Inn
+2018-03-03,12642,1.03 D,The Wandering Inn
+2018-03-06,10303,1.04 D,The Wandering Inn
+2018-03-06,12874,1.05 D,The Wandering Inn
+2018-03-10,13976,1.06 D,The Wandering Inn
+2018-03-13,11564,4.18,The Wandering Inn
+2018-03-17,12862,4.19,The Wandering Inn
+2018-03-20,13462,4.20 E,The Wandering Inn
+2018-03-24,11736,4.21 E,The Wandering Inn
+2018-03-27,9910,4.22 E,The Wandering Inn
+2018-03-27,10003,4.23 E,The Wandering Inn
+2018-03-31,13768,4.24,The Wandering Inn
+2018-04-03,12865,4.25 N,The Wandering Inn
+2018-04-07,11313,4.26 M,The Wandering Inn
+2018-04-10,12727,4.27 H,The Wandering Inn
+2018-04-14,13767,4.28,The Wandering Inn
+2018-04-17,12818,4.29,The Wandering Inn
+2018-04-21,12578,4.30,The Wandering Inn
+2018-04-24,12269,4.31,The Wandering Inn
+2018-04-28,10453,4.32 G,The Wandering Inn
+2018-05-01,11234,1.02 C,The Wandering Inn
+2018-05-01,13723,1.03 C,The Wandering Inn
+2018-05-05,6396,1.04 C,The Wandering Inn
+2018-05-05,10471,1.05 C,The Wandering Inn
+2018-05-08,11341,4.33,The Wandering Inn
+2018-05-12,13006,4.34,The Wandering Inn
+2018-05-15,11728,4.35 E,The Wandering Inn
+2018-05-17,10441,4.36 O,The Wandering Inn
+2018-05-19,12626,4.37 O,The Wandering Inn
+2018-05-22,12872,4.38 B,The Wandering Inn
+2018-05-26,12476,4.39 G,The Wandering Inn
+2018-05-29,11601,4.40 L,The Wandering Inn
+2018-06-02,8088,4.41 L,The Wandering Inn
+2018-06-02,7708,4.42 L,The Wandering Inn
+2018-06-05,12480,4.43,The Wandering Inn
+2018-06-09,11812,4.44 M,The Wandering Inn
+2018-06-12,13318,4.45,The Wandering Inn
+2018-06-16,13074,4.46,The Wandering Inn
+2018-06-19,11899,4.47,The Wandering Inn
+2018-06-23,13043,S02 – The Antinium Wars (Pt.3),The Wandering Inn
+2018-06-26,8520,S02 – The Antinium Wars (Pt.4),The Wandering Inn
+2018-06-26,8663,S02 – The Antinium Wars (Pt.5),The Wandering Inn
+2018-06-29,13460,4.48,The Wandering Inn
+2018-07-07,13780,4.49,The Wandering Inn
+2018-07-09,5078,The Depthless Doctor,The Wandering Inn
+2018-07-10,9281,5.00,The Wandering Inn
+2018-07-14,15361,5.01,The Wandering Inn
+2018-07-17,12977,5.02,The Wandering Inn
+2018-07-21,10407,5.03,The Wandering Inn
+2018-07-21,9038,5.04,The Wandering Inn
+2018-07-24,13224,5.05,The Wandering Inn
+2018-07-27,14558,5.06 M,The Wandering Inn
+2018-07-28,12484,5.07,The Wandering Inn
+2018-07-31,16298,5.08,The Wandering Inn
+2018-08-04,14311,Interlude – Flos,The Wandering Inn
+2018-08-07,10867,5.09 E,The Wandering Inn
+2018-08-11,14365,5.10 E,The Wandering Inn
+2018-08-14,17439,5.11 E,The Wandering Inn
+2018-08-18,13662,5.12,The Wandering Inn
+2018-08-21,18381,5.13,The Wandering Inn
+2018-08-25,13810,5.14,The Wandering Inn
+2018-08-28,11773,5.15,The Wandering Inn
+2018-09-01,12877,5.16 S,The Wandering Inn
+2018-09-01,11854,5.17 S,The Wandering Inn
+2018-09-04,18212,5.18 S,The Wandering Inn
+2018-09-08,10189,5.19 G,The Wandering Inn
+2018-09-11,15177,5.20 G,The Wandering Inn
+2018-09-15,14509,5.21 E,The Wandering Inn
+2018-09-18,11818,5.22 G,The Wandering Inn
+2018-09-22,16457,5.23 G,The Wandering Inn
+2018-09-29,15051,5.24 L,The Wandering Inn
+2018-10-02,10101,5.25 L,The Wandering Inn
+2018-10-06,13797,5.26 L,The Wandering Inn
+2018-10-09,14484,5.27,The Wandering Inn
+2018-10-13,12227,5.28,The Wandering Inn
+2018-10-16,18994,5.29,The Wandering Inn
+2018-10-19,34322,Glossary,The Wandering Inn
+2018-10-20,12213,5.30 G,The Wandering Inn
+2018-10-23,12078,5.31 G,The Wandering Inn
+2018-10-27,14602,5.32 G,The Wandering Inn
+2018-10-30,15473,5.33 B,The Wandering Inn
+2018-11-01,12965,Interlude – Blackmage,The Wandering Inn
+2018-11-03,15217,5.34,The Wandering Inn
+2018-11-06,16714,5.35 H,The Wandering Inn
+2018-11-10,18638,5.36,The Wandering Inn
+2018-11-13,11839,5.37 G,The Wandering Inn
+2018-11-17,18335,5.38,The Wandering Inn
+2018-11-20,17578,5.39,The Wandering Inn
+2018-11-24,14509,5.40,The Wandering Inn
+2018-11-27,19522,5.41,The Wandering Inn
+2018-12-01,19488,5.42,The Wandering Inn
+2018-12-04,20383,5.43,The Wandering Inn
+2018-12-06,4846,Interlude – Niers,The Wandering Inn
+2018-12-08,20380,5.44,The Wandering Inn
+2018-12-11,12593,5.45,The Wandering Inn
+2018-12-15,19796,5.46,The Wandering Inn
+2018-12-18,12964,5.47 G,The Wandering Inn
+2018-12-22,18147,5.48 G,The Wandering Inn
+2018-12-25,18219,5.49,The Wandering Inn
+2018-12-29,14527,5.50 G,The Wandering Inn
+2018-12-30,5450,Interlude – Bird,The Wandering Inn
+2019-01-08,19357,5.51 G,The Wandering Inn
+2019-01-12,22672,5.52,The Wandering Inn
+2019-01-15,16961,5.53,The Wandering Inn
+2019-01-19,11093,5.54 (Non-Canon),The Wandering Inn
+2019-01-22,27562,5.54,The Wandering Inn
+2019-01-26,21939,Interlude – Krshia,The Wandering Inn
+2019-01-29,12461,5.55 G,The Wandering Inn
+2019-02-02,13682,5.56 G,The Wandering Inn
+2019-02-05,16794,5.57,The Wandering Inn
+2019-02-09,21364,5.58,The Wandering Inn
+2019-02-12,21311,5.59,The Wandering Inn
+2019-02-16,7028,Interlude – Pebblesnatch and Garry,The Wandering Inn
+2019-02-16,19855,5.60,The Wandering Inn
+2019-02-19,16589,5.61,The Wandering Inn
+2019-02-26,31191,5.62,The Wandering Inn
+2019-03-02,18469,Interlude,The Wandering Inn
+2019-03-19,19722,6.00,The Wandering Inn
+2019-03-23,18703,6.01,The Wandering Inn
+2019-03-26,17502,6.02,The Wandering Inn
+2019-03-30,13186,6.03,The Wandering Inn
+2019-04-02,20083,6.04 D,The Wandering Inn
+2019-04-06,17321,6.05 D,The Wandering Inn
+2019-04-09,27876,6.06 D,The Wandering Inn
+2019-04-13,20893,6.07 D,The Wandering Inn
+2019-04-16,24553,6.08,The Wandering Inn
+2019-04-20,23062,6.09,The Wandering Inn
+2019-04-23,15501,6.10,The Wandering Inn
+2019-04-27,16302,6.11,The Wandering Inn
+2019-04-30,25086,6.12 K,The Wandering Inn
+2019-05-04,31472,6.13 K,The Wandering Inn
+2019-05-07,16854,6.14 K,The Wandering Inn
+2019-05-11,20278,6.15 K,The Wandering Inn
+2019-05-14,23327,6.16,The Wandering Inn
+2019-05-18,17393,6.17 S,The Wandering Inn
+2019-05-21,21979,6.18 H,The Wandering Inn
+2019-05-25,19499,6.19 H,The Wandering Inn
+2019-05-28,19834,6.20 D,The Wandering Inn
+2019-06-01,24884,6.21 D,The Wandering Inn
+2019-06-04,28582,6.22 D,The Wandering Inn
+2019-06-08,29182,6.23 D,The Wandering Inn
+2019-06-11,15948,6.24 D,The Wandering Inn
+2019-06-15,17130,6.25,The Wandering Inn
+2019-06-18,18248,6.26,The Wandering Inn
+2019-06-22,23563,6.27 M,The Wandering Inn
+2019-06-25,16474,6.28,The Wandering Inn
+2019-06-29,27743,6.29,The Wandering Inn
+2019-07-02,23529,Interlude – Embria,The Wandering Inn
+2019-07-13,23165,6.30,The Wandering Inn
+2019-07-16,23900,6.31,The Wandering Inn
+2019-07-20,32441,6.32,The Wandering Inn
+2019-07-23,13520,6.33 E,The Wandering Inn
+2019-07-27,22715,6.34 E,The Wandering Inn
+2019-07-30,20558,Interlude – Numbtongue (Pt.1),The Wandering Inn
+2019-08-03,29928,Interlude – Numbtongue (Pt.2),The Wandering Inn
+2019-08-06,11321,6.35,The Wandering Inn
+2019-08-10,23049,6.36 E,The Wandering Inn
+2019-08-13,17177,6.37 E,The Wandering Inn
+2019-08-17,21184,6.38,The Wandering Inn
+2019-08-20,18524,6.39,The Wandering Inn
+2019-08-24,20726,6.40 E,The Wandering Inn
+2019-08-27,31832,6.41 E,The Wandering Inn
+2019-08-31,25027,Interlude – Two Rats,The Wandering Inn
+2019-09-03,10352,Interlude – Rufelt,The Wandering Inn
+2019-09-07,22623,6.42 E,The Wandering Inn
+2019-09-10,31251,6.43 E,The Wandering Inn
+2019-09-14,15223,6.44 E,The Wandering Inn
+2019-09-17,19270,6.45 E,The Wandering Inn
+2019-09-21,16511,6.46 E,The Wandering Inn
+2019-09-24,20856,6.47 E,The Wandering Inn
+2019-10-12,25757,6.48 T,The Wandering Inn
+2019-10-15,27194,6.49,The Wandering Inn
+2019-10-19,18625,6.50 I,The Wandering Inn
+2019-10-22,19225,6.51 A,The Wandering Inn
+2019-10-26,20112,6.52 K,The Wandering Inn
+2019-10-29,22281,6.53 K,The Wandering Inn
+2019-11-02,22387,6.54 K,The Wandering Inn
+2019-11-05,21545,6.55 K,The Wandering Inn
+2019-11-09,24315,Interlude – The Titan’s Question,The Wandering Inn
+2019-11-12,18272,6.56,The Wandering Inn
+2019-11-16,19636,6.57,The Wandering Inn
+2019-11-19,18075,6.58,The Wandering Inn
+2019-11-23,25502,6.59,The Wandering Inn
+2019-11-26,16047,6.60,The Wandering Inn
+2019-11-30,28198,Interlude – Talia,The Wandering Inn
+2019-12-03,17820,6.61 L,The Wandering Inn
+2019-12-07,27626,6.62 L,The Wandering Inn
+2019-12-11,15140,Interlude – Foliana,The Wandering Inn
+2019-12-14,24531,6.63 P,The Wandering Inn
+2019-12-18,24456,6.64,The Wandering Inn
+2019-12-22,29334,6.65,The Wandering Inn
+2019-12-25,16832,6.66 H,The Wandering Inn
+2019-12-29,20575,6.67,The Wandering Inn
+2020-01-01,24712,6.68,The Wandering Inn
+2020-01-19,16320,7.00,The Wandering Inn
+2020-01-22,24157,7.01,The Wandering Inn
+2020-01-26,28684,7.02,The Wandering Inn
+2020-01-29,30313,7.03,The Wandering Inn
+2020-01-30,5451,Mini Stories – Crabs and Drinks,The Wandering Inn
+2020-02-01,22796,7.04,The Wandering Inn
+2020-02-04,12001,Interlude – Queens and Dragons,The Wandering Inn
+2020-02-09,35014,7.05 P,The Wandering Inn
+2020-02-12,18124,7.06,The Wandering Inn
+2020-02-16,25218,7.07,The Wandering Inn
+2020-02-19,22333,7.08 K,The Wandering Inn
+2020-02-23,32355,7.09 K,The Wandering Inn
+2020-02-26,28584,7.10 K,The Wandering Inn
+2020-03-01,26582,7.11,The Wandering Inn
+2020-03-03,11505,Interlude – Dancing and Brawling,The Wandering Inn
+2020-03-04,6543,Interlude – Chocolate Gold,The Wandering Inn
+2020-03-05,7610,Interlude – Chess and Ships,The Wandering Inn
+2020-03-06,15351,Interlude – Chocolate Alchemy,The Wandering Inn
+2020-03-07,16250,Interlude – Lifting Ants,The Wandering Inn
+2020-03-08,19308,Interlude – Burning Alcohol,The Wandering Inn
+2020-03-09,4548,Interlude – The Hangover After,The Wandering Inn
+2020-03-15,23895,7.12 G,The Wandering Inn
+2020-03-18,28424,7.13 K,The Wandering Inn
+2020-03-21,30290,Mating Rituals Pt.2,The Wandering Inn
+2020-03-24,15631,7.14 T,The Wandering Inn
+2020-03-29,34752,7.15 R,The Wandering Inn
+2020-03-31,25368,7.16 L,The Wandering Inn
+2020-04-12,23649,7.17 S,The Wandering Inn
+2020-04-15,29159,7.18 M,The Wandering Inn
+2020-04-19,34911,Interlude – Strategists at Sea (Pt. 1),The Wandering Inn
+2020-04-22,28545,Interlude – Strategists at Sea (Pt. 2),The Wandering Inn
+2020-04-26,21020,7.19,The Wandering Inn
+2020-04-29,33813,7.20,The Wandering Inn
+2020-05-03,25691,Interlude – A Night in the Inn,The Wandering Inn
+2020-05-06,23786,7.21 KQ,The Wandering Inn
+2020-05-10,24935,7.22 D,The Wandering Inn
+2020-05-13,28195,7.23 LM,The Wandering Inn
+2020-05-24,27186,7.24,The Wandering Inn
+2020-05-27,24978,7.25,The Wandering Inn
+2020-05-31,29833,7.26,The Wandering Inn
+2020-06-03,19352,7.27,The Wandering Inn
+2020-06-07,25603,Interlude – The Gecko of Illusions,The Wandering Inn
+2020-06-10,22446,7.28,The Wandering Inn
+2020-06-14,26647,7.29 B,The Wandering Inn
+2020-06-24,27313,7.30,The Wandering Inn
+2020-06-28,33967,7.31,The Wandering Inn
+2020-07-01,27272,Interlude – A Meeting of [Druids],The Wandering Inn
+2020-07-05,23935,7.32 D,The Wandering Inn
+2020-07-08,19498,7.33 I,The Wandering Inn
+2020-07-12,30951,7.34 C,The Wandering Inn
+2020-07-15,22027,7.35 C,The Wandering Inn
+2020-07-19,25527,7.36 C,The Wandering Inn
+2020-07-29,23116,7.37,The Wandering Inn
+2020-08-02,20424,7.38,The Wandering Inn
+2020-08-05,30164,7.39 A,The Wandering Inn
+2020-08-08,11223,Interlude – Carriages and Conversations,The Wandering Inn
+2020-08-09,13581,Interlude – Meetings and Friendships,The Wandering Inn
+2020-08-10,9539,Interlude – Sand and Notes,The Wandering Inn
+2020-08-11,11835,7.40 ER,The Wandering Inn
+2020-08-12,6805,Interlude – Food and Growth,The Wandering Inn
+2020-08-13,14886,7.41,The Wandering Inn
+2020-08-14,9222,7.42 M,The Wandering Inn
+2020-09-02,22264,7.43 G,The Wandering Inn
+2020-09-06,19538,7.44,The Wandering Inn
+2020-09-09,27507,7.45,The Wandering Inn
+2020-09-13,29862,7.46 K,The Wandering Inn
+2020-09-16,24058,7.47 K,The Wandering Inn
+2020-09-20,19814,7.48 K,The Wandering Inn
+2020-09-23,19561,7.49,The Wandering Inn
+2020-10-04,31450,Interlude – Experiments in Golems,The Wandering Inn
+2020-10-07,29080,7.50,The Wandering Inn
+2020-10-11,28512,7.51,The Wandering Inn
+2020-10-14,28979,7.52,The Wandering Inn
+2020-10-18,26740,7.53,The Wandering Inn
+2020-10-20,26037,7.54,The Wandering Inn
+2020-10-25,25968,7.55 E,The Wandering Inn
+2020-11-04,33664,Interlude – Saliss the Adventurer,The Wandering Inn
+2020-11-08,29490,7.56,The Wandering Inn
+2020-11-11,27414,7.57,The Wandering Inn
+2020-11-15,28787,7.58,The Wandering Inn
+2020-11-18,25789,7.59,The Wandering Inn
+2020-11-22,22190,7.60,The Wandering Inn
+2020-11-25,16186,Interlude – The Tribes of Izril,The Wandering Inn
+2020-12-06,30280,Interlude – The Innkeeper’s [Knight],The Wandering Inn
+2020-12-09,14,Protected: 7.61,The Wandering Inn

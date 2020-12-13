@@ -38,6 +38,10 @@ georgemfrost <- read_csv("data/tzk.csv",
     col_types = cols(date = col_datetime(format = "%Y-%m-%d"), 
         wordcount = col_integer(), work = col_character())) %>% 
   mutate(author = "George M. Frost")
+ddwebb <- read_csv("data/tgab.csv", 
+    col_types = cols(date = col_datetime(format = "%Y-%m-%d"), 
+        wordcount = col_integer(), work = col_character())) %>% 
+  mutate(author = "D. D. Webb")
 ```
 qntm
 ```{r}
@@ -92,7 +96,8 @@ data <- bind_rows(rothfuss, martin, king, jordan, sanderson,
                   ee,
                   pirateaba,
                   georgemfrost,
-                  qntm
+                  qntm,
+                  ddwebb
                   ) %>% 
   arrange(date) %>% 
   group_by(author) %>% 
@@ -103,7 +108,8 @@ webdata <- bind_rows(
                       ee,
                       pirateaba,
                       georgemfrost,
-                      qntm
+                      qntm,
+                      ddwebb
                       ) %>% 
   arrange(date) %>% 
   group_by(author) %>% 
@@ -117,7 +123,7 @@ ggplot(data %>% group_by(work),aes(date,cum_wc))+
   geom_line(aes(col=author))+
   scale_y_continuous(labels = unit_format(unit = "M", scale = 1e-6))+
   geom_dl(aes(label = author, col=author), method = list(cex=0.8,"last.bumpup"))+
-  coord_cartesian(ylim=c(0,NA))+
+  coord_cartesian(ylim=c(0,12000000))+
   expand_limits(x = as.POSIXct.Date(as.Date("2030-01-01")))+
   scale_color_discrete(guide="none")+
   labs(

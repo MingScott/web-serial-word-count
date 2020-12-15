@@ -1,0 +1,653 @@
+date,wordcount,chapter,work,author
+2018-03-02,2533,Chapter 1 Boring introduction - Where is the magic?,Azarinth Healer,Rhaegar
+2018-03-02,3550,Chapter 2 Generic wolves - who would've guessed,Azarinth Healer,Rhaegar
+2018-03-02,3481,Chapter 3 Glowing Moss,Azarinth Healer,Rhaegar
+2018-03-03,2967,Chapter 4 Exploration,Azarinth Healer,Rhaegar
+2018-03-03,3403,Chapter 5 Civilization,Azarinth Healer,Rhaegar
+2018-03-04,3174,Chapter 6 E X P O S I T I O N,Azarinth Healer,Rhaegar
+2018-03-04,3236,Chapter 7 Broken Bones,Azarinth Healer,Rhaegar
+2018-03-04,3695,Chapter 8 Death,Azarinth Healer,Rhaegar
+2018-03-05,3249,Chapter 9 Graves to dig,Azarinth Healer,Rhaegar
+2018-03-06,2654,Chapter 10 Catch a ride,Azarinth Healer,Rhaegar
+2018-03-07,3302,Chapter 11 City life,Azarinth Healer,Rhaegar
+2018-03-08,3307,Chapter 12 Bread and Circuses,Azarinth Healer,Rhaegar
+2018-03-09,3046,Chapter 13 Relaxing afternoon,Azarinth Healer,Rhaegar
+2018-03-09,3395,Chapter 14 It's a party!,Azarinth Healer,Rhaegar
+2018-03-10,3089,Chapter 15 Bad doggos,Azarinth Healer,Rhaegar
+2018-03-10,3159,Chapter 16 Loss,Azarinth Healer,Rhaegar
+2018-03-10,3439,Chapter 17 Bracers and Books,Azarinth Healer,Rhaegar
+2018-03-11,2425,Chapter 18 Through the fire and flames,Azarinth Healer,Rhaegar
+2018-03-11,2262,Chapter 19 Caves. Still caves.,Azarinth Healer,Rhaegar
+2018-03-11,3203,"Chapter 20 Superhero landing, yea that's really hard on your knees",Azarinth Healer,Rhaegar
+2018-03-13,3328,Chapter 21 The Unlife,Azarinth Healer,Rhaegar
+2018-03-13,2541,Chapter 22 Not a cliffhanger,Azarinth Healer,Rhaegar
+2018-03-16,3210,Chapter 23 Sun,Azarinth Healer,Rhaegar
+2018-03-17,3179,Chapter 24 The Queen,Azarinth Healer,Rhaegar
+2018-03-18,3287,Chapter 25 Woman and Monster,Azarinth Healer,Rhaegar
+2018-03-21,3318,Chapter 26 Not a title,Azarinth Healer,Rhaegar
+2018-03-23,3123,Chapter 27 It's a roadtrip!,Azarinth Healer,Rhaegar
+2018-03-24,3232,"Chapter 28 Actual healing, what?",Azarinth Healer,Rhaegar
+2018-03-25,3232,Chapter 29 Force of nature,Azarinth Healer,Rhaegar
+2018-03-30,3166,Chapter 30 Claymore,Azarinth Healer,Rhaegar
+2018-04-01,3120,Chapter 31 Arrival,Azarinth Healer,Rhaegar
+2018-04-05,3125,Chapter 32 Slice of life,Azarinth Healer,Rhaegar
+2018-04-06,3251,Chapter 33 #Traveling,Azarinth Healer,Rhaegar
+2018-04-07,2836,Chapter 34 Dungeon diving,Azarinth Healer,Rhaegar
+2018-04-08,3044,Chapter 35 Outclassed,Azarinth Healer,Rhaegar
+2018-04-08,3185,Chapter 36 Sparring and advice,Azarinth Healer,Rhaegar
+2018-04-11,3495,Chapter 37 Azarinth Leecher,Azarinth Healer,Rhaegar
+2018-04-13,2957,Chapter 38 Centurion,Azarinth Healer,Rhaegar
+2018-04-14,3118,Chapter 39 Traps,Azarinth Healer,Rhaegar
+2018-04-15,3168,Chapter 40 Fire and Ash,Azarinth Healer,Rhaegar
+2018-04-19,3273,Chapter 41 Trash compactor,Azarinth Healer,Rhaegar
+2018-04-20,3061,Chapter 42 Sushi,Azarinth Healer,Rhaegar
+2018-04-22,3037,Chapter 43 Reasons and talks,Azarinth Healer,Rhaegar
+2018-04-27,3519,Chapter 44 Newcomers,Azarinth Healer,Rhaegar
+2018-04-28,3070,Chapter 45 Cake,Azarinth Healer,Rhaegar
+2018-04-29,3006,Chapter 46 I feel like my titles are boring,Azarinth Healer,Rhaegar
+2018-05-01,2938,Chapter 47 Darkness,Azarinth Healer,Rhaegar
+2018-05-01,3109,Chapter 48 Treasures and fire,Azarinth Healer,Rhaegar
+2018-05-04,3162,Chapter 49 On the trail of history,Azarinth Healer,Rhaegar
+2018-05-05,3229,Chapter 50 Demon of Ash,Azarinth Healer,Rhaegar
+2018-05-05,3132,Chapter 51 That is no bird,Azarinth Healer,Rhaegar
+2018-05-06,3384,Chapter 52 New companions and enemies,Azarinth Healer,Rhaegar
+2018-05-06,3061,Chapter 53 The forgotten title,Azarinth Healer,Rhaegar
+2018-05-10,3101,Chapter 54 Cards and poison,Azarinth Healer,Rhaegar
+2018-05-12,3120,Chapter 55 Welcome to the Internet,Azarinth Healer,Rhaegar
+2018-05-13,3206,Chapter 56 Cleanup crew,Azarinth Healer,Rhaegar
+2018-05-13,3056,Chapter 57 Loony steel,Azarinth Healer,Rhaegar
+2018-05-18,3404,Chapter 58 Resisting,Azarinth Healer,Rhaegar
+2018-05-19,2981,Chapter 59 Boss battles are easy,Azarinth Healer,Rhaegar
+2018-05-19,3242,Chapter 60 Scythes and Swords,Azarinth Healer,Rhaegar
+2018-05-25,3004,Chapter 61 Sharing is caring,Azarinth Healer,Rhaegar
+2018-05-26,3464,Chapter 62 Survivors,Azarinth Healer,Rhaegar
+2018-05-27,3029,Chapter 63 Onwards through the storm,Azarinth Healer,Rhaegar
+2018-06-01,3266,Chapter 64 Snow and Ice,Azarinth Healer,Rhaegar
+2018-06-06,3580,Chapter 65 There is a title though it holds no meaning,Azarinth Healer,Rhaegar
+2018-06-08,3328,Chapter 66 Hunting,Azarinth Healer,Rhaegar
+2018-06-10,3695,Chapter 67 Evolution,Azarinth Healer,Rhaegar
+2018-06-14,3549,Chapter 68 Library,Azarinth Healer,Rhaegar
+2018-06-21,3373,Chapter 69 Return,Azarinth Healer,Rhaegar
+2018-06-21,3001,Chapter 70 Bait,Azarinth Healer,Rhaegar
+2018-06-28,3045,Chapter 71 A dark night,Azarinth Healer,Rhaegar
+2018-06-30,3092,Chapter 72 Old Beings,Azarinth Healer,Rhaegar
+2018-07-02,3193,Chapter 73 Decisions and Ale,Azarinth Healer,Rhaegar
+2018-07-05,3017,Chapter 74 Hashtag Traveling,Azarinth Healer,Rhaegar
+2018-07-06,3267,Chapter 75 A Guild and a Bed,Azarinth Healer,Rhaegar
+2018-07-07,3026,Chapter 76 Storage Skills,Azarinth Healer,Rhaegar
+2018-07-13,3024,Chapter 77 Evaluation,Azarinth Healer,Rhaegar
+2018-07-14,3052,Chapter 78 Excursion,Azarinth Healer,Rhaegar
+2018-07-19,3635,Chapter 79 Iron,Azarinth Healer,Rhaegar
+2018-07-21,3086,Chapter 80 Team,Azarinth Healer,Rhaegar
+2018-07-22,3045,Chapter 81 Class,Azarinth Healer,Rhaegar
+2018-07-26,3335,Chapter 82 Vampyr,Azarinth Healer,Rhaegar
+2018-07-27,3263,Chapter 83 Team building excercises,Azarinth Healer,Rhaegar
+2018-07-29,2947,Chapter 84 Yield,Azarinth Healer,Rhaegar
+2018-08-01,3103,Chapter 85 A fine Establishment,Azarinth Healer,Rhaegar
+2018-08-03,2994,Chapter 86 Dinner,Azarinth Healer,Rhaegar
+2018-08-04,3054,Chapter 87 A Knowing Trade,Azarinth Healer,Rhaegar
+2018-08-10,3078,Chapter 88 Questions,Azarinth Healer,Rhaegar
+2018-08-11,3039,Chapter 89 Shields and Explosions,Azarinth Healer,Rhaegar
+2018-08-12,3020,Chapter 90 Picnic,Azarinth Healer,Rhaegar
+2018-08-16,3040,Chapter 91 Hide and Seek,Azarinth Healer,Rhaegar
+2018-08-18,3140,Chapter 92 Vampire?,Azarinth Healer,Rhaegar
+2018-08-23,3200,Chapter 93 Workaholics,Azarinth Healer,Rhaegar
+2018-08-25,3240,Chapter 94 Rarities,Azarinth Healer,Rhaegar
+2018-08-26,3366,Chapter 95 Negotiations,Azarinth Healer,Rhaegar
+2018-08-30,3100,Chapter 96 Survival,Azarinth Healer,Rhaegar
+2018-08-31,2908,Chapter 97 Change,Azarinth Healer,Rhaegar
+2018-09-01,3118,Chapter 98 Statistics,Azarinth Healer,Rhaegar
+2018-09-06,2992,Chapter 99 Housing,Azarinth Healer,Rhaegar
+2018-09-09,3200,Chapter 100 Mission,Azarinth Healer,Rhaegar
+2018-09-13,3190,Chapter 101 Inheritor,Azarinth Healer,Rhaegar
+2018-09-15,3068,Chapter 102 Lost Wanderer,Azarinth Healer,Rhaegar
+2018-09-15,3083,Chapter 103 Mission accomplished,Azarinth Healer,Rhaegar
+2018-09-15,3102,Chapter 104 Another settlement needs our help,Azarinth Healer,Rhaegar
+2018-09-23,3153,Chapter 105 Don't fear the old blood,Azarinth Healer,Rhaegar
+2018-09-27,3030,Chapter 106 Cleanup Crew,Azarinth Healer,Rhaegar
+2018-09-30,3102,Chapter 107 Everyday Life,Azarinth Healer,Rhaegar
+2018-09-30,3005,Chapter 108 Tactical Defusing,Azarinth Healer,Rhaegar
+2018-10-04,3083,Chapter 109 Dangerous Leeching,Azarinth Healer,Rhaegar
+2018-10-07,3010,Chapter 110 Barriers,Azarinth Healer,Rhaegar
+2018-10-11,3044,Chapter 111 Useless Ruins,Azarinth Healer,Rhaegar
+2018-10-12,3349,Chapter 112 Another one of them missions,Azarinth Healer,Rhaegar
+2018-10-13,3089,Chapter 113 Advances,Azarinth Healer,Rhaegar
+2018-10-19,3136,Chapter 114 Bedtalk,Azarinth Healer,Rhaegar
+2018-10-21,3085,Chapter 115 Tournament,Azarinth Healer,Rhaegar
+2018-10-21,3048,Chapter 116 Horde,Azarinth Healer,Rhaegar
+2018-10-27,3051,Chapter 117 Salt,Azarinth Healer,Rhaegar
+2018-10-27,3130,Chapter 118 Mind Weaver,Azarinth Healer,Rhaegar
+2018-11-03,3072,Chapter 119 Bone dog,Azarinth Healer,Rhaegar
+2018-11-03,3110,Chapter 120 Diamonds in the sky,Azarinth Healer,Rhaegar
+2018-11-10,3096,Chapter 121 Chambers of the Lost,Azarinth Healer,Rhaegar
+2018-11-11,2940,Chapter 122 Flashy Beams,Azarinth Healer,Rhaegar
+2018-11-15,2995,Chapter 123 Horde Mode?,Azarinth Healer,Rhaegar
+2018-11-17,3002,Chapter 124 Into the Light,Azarinth Healer,Rhaegar
+2018-11-24,3070,Chapter 125 Ripples,Azarinth Healer,Rhaegar
+2018-11-24,3082,Chapter 126 Return,Azarinth Healer,Rhaegar
+2018-11-30,3216,Chapter 127 Air Support,Azarinth Healer,Rhaegar
+2018-12-02,3845,Chapter 128 Family Dinner,Azarinth Healer,Rhaegar
+2018-12-04,2949,Chapter 129 A Good Show,Azarinth Healer,Rhaegar
+2018-12-09,3379,Chapter 130 Noble Halls,Azarinth Healer,Rhaegar
+2018-12-09,3383,Chapter 131 Escort Missions,Azarinth Healer,Rhaegar
+2018-12-15,2926,Chapter 132 Recovery,Azarinth Healer,Rhaegar
+2018-12-16,3031,Chapter 133 Immigration Documents,Azarinth Healer,Rhaegar
+2018-12-22,3090,Chapter 134 Virilya,Azarinth Healer,Rhaegar
+2018-12-24,3096,Chapter 135 Roguey Rogues Doing Rogue Stuff,Azarinth Healer,Rhaegar
+2018-12-24,3147,Chapter 136 Vihal - Town Defense Simulator,Azarinth Healer,Rhaegar
+2018-12-28,3114,Chapter 137 The Storm after the Storm,Azarinth Healer,Rhaegar
+2018-12-31,3079,Chapter 138 Upgrade - Cave to Sewers,Azarinth Healer,Rhaegar
+2018-12-31,2936,Chapter 139 Flying in the Dark,Azarinth Healer,Rhaegar
+2018-12-31,3066,Chapter 140 Infected City,Azarinth Healer,Rhaegar
+2019-01-05,3116,"Chapter 141 Green, the not so stupid demon",Azarinth Healer,Rhaegar
+2019-01-06,3006,Chapter 142 It's just a Fleshwound,Azarinth Healer,Rhaegar
+2019-01-12,2977,Chapter 143 Bloody Entrails,Azarinth Healer,Rhaegar
+2019-01-12,3033,Chapter 144 Lakes and Crystals,Azarinth Healer,Rhaegar
+2019-01-17,2998,Chapter 145 Horde mode is exhausting,Azarinth Healer,Rhaegar
+2019-01-19,3088,Chapter 146 Night Shift,Azarinth Healer,Rhaegar
+2019-01-26,2870,Chapter 147 Chaos is a laddah,Azarinth Healer,Rhaegar
+2019-01-26,3237,Chapter 148 Bearded Follower,Azarinth Healer,Rhaegar
+2019-02-01,3241,Chapter 149 Reminiscing and Planning,Azarinth Healer,Rhaegar
+2019-02-01,3112,"Chapter 150 Politics, meh.",Azarinth Healer,Rhaegar
+2019-02-02,3204,Chapter 151 I did this before but #traveling,Azarinth Healer,Rhaegar
+2019-02-10,3040,Chapter 152 An Inn and a Boy,Azarinth Healer,Rhaegar
+2019-02-10,3161,Chapter 153 Friends,Azarinth Healer,Rhaegar
+2019-02-17,3491,Chapter 154 How much we grow,Azarinth Healer,Rhaegar
+2019-02-17,3220,Chapter 155 A Night of Investigations,Azarinth Healer,Rhaegar
+2019-02-17,3291,Chapter 156 Electric boogaloo,Azarinth Healer,Rhaegar
+2019-02-25,2621,Chapter 157 Judge and Executioner,Azarinth Healer,Rhaegar
+2019-02-25,3272,Chapter 158 Loose Ends,Azarinth Healer,Rhaegar
+2019-03-03,3235,Chapter 159 The Hunted,Azarinth Healer,Rhaegar
+2019-03-03,3173,Chapter 160 Ashen Afternoon,Azarinth Healer,Rhaegar
+2019-03-08,3170,Chapter 161 #Economics,Azarinth Healer,Rhaegar
+2019-03-10,3112,"Chapter 162 Contracts, a Guide to Bland Titles",Azarinth Healer,Rhaegar
+2019-03-10,3424,Chapter 163 Bad News,Azarinth Healer,Rhaegar
+2019-03-15,3090,Chapter 164 Estate Investigation,Azarinth Healer,Rhaegar
+2019-03-16,3437,Chapter 165 Silver Lining,Azarinth Healer,Rhaegar
+2019-03-17,3257,Chapter 166 The Next Steps,Azarinth Healer,Rhaegar
+2019-03-25,3033,Chapter 167 Reunited,Azarinth Healer,Rhaegar
+2019-03-29,3198,Chapter 168 Tools and Information,Azarinth Healer,Rhaegar
+2019-03-30,2935,Chapter 169 Shopping,Azarinth Healer,Rhaegar
+2019-03-31,3046,Chapter 170 Ambush,Azarinth Healer,Rhaegar
+2019-04-05,2984,Chapter 171 Silent Escape,Azarinth Healer,Rhaegar
+2019-04-06,3142,Chapter 172 Crash,Azarinth Healer,Rhaegar
+2019-04-06,3163,Chapter 173 Void,Azarinth Healer,Rhaegar
+2019-04-16,3044,Chapter 174 Following the Trail,Azarinth Healer,Rhaegar
+2019-04-19,3000,Chapter 175 Hunting in the Woods,Azarinth Healer,Rhaegar
+2019-04-20,3032,Chapter 176 Tracks,Azarinth Healer,Rhaegar
+2019-04-21,3242,Chapter 177 Negotiations,Azarinth Healer,Rhaegar
+2019-04-22,3166,Chapter 178 The Price of Information,Azarinth Healer,Rhaegar
+2019-04-30,3124,Chapter 179 Moonlit Talk,Azarinth Healer,Rhaegar
+2019-05-01,3124,Chapter 180 The Path of Revenge,Azarinth Healer,Rhaegar
+2019-05-03,3054,Chapter 181 Plan and Execution,Azarinth Healer,Rhaegar
+2019-05-09,3068,Chapter 182 Murder,Azarinth Healer,Rhaegar
+2019-05-10,3060,Chapter 183 Demolition Crew,Azarinth Healer,Rhaegar
+2019-05-11,3052,Chapter 184 Shoes?,Azarinth Healer,Rhaegar
+2019-05-17,3141,Chapter 185 A Bright Night,Azarinth Healer,Rhaegar
+2019-05-18,3082,Chapter 186 Night Attack,Azarinth Healer,Rhaegar
+2019-05-19,3020,Chapter 187 Bath before the Storm,Azarinth Healer,Rhaegar
+2019-05-24,3191,Chapter 188 War,Azarinth Healer,Rhaegar
+2019-05-25,3138,Chapter 189 First Huntress,Azarinth Healer,Rhaegar
+2019-05-27,3062,Chapter 190 The Walls of Virilya,Azarinth Healer,Rhaegar
+2019-05-31,3153,Chapter 191 Black Death,Azarinth Healer,Rhaegar
+2019-06-01,3201,Chapter 192 The Librarian,Azarinth Healer,Rhaegar
+2019-06-02,3338,Chapter 193 Prison Break,Azarinth Healer,Rhaegar
+2019-06-07,3261,Chapter 194 Dangerous Flight,Azarinth Healer,Rhaegar
+2019-06-08,3386,Chapter 195 Detour,Azarinth Healer,Rhaegar
+2019-06-09,3259,Chapter 196 Rebuilding,Azarinth Healer,Rhaegar
+2019-06-09,3136,Chapter 197 Preparations,Azarinth Healer,Rhaegar
+2019-06-09,3109,Chapter 198 Demonic Fishes,Azarinth Healer,Rhaegar
+2019-06-11,3219,Chapter 199 The Island,Azarinth Healer,Rhaegar
+2019-06-12,3155,Chapter 200 The Baker,Azarinth Healer,Rhaegar
+2019-06-13,3187,Chapter 201 Engage,Azarinth Healer,Rhaegar
+2019-06-14,2952,Chapter 202 Old Friend,Azarinth Healer,Rhaegar
+2019-06-15,3039,Chapter 203 Hunters and Prey,Azarinth Healer,Rhaegar
+2019-06-16,3174,"Chapter 204 Ice, Silver and Blood",Azarinth Healer,Rhaegar
+2019-06-18,3246,Chapter 205 Discovery Channel,Azarinth Healer,Rhaegar
+2019-06-19,3294,Chapter 206 Pancakes? Pancakes.,Azarinth Healer,Rhaegar
+2019-06-20,3085,Chapter 207 Farewells,Azarinth Healer,Rhaegar
+2019-06-21,3129,Chapter 208 The Journey South,Azarinth Healer,Rhaegar
+2019-06-22,3257,Chapter 209 Technological Possibilities,Azarinth Healer,Rhaegar
+2019-06-23,3383,Chapter 210 Evaluation from the other Side,Azarinth Healer,Rhaegar
+2019-06-25,3150,Chapter 211 Drowning for Fun,Azarinth Healer,Rhaegar
+2019-06-26,2962,Chapter 212 Resistance Roulette,Azarinth Healer,Rhaegar
+2019-06-27,3164,Chapter 213 Blood Clotting,Azarinth Healer,Rhaegar
+2019-06-28,2970,Chapter 214 A Winter Night,Azarinth Healer,Rhaegar
+2019-06-29,3060,Chapter 215 Of Ash and Ember,Azarinth Healer,Rhaegar
+2019-06-30,3050,Chapter 216 Ashen Considerations,Azarinth Healer,Rhaegar
+2019-07-02,3201,Chapter 217 Preparation,Azarinth Healer,Rhaegar
+2019-07-03,3130,Chapter 218 A new addition to the schedule,Azarinth Healer,Rhaegar
+2019-07-04,3164,Chapter 219 A City on the Rise,Azarinth Healer,Rhaegar
+2019-07-05,3184,Chapter 220 Cooking Dragons,Azarinth Healer,Rhaegar
+2019-07-06,3082,Chapter 221 Wood and Drakes,Azarinth Healer,Rhaegar
+2019-07-07,3101,"Chapter 222 Wrong Time, Wrong City",Azarinth Healer,Rhaegar
+2019-07-09,3021,Chapter 223 Pointers,Azarinth Healer,Rhaegar
+2019-07-10,3160,Chapter 224 The Daily Grind,Azarinth Healer,Rhaegar
+2019-07-11,3152,Chapter 225 The Shadow’s Hand,Azarinth Healer,Rhaegar
+2019-07-12,3189,Chapter 226 Meditation,Azarinth Healer,Rhaegar
+2019-07-13,3067,Chapter 227 Hope,Azarinth Healer,Rhaegar
+2019-07-15,3063,Chapter 228 Farewells,Azarinth Healer,Rhaegar
+2019-07-16,3075,Chapter 229 Journey through the Night,Azarinth Healer,Rhaegar
+2019-07-17,3133,Chapter 230 Back to the Roots,Azarinth Healer,Rhaegar
+2019-07-18,3094,Chapter 231 Compass Rose,Azarinth Healer,Rhaegar
+2019-07-19,2978,Chapter 232 The Northern Night,Azarinth Healer,Rhaegar
+2019-07-19,3093,Chapter 233 Chicken Nuggets,Azarinth Healer,Rhaegar
+2019-07-20,3084,Chapter 234 Roses,Azarinth Healer,Rhaegar
+2019-07-20,3033,Chapter 235 Tunnel Vision,Azarinth Healer,Rhaegar
+2019-07-21,3168,Chapter 236 A City of Dust,Azarinth Healer,Rhaegar
+2019-07-23,3091,Chapter 237 Palace Guards,Azarinth Healer,Rhaegar
+2019-07-25,3164,Chapter 238 Questions,Azarinth Healer,Rhaegar
+2019-07-27,2994,Chapter 239 Of the World,Azarinth Healer,Rhaegar
+2019-07-27,3112,Chapter 240 Mapping out,Azarinth Healer,Rhaegar
+2019-07-28,3183,Chapter 241 Contact,Azarinth Healer,Rhaegar
+2019-07-30,3032,Chapter 242 Floating Wisdom,Azarinth Healer,Rhaegar
+2019-08-01,3087,Chapter 243 Metal Gear,Azarinth Healer,Rhaegar
+2019-08-02,3068,Chapter 244 Real Steel,Azarinth Healer,Rhaegar
+2019-08-03,3121,Chapter 245 The slowing Grind,Azarinth Healer,Rhaegar
+2019-08-04,3028,Chapter 246 Knights Knights Knights,Azarinth Healer,Rhaegar
+2019-08-06,3069,Chapter 247 Wingwoman,Azarinth Healer,Rhaegar
+2019-08-07,3143,Chapter 248 Ilea Spears,Azarinth Healer,Rhaegar
+2019-08-08,2914,Chapter 249 The Need for Steel,Azarinth Healer,Rhaegar
+2019-08-10,3217,Chapter 250 Undead Rose,Azarinth Healer,Rhaegar
+2019-08-11,3099,Chapter 251 Compromise?,Azarinth Healer,Rhaegar
+2019-08-13,3043,Chapter 252 Questioning a Robot,Azarinth Healer,Rhaegar
+2019-08-14,3194,Chapter 253 Resourceful Dwarf,Azarinth Healer,Rhaegar
+2019-08-15,3215,Chapter 254 Questionable Cooperation,Azarinth Healer,Rhaegar
+2019-08-16,3090,Chapter 255 Alien Town,Azarinth Healer,Rhaegar
+2019-08-17,3080,Chapter 256 The Blue Reaper,Azarinth Healer,Rhaegar
+2019-08-20,3079,Chapter 257 Wormholes,Azarinth Healer,Rhaegar
+2019-08-21,3240,Chapter 258 Cake,Azarinth Healer,Rhaegar
+2019-08-22,2970,Chapter 259 Exterminator,Azarinth Healer,Rhaegar
+2019-08-23,3099,Chapter 260 Survival,Azarinth Healer,Rhaegar
+2019-08-24,3080,Chapter 261 History,Azarinth Healer,Rhaegar
+2019-08-26,3111,Chapter 262 Discovery,Azarinth Healer,Rhaegar
+2019-08-27,3325,Chapter 263 The Keys,Azarinth Healer,Rhaegar
+2019-08-28,3062,Chapter 264 The Queen of Rhyvor,Azarinth Healer,Rhaegar
+2019-08-29,3119,Chapter 265 Underground Paradise,Azarinth Healer,Rhaegar
+2019-08-30,3094,Chapter 266 Scouting the Unknown,Azarinth Healer,Rhaegar
+2019-08-31,3087,Chapter 267 Treasure Hunters,Azarinth Healer,Rhaegar
+2019-09-02,3223,Chapter 268 Bloody Mess,Azarinth Healer,Rhaegar
+2019-09-03,3061,Chapter 269 The Inner Circle,Azarinth Healer,Rhaegar
+2019-09-04,3048,Chapter 270 Two Monsters,Azarinth Healer,Rhaegar
+2019-09-05,3153,Chapter 271 Poison,Azarinth Healer,Rhaegar
+2019-09-06,3060,Chapter 272 Overconfidence is a quick and direct Killer,Azarinth Healer,Rhaegar
+2019-09-07,3054,Chapter 273 Regeneration,Azarinth Healer,Rhaegar
+2019-09-08,3028,Chapter 274 Blood and Bones,Azarinth Healer,Rhaegar
+2019-09-11,2933,Chapter 275 Search and Exploration,Azarinth Healer,Rhaegar
+2019-09-11,3015,Chapter 276 Dark Ones,Azarinth Healer,Rhaegar
+2019-09-12,3125,Chapter 277 Mist and Ash,Azarinth Healer,Rhaegar
+2019-09-13,3119,Chapter 278 Royal Advice,Azarinth Healer,Rhaegar
+2019-09-14,3079,Chapter 279 Survivor?,Azarinth Healer,Rhaegar
+2019-09-15,3054,Chapter 280 Green Memories,Azarinth Healer,Rhaegar
+2019-09-17,3087,Chapter 281 Helping out Strangers,Azarinth Healer,Rhaegar
+2019-09-18,3156,Chapter 282 Decisive Battle,Azarinth Healer,Rhaegar
+2019-09-19,3050,Chapter 283 Factory,Azarinth Healer,Rhaegar
+2019-09-20,3117,Chapter 284 Legion of Centurions,Azarinth Healer,Rhaegar
+2019-09-21,3079,Chapter 285 Training Considerations,Azarinth Healer,Rhaegar
+2019-09-22,3108,Chapter 286 A Test,Azarinth Healer,Rhaegar
+2019-09-24,3192,Chapter 287 The Freedom of Choice,Azarinth Healer,Rhaegar
+2019-09-25,3101,Chapter 288 Lunchtime,Azarinth Healer,Rhaegar
+2019-09-26,3132,Chapter 289 Rules,Azarinth Healer,Rhaegar
+2019-09-27,3076,Chapter 290 Routine,Azarinth Healer,Rhaegar
+2019-09-28,3069,Chapter 291 Inquisitive Fox,Azarinth Healer,Rhaegar
+2019-09-30,2976,Chapter 292 Forges and Armor,Azarinth Healer,Rhaegar
+2019-10-01,3031,Chapter 293 Resistance Dance,Azarinth Healer,Rhaegar
+2019-10-02,3019,Chapter 294 Powerlevel,Azarinth Healer,Rhaegar
+2019-10-03,2933,Chapter 295 Change of Plans,Azarinth Healer,Rhaegar
+2019-10-04,2990,Chapter 296 Azarinth First Hunter,Azarinth Healer,Rhaegar
+2019-10-05,3046,Chapter 297 Helpful Advice,Azarinth Healer,Rhaegar
+2019-10-05,2983,Chapter 298 Fear and Void,Azarinth Healer,Rhaegar
+2019-10-06,3190,Chapter 299 Terrific Suggestions,Azarinth Healer,Rhaegar
+2019-10-06,3689,Chapter 300,Azarinth Healer,Rhaegar
+2019-10-08,3183,Chapter 301 The Ashen side of Things,Azarinth Healer,Rhaegar
+2019-10-09,3060,Chapter 302 Testing,Azarinth Healer,Rhaegar
+2019-10-10,2987,Chapter 303 Missing Pieces,Azarinth Healer,Rhaegar
+2019-10-11,3132,Chapter 304 Approach to Power,Azarinth Healer,Rhaegar
+2019-10-12,3070,Chapter 305 Power Cleaning Montage,Azarinth Healer,Rhaegar
+2019-10-13,3023,Chapter 306 King Invalar of Rhyvor,Azarinth Healer,Rhaegar
+2019-10-15,3100,Chapter 307 The Vineyard Caves,Azarinth Healer,Rhaegar
+2019-10-16,3057,Chapter 308 Mansion of Bones,Azarinth Healer,Rhaegar
+2019-10-17,3180,Chapter 309 Pyre,Azarinth Healer,Rhaegar
+2019-10-18,3903,Chapter 310 Opinions and food,Azarinth Healer,Rhaegar
+2019-10-19,3163,Chapter 311 Challenger,Azarinth Healer,Rhaegar
+2019-10-20,3160,Chapter 312 Unreasonable Demands,Azarinth Healer,Rhaegar
+2019-10-22,3097,Chapter 313 Cycle of War,Azarinth Healer,Rhaegar
+2019-10-23,3099,Chapter 314 Worthy Opponents,Azarinth Healer,Rhaegar
+2019-10-24,3085,Chapter 315 Survivors,Azarinth Healer,Rhaegar
+2019-10-25,3099,Chapter 316 Cleanup,Azarinth Healer,Rhaegar
+2019-10-26,3314,Chapter 317 The End of Patience,Azarinth Healer,Rhaegar
+2019-10-27,3302,Chapter 318 Engage,Azarinth Healer,Rhaegar
+2019-10-29,3103,Chapter 319 Taleen Praetorian,Azarinth Healer,Rhaegar
+2019-10-30,3100,Chapter 320 Aftermath,Azarinth Healer,Rhaegar
+2019-10-31,3161,Chapter 321 Relaxed Exploration,Azarinth Healer,Rhaegar
+2019-11-01,3103,Chapter 322 Traps and Treasure,Azarinth Healer,Rhaegar
+2019-11-02,3091,Chapter 323 The Beach Episode,Azarinth Healer,Rhaegar
+2019-11-03,3092,Chapter 324 The Path Ahead,Azarinth Healer,Rhaegar
+2019-11-05,3134,Chapter 325 The Vault,Azarinth Healer,Rhaegar
+2019-11-06,3215,Chapter 326 Cleaning out a Ruin,Azarinth Healer,Rhaegar
+2019-11-07,3112,Chapter 327 Theories and Assumptions,Azarinth Healer,Rhaegar
+2019-11-08,3070,Chapter 328 Rescue Mission,Azarinth Healer,Rhaegar
+2019-11-09,3125,Chapter 329 Monsters left untouched,Azarinth Healer,Rhaegar
+2019-11-10,3074,Chapter 330 Weather,Azarinth Healer,Rhaegar
+2019-11-12,3099,Chapter 331 A relaxing Vacation,Azarinth Healer,Rhaegar
+2019-11-13,3147,Chapter 332 The Uses of Gold,Azarinth Healer,Rhaegar
+2019-11-14,3104,Chapter 333 The Way Back,Azarinth Healer,Rhaegar
+2019-11-15,3108,Chapter 334 Priorities,Azarinth Healer,Rhaegar
+2019-11-16,3198,Chapter 335 Catching up,Azarinth Healer,Rhaegar
+2019-11-17,3145,Chapter 336 Revelations,Azarinth Healer,Rhaegar
+2019-11-19,3139,Chapter 337 Plans put in motion,Azarinth Healer,Rhaegar
+2019-11-20,3174,Chapter 338 Sparky,Azarinth Healer,Rhaegar
+2019-11-21,3280,Chapter 339 Skill Testing,Azarinth Healer,Rhaegar
+2019-11-22,3131,Chapter 340 Craftswoman,Azarinth Healer,Rhaegar
+2019-11-23,3109,Chapter 341 Maximum Overbusiness,Azarinth Healer,Rhaegar
+2019-11-24,3227,Chapter 342 Are you not entertained?,Azarinth Healer,Rhaegar
+2019-11-26,3096,Chapter 343 A Breath of Air,Azarinth Healer,Rhaegar
+2019-11-27,3180,Chapter 344 Influence of the Rich,Azarinth Healer,Rhaegar
+2019-11-28,3140,Chapter 345 Corpses,Azarinth Healer,Rhaegar
+2019-11-29,3172,Chapter 346 The Necromancer,Azarinth Healer,Rhaegar
+2019-11-30,3098,Chapter 347 Steel and Ash,Azarinth Healer,Rhaegar
+2019-12-01,3090,Chapter 348 Moving out,Azarinth Healer,Rhaegar
+2019-12-03,3030,Chapter 349 Angel of Death,Azarinth Healer,Rhaegar
+2019-12-04,3133,Chapter 350 Hunters,Azarinth Healer,Rhaegar
+2019-12-05,3112,Chapter 351 Evaluation,Azarinth Healer,Rhaegar
+2019-12-06,3148,Chapter 352 Azarinth Sentinel,Azarinth Healer,Rhaegar
+2019-12-07,3063,Chapter 353 The Value of Lives,Azarinth Healer,Rhaegar
+2019-12-08,3075,Chapter 354 Conflicting Interests,Azarinth Healer,Rhaegar
+2019-12-10,3176,Chapter 355 Compromises,Azarinth Healer,Rhaegar
+2019-12-11,3059,Chapter 356 Man of Conviction,Azarinth Healer,Rhaegar
+2019-12-12,3040,Chapter 357 Sanctuary,Azarinth Healer,Rhaegar
+2019-12-13,3036,Chapter 358 Double Tap,Azarinth Healer,Rhaegar
+2019-12-14,3070,Chapter 359 A slice of life,Azarinth Healer,Rhaegar
+2019-12-15,3075,Chapter 360 The Vultures,Azarinth Healer,Rhaegar
+2019-12-17,3029,Chapter 361 Demonic Tendencies,Azarinth Healer,Rhaegar
+2019-12-18,3064,Chapter 362 The Word of a Shadow,Azarinth Healer,Rhaegar
+2019-12-19,3235,Chapter 363 Breadcrumbs,Azarinth Healer,Rhaegar
+2019-12-20,3143,Chapter 364 Detective Smash,Azarinth Healer,Rhaegar
+2019-12-21,3104,Chapter 365 Captain of the Guard,Azarinth Healer,Rhaegar
+2019-12-22,3049,Chapter 366 The Gray Company,Azarinth Healer,Rhaegar
+2019-12-24,3065,Chapter 367 Deal with the Devil,Azarinth Healer,Rhaegar
+2019-12-25,3103,Chapter 368 Blissful Edge,Azarinth Healer,Rhaegar
+2019-12-26,3065,Chapter 369 Cursed Meeting,Azarinth Healer,Rhaegar
+2019-12-27,3062,Chapter 370 Red Scales,Azarinth Healer,Rhaegar
+2019-12-28,3260,Chapter 371 Potential Allies,Azarinth Healer,Rhaegar
+2019-12-29,3111,Chapter 372 Contact,Azarinth Healer,Rhaegar
+2019-12-31,3134,Chapter 373 A relaxing afternoon,Azarinth Healer,Rhaegar
+2020-01-01,3127,Chapter 374 Loot and Levels,Azarinth Healer,Rhaegar
+2020-01-02,3070,Chapter 375 Departure,Azarinth Healer,Rhaegar
+2020-01-03,3031,Chapter 376 Slaughterhouse,Azarinth Healer,Rhaegar
+2020-01-04,3085,Chapter 377 “Healing”,Azarinth Healer,Rhaegar
+2020-01-05,2918,Chapter 378 Turning Tides,Azarinth Healer,Rhaegar
+2020-01-07,3040,Chapter 379 Fire and Ash,Azarinth Healer,Rhaegar
+2020-01-08,3013,Chapter 380 Taking Stock,Azarinth Healer,Rhaegar
+2020-01-09,3077,Chapter 381 Packing mule,Azarinth Healer,Rhaegar
+2020-01-10,3041,Chapter 382 Sushi,Azarinth Healer,Rhaegar
+2020-01-11,3188,Chapter 383 Powerburning,Azarinth Healer,Rhaegar
+2020-01-12,3092,Chapter 384 Drawn to the Flame,Azarinth Healer,Rhaegar
+2020-01-14,3145,Chapter 385 Mine Residents,Azarinth Healer,Rhaegar
+2020-01-15,2942,Chapter 386 Recovery,Azarinth Healer,Rhaegar
+2020-01-16,3045,Chapter 387 Hiding Beasts,Azarinth Healer,Rhaegar
+2020-01-17,3171,Chapter 388 Safety?,Azarinth Healer,Rhaegar
+2020-01-18,3146,Chapter 389 Bunker of Steel,Azarinth Healer,Rhaegar
+2020-01-19,3104,Chapter 390 Don’t Fear the Reaper,Azarinth Healer,Rhaegar
+2020-01-21,3084,Chapter 391 Newfound beverages,Azarinth Healer,Rhaegar
+2020-01-22,3188,Chapter 392 Remnant,Azarinth Healer,Rhaegar
+2020-01-23,3076,Chapter 393 Findings,Azarinth Healer,Rhaegar
+2020-01-24,3100,Chapter 394 Break,Azarinth Healer,Rhaegar
+2020-01-25,3013,Chapter 395 Solitary Gains,Azarinth Healer,Rhaegar
+2020-01-26,3093,Chapter 396 Math Resistance,Azarinth Healer,Rhaegar
+2020-01-28,3057,Chapter 397 Sunglasses,Azarinth Healer,Rhaegar
+2020-01-29,2868,Chapter 398 Benevolent Sentinel,Azarinth Healer,Rhaegar
+2020-01-30,3025,Chapter 399 Lethal Voltage,Azarinth Healer,Rhaegar
+2020-01-31,2992,Chapter 400 Fear,Azarinth Healer,Rhaegar
+2020-02-01,2916,Chapter 401 Ice Valley,Azarinth Healer,Rhaegar
+2020-02-02,3042,Chapter 402 Getting Lost,Azarinth Healer,Rhaegar
+2020-02-04,3106,Chapter 403 Layers,Azarinth Healer,Rhaegar
+2020-02-05,3174,Chapter 404,Azarinth Healer,Rhaegar
+2020-02-06,3045,Chapter 405 Ancient Mind,Azarinth Healer,Rhaegar
+2020-02-07,3070,Chapter 406 Strange Acquaintances,Azarinth Healer,Rhaegar
+2020-02-08,3024,Chapter 407 Air Pressure,Azarinth Healer,Rhaegar
+2020-02-09,3080,Chapter 408 The Winds of Time,Azarinth Healer,Rhaegar
+2020-02-11,3081,Chapter 409 Hunting Grounds,Azarinth Healer,Rhaegar
+2020-02-12,3038,Chapter 410 Taking Flight,Azarinth Healer,Rhaegar
+2020-02-13,3085,Chapter 411 Games,Azarinth Healer,Rhaegar
+2020-02-14,2973,Chapter 412 Magic,Azarinth Healer,Rhaegar
+2020-02-15,3232,Chapter 413 Ghosts,Azarinth Healer,Rhaegar
+2020-02-16,3189,Chapter 414 That’s no Moon,Azarinth Healer,Rhaegar
+2020-02-18,3114,Chapter 415 Nemesis of the never Master,Azarinth Healer,Rhaegar
+2020-02-19,3229,Chapter 416 Remnants,Azarinth Healer,Rhaegar
+2020-02-20,3075,Chapter 417 Friends with Benefits,Azarinth Healer,Rhaegar
+2020-02-21,3039,Chapter 418 Ancients,Azarinth Healer,Rhaegar
+2020-02-22,3144,Chapter 419 Meeting the Competition,Azarinth Healer,Rhaegar
+2020-02-23,2944,Chapter 420 Blaze that Fucker,Azarinth Healer,Rhaegar
+2020-02-23,3247,Chapter 421 Buried,Azarinth Healer,Rhaegar
+2020-02-26,2920,Chapter 422 Recovery,Azarinth Healer,Rhaegar
+2020-02-27,3019,Chapter 423 Friends?,Azarinth Healer,Rhaegar
+2020-02-28,3105,Chapter 424 Regen powers,Azarinth Healer,Rhaegar
+2020-02-29,3158,Chapter 425 Creature of the Night,Azarinth Healer,Rhaegar
+2020-03-01,3138,Chapter 426 Threshold,Azarinth Healer,Rhaegar
+2020-03-06,3093,Chapter 427 Open threads,Azarinth Healer,Rhaegar
+2020-03-07,3037,Chapter 428 Routine Training?,Azarinth Healer,Rhaegar
+2020-03-08,3088,Chapter 429 Questions,Azarinth Healer,Rhaegar
+2020-03-10,3018,Chapter 430 Nature,Azarinth Healer,Rhaegar
+2020-03-12,3046,Chapter 431 Grounding,Azarinth Healer,Rhaegar
+2020-03-15,3109,Chapter 432 Core,Azarinth Healer,Rhaegar
+2020-03-17,3058,Chapter 433 Breach,Azarinth Healer,Rhaegar
+2020-03-19,3083,Chapter 434 Negotiations,Azarinth Healer,Rhaegar
+2020-03-22,3077,Chapter 435 Cosmic Knowledge,Azarinth Healer,Rhaegar
+2020-03-24,3058,Chapter 436 Considerations,Azarinth Healer,Rhaegar
+2020-03-26,3036,Chapter 437 Ancient Mentor,Azarinth Healer,Rhaegar
+2020-03-28,3111,"Chapter 438 Basically just exposition, isn’t it?",Azarinth Healer,Rhaegar
+2020-04-01,3110,Chapter 439 Quiet Arrival,Azarinth Healer,Rhaegar
+2020-04-01,3001,Chapter ???,Azarinth Healer,Rhaegar
+2020-04-02,3036,Chapter 440 Catching up,Azarinth Healer,Rhaegar
+2020-04-05,3163,Chapter 441 Administrator,Azarinth Healer,Rhaegar
+2020-04-07,3270,Chapter 442 Performance,Azarinth Healer,Rhaegar
+2020-04-09,3175,Chapter 443 Impressions,Azarinth Healer,Rhaegar
+2020-04-11,3080,Chapter 444 Busy Schedule,Azarinth Healer,Rhaegar
+2020-04-14,3103,Chapter 445 Rotten Treasures,Azarinth Healer,Rhaegar
+2020-04-16,3070,Chapter 446 Purpose,Azarinth Healer,Rhaegar
+2020-04-19,3141,Chapter 447 Truly Enchanting,Azarinth Healer,Rhaegar
+2020-04-21,3083,Chapter 448 Corruption,Azarinth Healer,Rhaegar
+2020-04-23,3072,Chapter 449 Lessons,Azarinth Healer,Rhaegar
+2020-04-25,3093,Chapter 450 Steady Climb,Azarinth Healer,Rhaegar
+2020-04-28,3054,Chapter 451 Displacing Circumstances,Azarinth Healer,Rhaegar
+2020-04-30,3081,Chapter 452 Seeker,Azarinth Healer,Rhaegar
+2020-05-02,3064,Chapter 453 Adventuring,Azarinth Healer,Rhaegar
+2020-05-05,3059,Chapter 454 A test?,Azarinth Healer,Rhaegar
+2020-05-07,3136,Chapter 455 Abominations,Azarinth Healer,Rhaegar
+2020-05-09,3057,Chapter 456 Blood,Azarinth Healer,Rhaegar
+2020-05-12,3117,Chapter 457 Worthy Adversaries,Azarinth Healer,Rhaegar
+2020-05-14,3098,Chapter 458 Reputation,Azarinth Healer,Rhaegar
+2020-05-16,3237,Chapter 459 Request,Azarinth Healer,Rhaegar
+2020-05-19,3065,Chapter 460 Problematic Conflicts,Azarinth Healer,Rhaegar
+2020-05-21,3083,Chapter 461 Infiltration,Azarinth Healer,Rhaegar
+2020-05-23,3089,Chapter 462 Mark of Trust,Azarinth Healer,Rhaegar
+2020-05-26,3067,Chapter 463 Quest,Azarinth Healer,Rhaegar
+2020-05-28,3097,Chapter 464 Thresholds,Azarinth Healer,Rhaegar
+2020-05-30,3170,Chapter 465 Moving Pieces,Azarinth Healer,Rhaegar
+2020-05-31,3253,Chapter 466 Bells of War,Azarinth Healer,Rhaegar
+2020-06-02,3211,Chapter 467 Shadow,Azarinth Healer,Rhaegar
+2020-06-02,3133,Chapter 468 Lilith,Azarinth Healer,Rhaegar
+2020-06-03,3044,Chapter 469 Aftermath,Azarinth Healer,Rhaegar
+2020-06-04,2935,Chapter 470 Reinforcements,Azarinth Healer,Rhaegar
+2020-06-05,3092,Chapter 471 Shadows,Azarinth Healer,Rhaegar
+2020-06-06,3083,Chapter 472 Expectations,Azarinth Healer,Rhaegar
+2020-06-09,3206,Chapter 473 Practice,Azarinth Healer,Rhaegar
+2020-06-10,3029,Chapter 474 Guardian,Azarinth Healer,Rhaegar
+2020-06-11,2996,Chapter 475 Possibilities,Azarinth Healer,Rhaegar
+2020-06-12,3246,Chapter 476 Baking,Azarinth Healer,Rhaegar
+2020-06-13,3804,Chapter 477 The Way of the Sentinel,Azarinth Healer,Rhaegar
+2020-06-16,3081,Chapter 478 Inquiries,Azarinth Healer,Rhaegar
+2020-06-17,3183,Chapter 479 Reminiscing,Azarinth Healer,Rhaegar
+2020-06-18,3000,Chapter 480 Requirements,Azarinth Healer,Rhaegar
+2020-06-18,3264,Chapter 481 Choices,Azarinth Healer,Rhaegar
+2020-06-19,3078,Chapter 482 Experimentation,Azarinth Healer,Rhaegar
+2020-06-20,3054,Chapter 483 Training,Azarinth Healer,Rhaegar
+2020-06-23,3309,Chapter 484 Noble Ideas,Azarinth Healer,Rhaegar
+2020-06-24,3119,Chapter 485 The Three Shadows,Azarinth Healer,Rhaegar
+2020-06-25,3141,Chapter 486 Excursion,Azarinth Healer,Rhaegar
+2020-06-26,3049,Chapter 487 Fame and Confusion,Azarinth Healer,Rhaegar
+2020-06-27,3357,Chapter 488 Woman vs Machine,Azarinth Healer,Rhaegar
+2020-06-30,3462,Chapter 489 Arcane Energy,Azarinth Healer,Rhaegar
+2020-07-01,3291,Chapter 490 Client,Azarinth Healer,Rhaegar
+2020-07-02,3005,Chapter 491 Reminiscence,Azarinth Healer,Rhaegar
+2020-07-03,3089,Chapter 492 Arrangements,Azarinth Healer,Rhaegar
+2020-07-04,3072,Chapter 493 Influence,Azarinth Healer,Rhaegar
+2020-07-07,3126,Chapter 494 Toys and Theatrics,Azarinth Healer,Rhaegar
+2020-07-08,3501,Chapter 495 Cake and Tea?,Azarinth Healer,Rhaegar
+2020-07-09,3134,Chapter 496 Assignment,Azarinth Healer,Rhaegar
+2020-07-10,3076,Chapter 497 Ruins,Azarinth Healer,Rhaegar
+2020-07-11,3181,Chapter 498 Water,Azarinth Healer,Rhaegar
+2020-07-14,3073,Chapter 499 Briefing,Azarinth Healer,Rhaegar
+2020-07-15,3043,Chapter 500 Invasion,Azarinth Healer,Rhaegar
+2020-07-16,3065,Chapter 501st Ilea’s Fist,Azarinth Healer,Rhaegar
+2020-07-17,3106,Chapter 502 Destroyers,Azarinth Healer,Rhaegar
+2020-07-18,3055,Chapter 503 Questions,Azarinth Healer,Rhaegar
+2020-07-21,3051,Chapter 504 Fractures,Azarinth Healer,Rhaegar
+2020-07-22,3062,Chapter 505 Golden Boy,Azarinth Healer,Rhaegar
+2020-07-23,2987,Chapter 506 Intervention,Azarinth Healer,Rhaegar
+2020-07-24,3279,Chapter 507 Impressions,Azarinth Healer,Rhaegar
+2020-07-25,3081,Chapter 508 A hunch,Azarinth Healer,Rhaegar
+2020-07-28,3204,Chapter 509 Revenge,Azarinth Healer,Rhaegar
+2020-07-29,3095,Chapter 510 Messy Solutions?,Azarinth Healer,Rhaegar
+2020-07-30,3266,Chapter 511 Infiltration,Azarinth Healer,Rhaegar
+2020-07-31,3112,Chapter 512 Myth,Azarinth Healer,Rhaegar
+2020-08-01,3052,Chapter 513 Alchemy,Azarinth Healer,Rhaegar
+2020-08-04,3164,Chapter 514 Seeking the Faithful,Azarinth Healer,Rhaegar
+2020-08-05,3272,Chapter 515 Discovery,Azarinth Healer,Rhaegar
+2020-08-06,3093,Chapter 516 Mess,Azarinth Healer,Rhaegar
+2020-08-07,3092,Chapter 517 Pirates,Azarinth Healer,Rhaegar
+2020-08-08,3128,Chapter 518 Road Construction,Azarinth Healer,Rhaegar
+2020-08-11,3252,Chapter 519 Catching up,Azarinth Healer,Rhaegar
+2020-08-12,3097,Chapter 520 Rituals,Azarinth Healer,Rhaegar
+2020-08-13,3254,Chapter 521 Warriors,Azarinth Healer,Rhaegar
+2020-08-16,3300,Chapter 522 Mantises – Manti – Mantuu?,Azarinth Healer,Rhaegar
+2020-08-19,3137,Chapter 523 To the Bone,Azarinth Healer,Rhaegar
+2020-08-21,3252,Chapter 524 Loss,Azarinth Healer,Rhaegar
+2020-08-22,3235,Chapter 525 Diverging Possibilities,Azarinth Healer,Rhaegar
+2020-08-25,3109,Chapter 526 Progression and Possibilities,Azarinth Healer,Rhaegar
+2020-08-26,3151,Chapter 527 Species,Azarinth Healer,Rhaegar
+2020-08-27,3201,Chapter 528 Meadow,Azarinth Healer,Rhaegar
+2020-08-29,3083,Chapter 529 Deadly Spirits?,Azarinth Healer,Rhaegar
+2020-09-01,3094,Chapter 530 Dangerzone,Azarinth Healer,Rhaegar
+2020-09-02,3163,Chapter 531 The days ahead,Azarinth Healer,Rhaegar
+2020-09-03,3078,Chapter 532 Activities,Azarinth Healer,Rhaegar
+2020-09-05,3197,Chapter 533 Arrangements,Azarinth Healer,Rhaegar
+2020-09-05,3116,Chapter 534 Escort Mission,Azarinth Healer,Rhaegar
+2020-09-08,3587,"Chapter 535 This is a litrpg, in case you forgot",Azarinth Healer,Rhaegar
+2020-09-09,3170,Chapter 536 Storm,Azarinth Healer,Rhaegar
+2020-09-10,3284,Chapter 537 Foxy,Azarinth Healer,Rhaegar
+2020-09-11,3167,Chapter 538 Teleportation,Azarinth Healer,Rhaegar
+2020-09-12,3063,Chapter 539 Playtime,Azarinth Healer,Rhaegar
+2020-09-15,3155,Chapter 540 Puzzling,Azarinth Healer,Rhaegar
+2020-09-16,3070,Chapter 541 Beatdown,Azarinth Healer,Rhaegar
+2020-09-17,3094,Chapter 542 Docking,Azarinth Healer,Rhaegar
+2020-09-18,3159,Chapter 543 Training Training Training,Azarinth Healer,Rhaegar
+2020-09-19,3192,Chapter 544 Off the beaten path,Azarinth Healer,Rhaegar
+2020-09-22,3272,Chapter 545 Hunting,Azarinth Healer,Rhaegar
+2020-09-23,3215,Chapter 546 Of Gods and Myths,Azarinth Healer,Rhaegar
+2020-09-24,3086,Chapter 547 Challenger,Azarinth Healer,Rhaegar
+2020-09-25,3175,Chapter 548 Catching up,Azarinth Healer,Rhaegar
+2020-09-26,3246,Chapter 549 Arrival,Azarinth Healer,Rhaegar
+2020-09-26,3397,Chapter 550 Storm,Azarinth Healer,Rhaegar
+2020-09-29,3289,Chapter 551 A realm of wonder,Azarinth Healer,Rhaegar
+2020-09-30,3191,Chapter 552 Tourist Guide,Azarinth Healer,Rhaegar
+2020-10-02,3141,Chapter 553 Degrees of Monstrosity,Azarinth Healer,Rhaegar
+2020-10-03,3065,Chapter 554 Overleveled,Azarinth Healer,Rhaegar
+2020-10-06,3171,Chapter 555 Roots,Azarinth Healer,Rhaegar
+2020-10-07,3096,Chapter 556 Friends of old,Azarinth Healer,Rhaegar
+2020-10-09,3133,Chapter 557 Contenders,Azarinth Healer,Rhaegar
+2020-10-10,3091,Chapter 558 Normal Exams,Azarinth Healer,Rhaegar
+2020-10-13,3098,Chapter 559 Experience,Azarinth Healer,Rhaegar
+2020-10-14,3113,Chapter 560 Breakfast?,Azarinth Healer,Rhaegar
+2020-10-16,3102,Chapter 561 The very capable and cool divine tree that is awesome and definitely hasn’t taken over a,Azarinth Healer,Rhaegar
+2020-10-17,3055,Chapter 562 Stone,Azarinth Healer,Rhaegar
+2020-10-20,3151,Chapter 563 Boning,Azarinth Healer,Rhaegar
+2020-10-21,2956,Chapter 564 Uphill Battle,Azarinth Healer,Rhaegar
+2020-10-23,3039,Chapter 565 Perseverance,Azarinth Healer,Rhaegar
+2020-10-24,3100,Chapter 566 Concerns,Azarinth Healer,Rhaegar
+2020-10-27,3103,Chapter 567 Decisions,Azarinth Healer,Rhaegar
+2020-10-28,3123,Chapter 568 Reaping Rewards,Azarinth Healer,Rhaegar
+2020-10-30,3093,Chapter 569 Request,Azarinth Healer,Rhaegar
+2020-10-31,3052,Chapter 570 Fire Proof,Azarinth Healer,Rhaegar
+2020-11-03,3051,Chapter 571 Defenders,Azarinth Healer,Rhaegar
+2020-11-04,3091,Chapter 572 Training Considerations,Azarinth Healer,Rhaegar
+2020-11-06,3108,Chapter 573 Royal Reception,Azarinth Healer,Rhaegar
+2020-11-07,3122,Chapter 574 Younglings,Azarinth Healer,Rhaegar
+2020-11-10,3176,Chapter 575 Reunion,Azarinth Healer,Rhaegar
+2020-11-11,3121,Chapter 576 Feast,Azarinth Healer,Rhaegar
+2020-11-13,3057,Chapter 577 Flames,Azarinth Healer,Rhaegar
+2020-11-14,3164,Chapter 578 Expansion Pack (Pre order now for exclusive skins),Azarinth Healer,Rhaegar
+2020-11-17,3153,Chapter 579 Molten Steel,Azarinth Healer,Rhaegar
+2020-11-18,3181,Chapter 580 Mapping,Azarinth Healer,Rhaegar
+2020-11-20,3052,Chapter 581 Incinerate,Azarinth Healer,Rhaegar
+2020-11-21,3095,Chapter 582 Entanglement,Azarinth Healer,Rhaegar
+2020-11-24,3080,Chapter 583 Discoveries,Azarinth Healer,Rhaegar
+2020-11-25,3281,Chapter 584 Gates,Azarinth Healer,Rhaegar
+2020-11-27,3099,Chapter 585 Dungeons and depths,Azarinth Healer,Rhaegar
+2020-11-28,3228,Chapter 586 The Grind,Azarinth Healer,Rhaegar
+2020-12-01,3172,Chapter 587 Opportunity?,Azarinth Healer,Rhaegar
+2020-12-02,3049,Chapter 588 Writing,Azarinth Healer,Rhaegar
+2020-12-04,3079,Chapter 589 Some Lore for the Wiki,Azarinth Healer,Rhaegar
+2020-12-05,3110,Chapter 590 Magic Turtle,Azarinth Healer,Rhaegar
+2020-12-08,3147,Chapter 591 Proposals,Azarinth Healer,Rhaegar
+2020-12-09,3133,Chapter 592 Peculiar Meetings,Azarinth Healer,Rhaegar
+2020-12-11,3126,Chapter 593 Deus Ex Meadow,Azarinth Healer,Rhaegar
+2020-12-12,3052,Chapter 594 Beaming,Azarinth Healer,Rhaegar
+2020-09-12,3177,Chapter 1 Knight,Leaves of Terranthir,Rhaegar
+2020-09-14,3312,Chapter 2,Leaves of Terranthir,Rhaegar
+2020-09-15,3802,Chapter 3,Leaves of Terranthir,Rhaegar
+2020-09-16,3192,Chapter 4,Leaves of Terranthir,Rhaegar
+2020-09-17,2903,Chapter 5,Leaves of Terranthir,Rhaegar
+2020-09-24,3194,Chapter 6,Leaves of Terranthir,Rhaegar
+2020-09-26,3017,Chapter 7,Leaves of Terranthir,Rhaegar
+2020-09-27,3603,Chapter 8,Leaves of Terranthir,Rhaegar
+2020-09-29,3172,Chapter 9,Leaves of Terranthir,Rhaegar
+2020-10-08,3664,Chapter 10 Cardio,Leaves of Terranthir,Rhaegar
+2020-10-13,3124,Chapter 11 Execution,Leaves of Terranthir,Rhaegar
+2020-10-15,2998,Chapter 12 Cleaning up,Leaves of Terranthir,Rhaegar
+2020-10-22,3055,Chapter 13 Preparing an Expedition,Leaves of Terranthir,Rhaegar
+2020-10-29,3149,Chapter 14 Nightfall,Leaves of Terranthir,Rhaegar
+2020-11-05,3272,Chapter 15 Smoke,Leaves of Terranthir,Rhaegar
+2020-11-12,3081,Chapter 16 Instruction,Leaves of Terranthir,Rhaegar
+2020-11-20,2906,Chapter 17 Fight or Flight,Leaves of Terranthir,Rhaegar
+2020-11-26,2963,Chapter 18 Marbles,Leaves of Terranthir,Rhaegar
+2020-12-03,3086,Chapter 19 Leap of Desperation,Leaves of Terranthir,Rhaegar
+2020-12-10,3137,Chapter 20 Talk,Leaves of Terranthir,Rhaegar
+2018-03-02,1218,Chapter 1 Beginnings,Red,Rhaegar
+2018-03-02,3198,Chapter 2 Excursion,Red,Rhaegar
+2018-03-03,1496,Chapter 3 Shifter,Red,Rhaegar
+2018-03-03,1771,Chapter 4 Stories,Red,Rhaegar
+2018-03-11,2588,Chapter 5 Mock battle,Red,Rhaegar
+2018-03-11,2181,Chapter 6 Fire,Red,Rhaegar
+2018-03-11,2078,Chapter 7 Awakening,Red,Rhaegar
+2018-03-11,1939,Chapter 8 Hideout,Red,Rhaegar
+2018-03-11,1998,Chapter 9 Escape?,Red,Rhaegar
+2018-03-11,2104,Chapter 10 Yes apparently I'm into caves,Red,Rhaegar
+2018-03-24,2222,Chapter 11,Red,Rhaegar
+2018-03-24,1815,Chapter 12,Red,Rhaegar
+2018-03-24,1894,Chapter 13,Red,Rhaegar
+2018-03-24,2026,Chapter 14,Red,Rhaegar
+2018-03-24,2331,Chapter 15,Red,Rhaegar
+2018-03-24,2446,Chapter 16,Red,Rhaegar
+2018-03-24,2103,Chapter 17,Red,Rhaegar
+2018-03-24,2063,Chapter 18,Red,Rhaegar
+2018-03-24,1979,Chapter 19,Red,Rhaegar
+2018-03-24,1334,Chapter 20,Red,Rhaegar
+2015-10-09,630,Prologue,Dawn,Rhaegar
+2015-10-09,1681,Chapter 1,Dawn,Rhaegar
+2015-10-10,1045,Chapter 2,Dawn,Rhaegar
+2015-10-11,957,Chapter 3,Dawn,Rhaegar
+2015-10-12,898,Chapter 4,Dawn,Rhaegar
+2015-10-14,2776,Chapter 5,Dawn,Rhaegar
+2015-10-14,4505,Chapter 6,Dawn,Rhaegar
+2015-10-14,1259,Chapter 7,Dawn,Rhaegar
+2015-10-15,1951,Chapter 8,Dawn,Rhaegar
+2015-10-16,1637,Chapter 9,Dawn,Rhaegar
+2015-10-16,2370,Chapter 10,Dawn,Rhaegar
+2015-10-17,1717,Chapter 11,Dawn,Rhaegar
+2015-10-17,1867,Chapter 12,Dawn,Rhaegar
+2015-10-17,1961,Chapter 13,Dawn,Rhaegar
+2015-10-18,2244,Chapter 14,Dawn,Rhaegar
+2015-10-18,1816,Chapter 15,Dawn,Rhaegar
+2015-10-19,3686,Chapter 16,Dawn,Rhaegar
